@@ -1,0 +1,251 @@
+body {
+	background-color: #f7ce5b;
+	color: #666;
+  margin: 0 auto;
+	max-width: 1038px;
+}
+
+h3 {
+	color: #7fa20e;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 36px;
+}
+
+a {
+	color: #c60;
+}
+
+a:focus,
+a:hover {
+	color: #c60;
+}
+
+.jumbotron {
+	background-color: inherit;
+	text-align: center;
+	padding: 0;
+}
+
+.jumbotron img {
+	max-width: 50%;
+}
+
+.progress {
+	height: 16px;
+}
+.progress-bar {
+	background-color: #de6b48;
+	width: 100%;
+}
+
+.close {
+	font-size: 28px;
+	line-height: inherit;
+}
+
+.navbar {
+	background-color: transparent;
+	border: none;
+	margin-bottom: 0;
+}
+.navbar-brand {
+	height: 66px;
+	padding: 0 10px;
+}
+.navbar-brand img {
+	width: 66px;
+}
+.navbar-btn {
+	background-color: transparent !important;
+	border: 0;
+	color: #7fa20e;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 24px;
+	height: 66px;
+	margin: 0;
+	padding: 16px 8px;
+}
+.navbar-btn.btn-default:hover,
+.navbar-btn.btn-default:active,
+.navbar-btn.btn-default:focus {
+	color: #7fa20e;
+}
+.navbar-btn .glyphicon {
+	font-size: 18px;
+}
+
+.btn-help:after {
+	content: " HELP";
+}
+.btn-login:after {
+	content: " LOGIN";
+}
+.btn-map:after {
+	content: " MAP";
+}
+.authenticated .btn-login {
+	color: #de6b48;
+}
+.authenticated .btn-login:after {
+	content: " LOGOUT";
+}
+
+.btn-untappd {
+	background-color: #ffcc00;
+	color: #fff;
+	font-weight: bold;
+}
+.btn-untappd:hover,
+.btn-untappd:focus,
+.btn-untappd:active,
+.btn-untappd.active {
+	background-color: #e6b800;
+	border-color: #e6b800;
+}
+
+.btn-inline {
+	margin-top: -4px;
+	padding: 0 5px;
+}
+
+.input-clear {
+	bottom: 0;
+	color: #333;
+	cursor: pointer;
+	font-size: 14px;
+	height: 31px;
+	line-height: 33px;
+	margin: auto;
+	opacity: 0.4;
+	position: absolute;
+	right: 0;
+	text-align: center;
+	top: 0;
+	width: 31px;
+	z-index: 2;
+}
+
+.input-clear:hover,
+.input-clear:focus {
+	opacity: 1;
+}
+
+.badge {
+	background-color: #7fa20e;
+}
+
+.label-success {
+	background-color: #7fa20e;
+}
+.label-warning {
+	background-color: #ff9933;
+}
+
+.panel-primary {
+	border: none;
+	border-top: solid 12px #de6b48;
+}
+
+.panel-primary > .panel-heading {
+	background-color: #fff;
+	border-color: #de6b48;
+}
+
+.panel-title {
+	color: #7fa20e;
+	font-size: 26px;
+	text-transform: uppercase;
+}
+
+.capitalize {
+	text-transform: capitalize;
+}
+
+#view-table table th {
+	cursor: pointer;
+}
+
+#view-table table th span.heading {
+	border-bottom: dashed 1px #c60;
+}
+
+#view-table table th span.glyphicon {
+	color: #c60;
+	font-size: 10px;
+}
+
+#view-table .table > tbody > tr > td {
+	padding: 10px 8px;
+}
+
+#view-table table td > div {
+	max-width: 200px;
+	min-width: 100px;
+	white-space: normal;
+}
+
+.rating-disabled {
+	cursor: initial;
+}
+
+.rating-xs {
+	font-size: 1.75em;
+}
+
+.rating-container {
+	color: rgba(51, 51, 51, 0.4);
+}
+
+.rating-container .rating-stars {
+	color: #ffcc00;
+}
+
+.beerLabel {
+	float: right;
+	margin: 0 0 5px 10px;
+	max-width: 100px;
+}
+
+.beerSearch {
+	cursor: pointer;
+}
+
+.attribution {
+	padding-bottom: 15px;
+}
+.attribution a {
+	color: #7fa20e;
+}
+
+a.topscroller {
+	background-color: #7fa20e;
+	border-radius: 3px;
+	bottom: 20px;
+	color: #fff;
+	height: 38px;
+	opacity: 0;
+	padding: 10px 12px;
+	position: fixed;
+	right: 20px;
+	visibility: hidden;
+	width: 38px;
+	z-index: 999;
+	-webkit-transition: all 0.5s ease-in-out;
+					transition: all 0.5s ease-in-out;
+}
+a.topscroller.active {
+	opacity: 0.5;
+	visibility: visible;
+}
+a.topscroller.active:hover {
+	opacity: 1;
+}
+
+.appicon {
+	border: solid 1px #666;
+	border-radius: 20px;
+	display: block;
+	height: auto;
+	margin: 0 auto;
+	width: 120px;
+}
