@@ -85,7 +85,7 @@
       },
       {
        "pod": "A",
-       "name": "Eetah! IPA",
+       "name": "Ee Tah! IPA",
        "addl": "",
        "brewery": "Anderson Valley Brewing Company",
        "style": "American IPA",
@@ -266,7 +266,7 @@
       {
        "pod": "C",
        "name": "Partner Ships: Olde Ale",
-       "addl": "Heavy Seas / Union",
+       "addl": "Heavy Seas / Union Collab",
        "brewery": "Heavy Seas Beer",
        "style": "Old Ale",
        "abv": 8.5,
@@ -526,7 +526,7 @@
       },
       {
        "pod": "E",
-       "name": "Intervals Mandarina Bavaria",
+       "name": "Intervals - Mandarina Bavaria",
        "addl": "",
        "brewery": "South County Brewing Co.",
        "style": "American Pale Ale",
@@ -788,7 +788,7 @@
       {
        "pod": "H",
        "name": "Oktoberfest",
-       "addl": "Otter Creek / Camba Bavaria",
+       "addl": "Otter Creek / Camba Bavaria Collab",
        "brewery": "Otter Creek Brewing",
        "style": "Märzen/Oktoberfest",
        "abv": 5.5,
