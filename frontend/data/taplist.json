@@ -103,15 +103,6 @@
       },
       {
        "pod": "A",
-       "name": "Frontside Lipslide",
-       "addl": "",
-       "brewery": "Pizza Boy Brewing Co.",
-       "style": "American Double/Imperial IPA",
-       "abv": 10.0,
-       "ba": 89
-      },
-      {
-       "pod": "A",
        "name": "Rye Beer Sucks!",
        "addl": "",
        "brewery": "Pizza Boy Brewing Co.",
@@ -166,21 +157,21 @@
       },
       {
        "pod": "B",
-       "name": "",
+       "name": "Silent Disco",
        "addl": "",
        "brewery": "Funk Brewing",
-       "style": "",
-       "abv": null,
-       "ba": null
+       "style": "American IPA",
+       "abv": 6.8,
+       "ba": 90
       },
       {
        "pod": "B",
-       "name": "",
+       "name": "Falliage",
        "addl": "",
        "brewery": "Funk Brewing",
-       "style": "",
-       "abv": null,
-       "ba": null
+       "style": "Märzen/Oktoberfest",
+       "abv": 5.7,
+       "ba": 82
       },
       {
        "pod": "B",
@@ -400,15 +391,6 @@
       },
       {
        "pod": "D",
-       "name": "S.K.U.L.L. Series #1 Coconut Coffee Porter",
-       "addl": "",
-       "brewery": "Spring House Brewing Company",
-       "style": "American Porter",
-       "abv": 8.3,
-       "ba": null
-      },
-      {
-       "pod": "D",
        "name": "Oktoberfest",
        "addl": "",
        "brewery": "Great Lakes Brewing Company",
@@ -617,10 +599,19 @@
       {
        "pod": "F",
        "name": "Offering #32: Chocolate Porter",
-       "addl": "",
+       "addl": "With Nibs and Vanilla Beans",
        "brewery": "St. Boniface Craft Brewing Co.",
        "style": "American Porter",
        "abv": 6.0,
+       "ba": null
+      },
+      {
+       "pod": "F",
+       "name": "Offering #37: Session Zero",
+       "addl": "",
+       "brewery": "St. Boniface Craft Brewing Co.",
+       "style": "American IPA",
+       "abv": 4.9,
        "ba": null
       },
       {
@@ -698,9 +689,9 @@
       {
        "pod": "G",
        "name": "Black Forest Cake Stout with Cherry",
-       "addl": "",
+       "addl": "Blackboard #7",
        "brewery": "Victory Brewing Company",
-       "style": "",
+       "style": "American Stout",
        "abv": 7.5,
        "ba": null
       },
@@ -718,7 +709,7 @@
        "name": "Charlietown Trail Ale",
        "addl": "",
        "brewery": "Levante Brewing Company",
-       "style": "",
+       "style": "American Pale Ale",
        "abv": 5.0,
        "ba": null
       },
@@ -751,20 +742,38 @@
       },
       {
        "pod": "G",
-       "name": "",
+       "name": "Barn Dance Blonde Ale",
        "addl": "",
        "brewery": "Turkey Hill Brewing Co.",
-       "style": "",
-       "abv": null,
+       "style": "Kölsch",
+       "abv": 4.5,
        "ba": null
       },
       {
        "pod": "G",
-       "name": "",
+       "name": "What The Helles?",
        "addl": "",
        "brewery": "Turkey Hill Brewing Co.",
-       "style": "",
-       "abv": null,
+       "style": "Maibock/Helles Bock",
+       "abv": 5.4,
+       "ba": null
+      },
+      {
+       "pod": "G",
+       "name": "Midsummer's Night Saison",
+       "addl": "",
+       "brewery": "Turkey Hill Brewing Co.",
+       "style": "Saison/Farmhouse Ale",
+       "abv": 6.8,
+       "ba": null
+      },
+      {
+       "pod": "G",
+       "name": "Journeyman IPA",
+       "addl": "",
+       "brewery": "Turkey Hill Brewing Co.",
+       "style": "American IPA",
+       "abv": 7.0,
        "ba": null
       },
       {
@@ -931,20 +940,56 @@
       },
       {
        "pod": "I",
-       "name": "Homunculus",
+       "name": "Jazz Hands",
        "addl": "",
        "brewery": "Collusion Tap Works",
-       "style": "American Double/Imperial IPA",
-       "abv": 8.0,
-       "ba": 84
+       "style": "American IPA",
+       "abv": 5.5,
+       "ba": null
       },
       {
        "pod": "I",
-       "name": "Raisins and Spice",
+       "name": "All Fudged Up",
        "addl": "",
        "brewery": "Collusion Tap Works",
-       "style": "Imperial Brown Ale",
-       "abv": 7.5,
+       "style": "American Double/Imperial Stout",
+       "abv": 10.5,
+       "ba": null
+      },
+      {
+       "pod": "I",
+       "name": "Peach River",
+       "addl": "",
+       "brewery": "Collusion Tap Works",
+       "style": "Norwegian Farmhouse Ale",
+       "abv": 5.4,
+       "ba": null
+      },
+      {
+       "pod": "I",
+       "name": "Constant Flex",
+       "addl": "",
+       "brewery": "Collusion Tap Works",
+       "style": "American IPA",
+       "abv": 6.6,
+       "ba": null
+      },
+      {
+       "pod": "I",
+       "name": "Mexican Harlequin",
+       "addl": "",
+       "brewery": "Collusion Tap Works",
+       "style": "Porter - Imperial/Double",
+       "abv": 9.0,
+       "ba": null
+      },
+      {
+       "pod": "I",
+       "name": "Bourbon Harlequin",
+       "addl": "",
+       "brewery": "Collusion Tap Works",
+       "style": "Porter - Imperial/Double",
+       "abv": 9.0,
        "ba": null
       },
       {
@@ -1129,7 +1174,7 @@
       },
       {
        "pod": "K",
-       "name": "Belgian White",
+       "name": "Fat Tire Belgian White",
        "addl": "",
        "brewery": "New Belgium Brewing Company",
        "style": "Witbier",
@@ -1255,11 +1300,11 @@
       },
       {
        "pod": "L",
-       "name": "G2Xv3 DIPA",
+       "name": "Nothing Gose as Planned - Peach",
        "addl": "",
        "brewery": "Chatty Monks Brewing Company",
-       "style": "American Double/Imperial IPA",
-       "abv": 8.6,
+       "style": "Gose",
+       "abv": 5.5,
        "ba": null
       },
       {
@@ -1290,6 +1335,6 @@
        "ba": null
       }
     ],
-    "timestamp": "2017-09-16T02:06:30.755Z"
+    "timestamp": "2017-09-20T21:55:56.716Z"
   }
 ]
