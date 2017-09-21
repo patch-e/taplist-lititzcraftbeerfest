@@ -634,12 +634,12 @@
       },
       {
        "pod": "F",
-       "name": "Big Black Voodoo Daddy",
+       "name": "Hoodoo",
        "addl": "",
        "brewery": "VooDoo Brewing Company",
-       "style": "American Double/Imperial Stout",
-       "abv": 12.5,
-       "ba": 93,
+       "style": "American IPA",
+       "abv": 7.3,
+       "ba": 72,
        "order": 64
       },
       {
