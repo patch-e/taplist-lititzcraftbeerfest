@@ -1067,7 +1067,7 @@
        "name": "Peach River",
        "addl": "",
        "brewery": "Collusion Tap Works",
-       "style": "Norwegian Farmhouse Ale",
+       "style": "Saison/Farmhouse Ale",
        "abv": 5.4,
        "ba": null,
        "order": 107
@@ -1474,7 +1474,7 @@
       },
       {
        "pod": "L",
-       "name": "Zombie Apocolititz Ale",
+       "name": "Zombie Apoca-Lititz",
        "addl": "",
        "brewery": "Appalachian Brewing Company",
        "style": "American Amber/Red Ale",
