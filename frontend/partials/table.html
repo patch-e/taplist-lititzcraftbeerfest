@@ -21,7 +21,7 @@
                     </tr>
                 </thead>
                 <tbody>
-                    <tr class="beerSearch" data-ng-repeat="beer in filteredBeers = (beerList.beers | filter: searchFilter | orderBy: [beerList.sort.column, 'brewery', 'name'] : beerList.sort.descending)" data-ng-click="vm.search(beer)">
+                    <tr class="beerSearch" data-ng-repeat="beer in filteredBeers = (beerList.beers | filter: searchFilter | orderBy: [beerList.sort.column, 'order', 'brewery', 'name'] : beerList.sort.descending)" data-ng-click="vm.search(beer)">
                         <td><span class="badge">{{beer.pod}}</span></td>
                         <td>
                             <div><b>{{beer.name}}</b></div>
