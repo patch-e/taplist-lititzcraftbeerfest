@@ -334,7 +334,7 @@
       },
       {
        "pod": "D",
-       "name": "Micromanager",
+       "name": "Micro Manager",
        "addl": "",
        "brewery": "Free Will Brewing Co.",
        "style": "American Pale Ale",
@@ -614,11 +614,11 @@
       },
       {
        "pod": "F",
-       "name": "Barrel Aged Reserve",
+       "name": "Farmhouse",
        "addl": "",
        "brewery": "Big Hill Ciderworks",
        "style": "Hard Cider",
-       "abv": 8.4,
+       "abv": 7.0,
        "ba": null,
        "order": 62
       },
@@ -1424,12 +1424,12 @@
       },
       {
        "pod": "L",
-       "name": "Shoo-Fly Pie Porter",
+       "name": "Oktoberfest",
        "addl": "",
        "brewery": "Lancaster Brewing Company",
-       "style": "English Porter",
-       "abv": 6.2,
-       "ba": 84,
+       "style": "Märzen/Oktoberfest",
+       "abv": 5.2,
+       "ba": null,
        "order": 143
       },
       {
