@@ -1,0 +1,1488 @@
+[
+  {
+    "title": "tap list",
+    "beers": [
+      {
+       "pod": "A",
+       "name": "Mass Rising",
+       "addl": "",
+       "brewery": "Jack's Abby Brewing",
+       "style": "American Double/Imperial Pilsner",
+       "abv": 8.0,
+       "ba": 94,
+       "order": 1
+      },
+      {
+       "pod": "A",
+       "name": "Cranberry Berliner",
+       "addl": "",
+       "brewery": "Jack's Abby Brewing",
+       "style": "Berliner Weissbier",
+       "abv": 3.5,
+       "ba": 86,
+       "order": 2
+      },
+      {
+       "pod": "A",
+       "name": "Smoke & Dagger",
+       "addl": "",
+       "brewery": "Jack's Abby Brewing",
+       "style": "Rauchbier",
+       "abv": 5.8,
+       "ba": 90,
+       "order": 3
+      },
+      {
+       "pod": "A",
+       "name": "Palate Shifter",
+       "addl": "",
+       "brewery": "Captain Lawrence Brewing Company",
+       "style": "American Double/Imperial IPA",
+       "abv": 9.0,
+       "ba": 92,
+       "order": 4
+      },
+      {
+       "pod": "A",
+       "name": "Barrel Select Green",
+       "addl": "",
+       "brewery": "Captain Lawrence Brewing Company",
+       "style": "American Wild Ale",
+       "abv": 6.5,
+       "ba": 86,
+       "order": 5
+      },
+      {
+       "pod": "A",
+       "name": "Golden Delicious",
+       "addl": "",
+       "brewery": "Captain Lawrence Brewing Company",
+       "style": "Tripel",
+       "abv": 11.0,
+       "ba": 88,
+       "order": 6
+      },
+      {
+       "pod": "A",
+       "name": "The Truth",
+       "addl": "",
+       "brewery": "Flying Dog Brewery",
+       "style": "American Double/Imperial IPA",
+       "abv": 8.7,
+       "ba": 91,
+       "order": 7
+      },
+      {
+       "pod": "A",
+       "name": "Sunflower Pilsner",
+       "addl": "Brewhouse Rarities",
+       "brewery": "Flying Dog Brewery",
+       "style": "Czech Pilsner",
+       "abv": 5.2,
+       "ba": 85,
+       "order": 8
+      },
+      {
+       "pod": "A",
+       "name": "The Fear",
+       "addl": "",
+       "brewery": "Flying Dog Brewery",
+       "style": "Pumpkin Ale",
+       "abv": 9.0,
+       "ba": 83,
+       "order": 9
+      },
+      {
+       "pod": "A",
+       "name": "Ee Tah! IPA",
+       "addl": "",
+       "brewery": "Anderson Valley Brewing Company",
+       "style": "American IPA",
+       "abv": 6.5,
+       "ba": 85,
+       "order": 10
+      },
+      {
+       "pod": "A",
+       "name": "Briney  Melon Gose",
+       "addl": "",
+       "brewery": "Anderson Valley Brewing Company",
+       "style": "Gose",
+       "abv": 4.2,
+       "ba": 87,
+       "order": 11
+      },
+      {
+       "pod": "A",
+       "name": "Rye Beer Sucks!",
+       "addl": "",
+       "brewery": "Pizza Boy Brewing Co.",
+       "style": "American IPA",
+       "abv": 6.0,
+       "ba": 88,
+       "order": 12
+      },
+      {
+       "pod": "A",
+       "name": "Brewery Pilsner",
+       "addl": "",
+       "brewery": "Pizza Boy Brewing Co.",
+       "style": "German Pilsener",
+       "abv": 4.6,
+       "ba": null,
+       "order": 13
+      },
+      {
+       "pod": "B",
+       "name": "CitraSqueeze",
+       "addl": "",
+       "brewery": "HiJinx Brewing Company",
+       "style": "American IPA",
+       "abv": 6.5,
+       "ba": 85,
+       "order": 14
+      },
+      {
+       "pod": "B",
+       "name": "Far Darrig",
+       "addl": "",
+       "brewery": "HiJinx Brewing Company",
+       "style": "Irish Red Ale",
+       "abv": 5.5,
+       "ba": null,
+       "order": 15
+      },
+      {
+       "pod": "B",
+       "name": "Cold Press Coffee Pumking",
+       "addl": "",
+       "brewery": "Southern Tier Brewing Company",
+       "style": "Pumpkin Ale",
+       "abv": 8.6,
+       "ba": 87,
+       "order": 16
+      },
+      {
+       "pod": "B",
+       "name": "Nu Skool IPA",
+       "addl": "",
+       "brewery": "Southern Tier Brewing Company",
+       "style": "American IPA",
+       "abv": 6.0,
+       "ba": 88,
+       "order": 17
+      },
+      {
+       "pod": "B",
+       "name": "Silent Disco",
+       "addl": "",
+       "brewery": "Funk Brewing",
+       "style": "American IPA",
+       "abv": 6.8,
+       "ba": 90,
+       "order": 18
+      },
+      {
+       "pod": "B",
+       "name": "Falliage",
+       "addl": "",
+       "brewery": "Funk Brewing",
+       "style": "Märzen/Oktoberfest",
+       "abv": 5.7,
+       "ba": 82,
+       "order": 19
+      },
+      {
+       "pod": "B",
+       "name": "Dale's Pale Ale",
+       "addl": "",
+       "brewery": "Oskar Blues Brewery",
+       "style": "American Pale Ale",
+       "abv": 6.5,
+       "ba": 88,
+       "order": 20
+      },
+      {
+       "pod": "B",
+       "name": "Old Chub",
+       "addl": "Scottish Style Ale",
+       "brewery": "Oskar Blues Brewery",
+       "style": "Scotch Ale/Wee Heavy",
+       "abv": 8.0,
+       "ba": 90,
+       "order": 21
+      },
+      {
+       "pod": "B",
+       "name": "White Oak Jai Alai IPA",
+       "addl": "",
+       "brewery": "Cigar City Brewing",
+       "style": "American IPA",
+       "abv": 7.5,
+       "ba": 92,
+       "order": 22
+      },
+      {
+       "pod": "B",
+       "name": "Maduro Brown Ale",
+       "addl": "",
+       "brewery": "Cigar City Brewing",
+       "style": "English Brown Ale",
+       "abv": 5.5,
+       "ba": 88,
+       "order": 23
+      },
+      {
+       "pod": "C",
+       "name": "Mosaic Pale Ale",
+       "addl": "",
+       "brewery": "JoBoy's Brew Pub",
+       "style": "American Pale Ale",
+       "abv": 5.0,
+       "ba": null,
+       "order": 24
+      },
+      {
+       "pod": "C",
+       "name": "Oatmeal Stout",
+       "addl": "",
+       "brewery": "JoBoy's Brew Pub",
+       "style": "Sweet/Oatmeal Stout",
+       "abv": 5.5,
+       "ba": null,
+       "order": 25
+      },
+      {
+       "pod": "C",
+       "name": "Tuna Extra Pale Ale",
+       "addl": "",
+       "brewery": "Half Acre Beer Company",
+       "style": "American Pale Ale",
+       "abv": 4.7,
+       "ba": 88,
+       "order": 26
+      },
+      {
+       "pod": "C",
+       "name": "Daisy Cutter Pale Ale",
+       "addl": "",
+       "brewery": "Half Acre Beer Company",
+       "style": "American Pale Ale",
+       "abv": 5.2,
+       "ba": 93,
+       "order": 27
+      },
+      {
+       "pod": "C",
+       "name": "Winter Storm",
+       "addl": "",
+       "brewery": "Heavy Seas Beer",
+       "style": "Extra Special/Strong Bitter",
+       "abv": 7.5,
+       "ba": 86,
+       "order": 28
+      },
+      {
+       "pod": "C",
+       "name": "Partner Ships: Olde Ale",
+       "addl": "Heavy Seas / Union Collab",
+       "brewery": "Heavy Seas Beer",
+       "style": "Old Ale",
+       "abv": 8.5,
+       "ba": 85,
+       "order": 29
+      },
+      {
+       "pod": "C",
+       "name": "Opening Day IPA",
+       "addl": "",
+       "brewery": "Snitz Creek Brewery",
+       "style": "American IPA",
+       "abv": 6.0,
+       "ba": 85,
+       "order": 30
+      },
+      {
+       "pod": "C",
+       "name": "Blueberry Cream Ale",
+       "addl": "",
+       "brewery": "Snitz Creek Brewery",
+       "style": "Cream Ale",
+       "abv": 5.0,
+       "ba": 84,
+       "order": 31
+      },
+      {
+       "pod": "C",
+       "name": "East Pete Pilsner",
+       "addl": "",
+       "brewery": "Mad Chef Craft Brewing",
+       "style": "German Pilsener",
+       "abv": 4.8,
+       "ba": null,
+       "order": 32
+      },
+      {
+       "pod": "C",
+       "name": "Fresh Hop RYE PA",
+       "addl": "",
+       "brewery": "Mad Chef Craft Brewing",
+       "style": "Rye IPA",
+       "abv": 6.5,
+       "ba": null,
+       "order": 33
+      },
+      {
+       "pod": "D",
+       "name": "Micro Manager",
+       "addl": "",
+       "brewery": "Free Will Brewing Co.",
+       "style": "American Pale Ale",
+       "abv": 4.8,
+       "ba": 83,
+       "order": 34
+      },
+      {
+       "pod": "D",
+       "name": "Brown Beard",
+       "addl": "",
+       "brewery": "Free Will Brewing Co.",
+       "style": "American Brown Ale",
+       "abv": 10.8,
+       "ba": 89,
+       "order": 35
+      },
+      {
+       "pod": "D",
+       "name": "Joose Juicy",
+       "addl": "",
+       "brewery": "Ever Grain Brewing Co.",
+       "style": "American IPA",
+       "abv": 6.0,
+       "ba": 86,
+       "order": 36
+      },
+      {
+       "pod": "D",
+       "name": "Oktoberphest",
+       "addl": "",
+       "brewery": "Ever Grain Brewing Co.",
+       "style": "Märzen/Oktoberfest",
+       "abv": 6.3,
+       "ba": null,
+       "order": 37
+      },
+      {
+       "pod": "D",
+       "name": "Camp Pils",
+       "addl": "",
+       "brewery": "Ever Grain Brewing Co.",
+       "style": "German Pilsener",
+       "abv": 5.0,
+       "ba": null,
+       "order": 38
+      },
+      {
+       "pod": "D",
+       "name": "Blood Trail Bock",
+       "addl": "",
+       "brewery": "Cox Brewing Company (CBC)",
+       "style": "Doppelbock",
+       "abv": 7.0,
+       "ba": null,
+       "order": 39
+      },
+      {
+       "pod": "D",
+       "name": "Old Abe's Double IPA",
+       "addl": "",
+       "brewery": "Cox Brewing Company (CBC)",
+       "style": "American Double/Imperial IPA",
+       "abv": 8.6,
+       "ba": null,
+       "order": 40
+      },
+      {
+       "pod": "D",
+       "name": "Fat Cow Coffee Porter",
+       "addl": "",
+       "brewery": "Cox Brewing Company (CBC)",
+       "style": "Baltic Porter",
+       "abv": 7.5,
+       "ba": null,
+       "order": 41
+      },
+      {
+       "pod": "D",
+       "name": "Big Gruesome Peanut Butter Chocolate Stout",
+       "addl": "",
+       "brewery": "Spring House Brewing Company",
+       "style": "American Double/Imperial Stout",
+       "abv": 8.0,
+       "ba": 91,
+       "order": 42
+      },
+      {
+       "pod": "D",
+       "name": "Braaaiins!",
+       "addl": "Pumpkin Ale For Zombies",
+       "brewery": "Spring House Brewing Company",
+       "style": "Pumpkin Ale",
+       "abv": 7.1,
+       "ba": 86,
+       "order": 43
+      },
+      {
+       "pod": "D",
+       "name": "Oktoberfest",
+       "addl": "",
+       "brewery": "Great Lakes Brewing Company",
+       "style": "Märzen/Oktoberfest",
+       "abv": 6.5,
+       "ba": 89,
+       "order": 44
+      },
+      {
+       "pod": "D",
+       "name": "Turntable Pils",
+       "addl": "",
+       "brewery": "Great Lakes Brewing Company",
+       "style": "Czech Pilsner",
+       "abv": 5.3,
+       "ba": 87,
+       "order": 45
+      },
+      {
+       "pod": "D",
+       "name": "Glockenspiel",
+       "addl": "",
+       "brewery": "Great Lakes Brewing Company",
+       "style": "Weizenbock",
+       "abv": 8.0,
+       "ba": 89,
+       "order": 46
+      },
+      {
+       "pod": "E",
+       "name": "Burton Baton",
+       "addl": "",
+       "brewery": "Dogfish Head Craft Brewery",
+       "style": "American Double/Imperial IPA",
+       "abv": 10.0,
+       "ba": 93,
+       "order": 47
+      },
+      {
+       "pod": "E",
+       "name": "SeaQuench Ale",
+       "addl": "",
+       "brewery": "Dogfish Head Craft Brewery",
+       "style": "Gose",
+       "abv": 4.9,
+       "ba": 86,
+       "order": 48
+      },
+      {
+       "pod": "E",
+       "name": "Lupu-Luau IPA",
+       "addl": "",
+       "brewery": "Dogfish Head Craft Brewery",
+       "style": "American IPA",
+       "abv": 7.3,
+       "ba": 87,
+       "order": 49
+      },
+      {
+       "pod": "E",
+       "name": "Union Jack IPA",
+       "addl": "",
+       "brewery": "Firestone Walker Brewing Company",
+       "style": "American IPA",
+       "abv": 7.5,
+       "ba": 94,
+       "order": 50
+      },
+      {
+       "pod": "E",
+       "name": "Leo V. Ursus: Adversus",
+       "addl": "",
+       "brewery": "Firestone Walker Brewing Company",
+       "style": "American Double/Imperial IPA",
+       "abv": 8.2,
+       "ba": 91,
+       "order": 51
+      },
+      {
+       "pod": "E",
+       "name": "Trick or Treat",
+       "addl": "",
+       "brewery": "Evil Genius Beer Company",
+       "style": "American Porter",
+       "abv": 7.8,
+       "ba": 81,
+       "order": 52
+      },
+      {
+       "pod": "E",
+       "name": "Purple Monkey Dishwasher",
+       "addl": "",
+       "brewery": "Evil Genius Beer Company",
+       "style": "American Porter",
+       "abv": 6.7,
+       "ba": 87,
+       "order": 53
+      },
+      {
+       "pod": "E",
+       "name": "Little Dutch",
+       "addl": "",
+       "brewery": "Wacker Brewing Company",
+       "style": "Dunkelweizen",
+       "abv": 5.0,
+       "ba": null,
+       "order": 54
+      },
+      {
+       "pod": "E",
+       "name": "German IPL",
+       "addl": "",
+       "brewery": "Wacker Brewing Company",
+       "style": "Lager - IPL (India Pale Lager)",
+       "abv": 4.7,
+       "ba": null,
+       "order": 55
+      },
+      {
+       "pod": "E",
+       "name": "Liminal Moment",
+       "addl": "",
+       "brewery": "South County Brewing Co.",
+       "style": "American Double/Imperial IPA",
+       "abv": 7.0,
+       "ba": 88,
+       "order": 56
+      },
+      {
+       "pod": "E",
+       "name": "Intervals - Mandarina Bavaria",
+       "addl": "",
+       "brewery": "South County Brewing Co.",
+       "style": "American Pale Ale",
+       "abv": 5.0,
+       "ba": null,
+       "order": 57
+      },
+      {
+       "pod": "F",
+       "name": "Rye IPA",
+       "addl": "",
+       "brewery": "Dock Street Brewing Co.",
+       "style": "Rye Beer",
+       "abv": 7.2,
+       "ba": 89,
+       "order": 58
+      },
+      {
+       "pod": "F",
+       "name": "Bohemian Pilsner",
+       "addl": "",
+       "brewery": "Dock Street Brewing Co.",
+       "style": "Czech Pilsner",
+       "abv": 5.0,
+       "ba": 82,
+       "order": 59
+      },
+      {
+       "pod": "F",
+       "name": "Standard",
+       "addl": "",
+       "brewery": "Big Hill Ciderworks",
+       "style": "Hard Cider",
+       "abv": 5.5,
+       "ba": null,
+       "order": 60
+      },
+      {
+       "pod": "F",
+       "name": "Little Round Hop",
+       "addl": "",
+       "brewery": "Big Hill Ciderworks",
+       "style": "Hard Cider",
+       "abv": 5.5,
+       "ba": null,
+       "order": 61
+      },
+      {
+       "pod": "F",
+       "name": "Farmhouse",
+       "addl": "",
+       "brewery": "Big Hill Ciderworks",
+       "style": "Hard Cider",
+       "abv": 7.0,
+       "ba": null,
+       "order": 62
+      },
+      {
+       "pod": "F",
+       "name": "Kriek",
+       "addl": "",
+       "brewery": "Big Hill Ciderworks",
+       "style": "Hard Cider",
+       "abv": 6.9,
+       "ba": null,
+       "order": 63
+      },
+      {
+       "pod": "F",
+       "name": "Hoodoo",
+       "addl": "",
+       "brewery": "VooDoo Brewing Company",
+       "style": "American IPA",
+       "abv": 7.3,
+       "ba": 72,
+       "order": 64
+      },
+      {
+       "pod": "F",
+       "name": "Gran Met",
+       "addl": "",
+       "brewery": "VooDoo Brewing Company",
+       "style": "Tripel",
+       "abv": 9.0,
+       "ba": 83,
+       "order": 65
+      },
+      {
+       "pod": "F",
+       "name": "Surprise! It's Another IPA: Idaho 007 & Ekuanot",
+       "addl": "",
+       "brewery": "St. Boniface Craft Brewing Co.",
+       "style": "American IPA",
+       "abv": 5.9,
+       "ba": null,
+       "order": 66
+      },
+      {
+       "pod": "F",
+       "name": "Offering #32: Chocolate Porter",
+       "addl": "With Nibs and Vanilla Beans",
+       "brewery": "St. Boniface Craft Brewing Co.",
+       "style": "American Porter",
+       "abv": 6.0,
+       "ba": null,
+       "order": 67
+      },
+      {
+       "pod": "F",
+       "name": "Offering #37: Session Zero",
+       "addl": "",
+       "brewery": "St. Boniface Craft Brewing Co.",
+       "style": "American IPA",
+       "abv": 4.9,
+       "ba": null,
+       "order": 68
+      },
+      {
+       "pod": "F",
+       "name": "Golden ZIPA",
+       "addl": "",
+       "brewery": "Columbia Kettle Works",
+       "style": "American IPA",
+       "abv": 6.9,
+       "ba": null,
+       "order": 69
+      },
+      {
+       "pod": "F",
+       "name": "Oktoberfest",
+       "addl": "",
+       "brewery": "Columbia Kettle Works",
+       "style": "Märzen/Oktoberfest",
+       "abv": 5.7,
+       "ba": null,
+       "order": 70
+      },
+      {
+       "pod": "F",
+       "name": "Russian Imperial Stout",
+       "addl": "",
+       "brewery": "Columbia Kettle Works",
+       "style": "Stout - Russian Imperial",
+       "abv": 9.0,
+       "ba": null,
+       "order": 71
+      },
+      {
+       "pod": "F",
+       "name": "Munich Helles",
+       "addl": "",
+       "brewery": "Columbia Kettle Works",
+       "style": "Munich Helles Lager",
+       "abv": 4.5,
+       "ba": null,
+       "order": 72
+      },
+      {
+       "pod": "G",
+       "name": "Peanut Butter Porter",
+       "addl": "",
+       "brewery": "Molly Pitcher Brewing Company",
+       "style": "American Porter",
+       "abv": 5.0,
+       "ba": 89,
+       "order": 73
+      },
+      {
+       "pod": "G",
+       "name": "Comet Harvest Ale",
+       "addl": "",
+       "brewery": "Molly Pitcher Brewing Company",
+       "style": "American IPA",
+       "abv": 6.5,
+       "ba": null,
+       "order": 74
+      },
+      {
+       "pod": "G",
+       "name": "Commonwealth Session IPA",
+       "addl": "",
+       "brewery": "Molly Pitcher Brewing Company",
+       "style": "American IPA",
+       "abv": 4.2,
+       "ba": null,
+       "order": 75
+      },
+      {
+       "pod": "G",
+       "name": "Victory Helles Lager",
+       "addl": "",
+       "brewery": "Victory Brewing Company",
+       "style": "Munich Helles Lager",
+       "abv": 4.8,
+       "ba": 82,
+       "order": 76
+      },
+      {
+       "pod": "G",
+       "name": "Black Forest Cake Stout with Cherry",
+       "addl": "Blackboard #7",
+       "brewery": "Victory Brewing Company",
+       "style": "American Stout",
+       "abv": 7.5,
+       "ba": null,
+       "order": 77
+      },
+      {
+       "pod": "G",
+       "name": "Cloudy and Cumbersome",
+       "addl": "",
+       "brewery": "Levante Brewing Company",
+       "style": "American IPA",
+       "abv": 5.6,
+       "ba": 86,
+       "order": 78
+      },
+      {
+       "pod": "G",
+       "name": "Charlietown Trail Ale",
+       "addl": "",
+       "brewery": "Levante Brewing Company",
+       "style": "American Pale Ale",
+       "abv": 5.0,
+       "ba": null,
+       "order": 79
+      },
+      {
+       "pod": "G",
+       "name": "Bellcracker",
+       "addl": "",
+       "brewery": "2SP Brewing Company",
+       "style": "American Double/Imperial IPA",
+       "abv": 8.7,
+       "ba": 86,
+       "order": 80
+      },
+      {
+       "pod": "G",
+       "name": "Patina Saison",
+       "addl": "",
+       "brewery": "2SP Brewing Company",
+       "style": "Saison/Farmhouse Ale",
+       "abv": 7.5,
+       "ba": 87,
+       "order": 81
+      },
+      {
+       "pod": "G",
+       "name": "DELCOFest",
+       "addl": "",
+       "brewery": "2SP Brewing Company",
+       "style": "Märzen/Oktoberfest",
+       "abv": 5.0,
+       "ba": null,
+       "order": 82
+      },
+      {
+       "pod": "G",
+       "name": "Barn Dance Blonde Ale",
+       "addl": "",
+       "brewery": "Turkey Hill Brewing Co.",
+       "style": "Kölsch",
+       "abv": 4.5,
+       "ba": null,
+       "order": 83
+      },
+      {
+       "pod": "G",
+       "name": "What The Helles?",
+       "addl": "",
+       "brewery": "Turkey Hill Brewing Co.",
+       "style": "Maibock/Helles Bock",
+       "abv": 5.4,
+       "ba": null,
+       "order": 84
+      },
+      {
+       "pod": "G",
+       "name": "Midsummer's Night Saison",
+       "addl": "",
+       "brewery": "Turkey Hill Brewing Co.",
+       "style": "Saison/Farmhouse Ale",
+       "abv": 6.8,
+       "ba": null,
+       "order": 85
+      },
+      {
+       "pod": "G",
+       "name": "Journeyman IPA",
+       "addl": "",
+       "brewery": "Turkey Hill Brewing Co.",
+       "style": "American IPA",
+       "abv": 7.0,
+       "ba": null,
+       "order": 86
+      },
+      {
+       "pod": "H",
+       "name": "Pine'Hop'Le",
+       "addl": "",
+       "brewery": "Evolution Craft Brewing Company",
+       "style": "American IPA",
+       "abv": 6.8,
+       "ba": 83,
+       "order": 87
+      },
+      {
+       "pod": "H",
+       "name": "Special 608 Belgian Amber",
+       "addl": "",
+       "brewery": "Evolution Craft Brewing Company",
+       "style": "Belgian Dark Ale",
+       "abv": 7.5,
+       "ba": 84,
+       "order": 88
+      },
+      {
+       "pod": "H",
+       "name": "Oktoberfest",
+       "addl": "Otter Creek / Camba Bavaria Collab",
+       "brewery": "Otter Creek Brewing",
+       "style": "Märzen/Oktoberfest",
+       "abv": 5.5,
+       "ba": null,
+       "order": 89
+      },
+      {
+       "pod": "H",
+       "name": "Orange Dream Cream Ale",
+       "addl": "",
+       "brewery": "Otter Creek Brewing",
+       "style": "Cream Ale",
+       "abv": 5.5,
+       "ba": 85,
+       "order": 90
+      },
+      {
+       "pod": "H",
+       "name": "Garage Racer",
+       "addl": "",
+       "brewery": "Rubber Soul Brewing Company",
+       "style": "American IPA",
+       "abv": 7.0,
+       "ba": null,
+       "order": 91
+      },
+      {
+       "pod": "H",
+       "name": "Fun Box",
+       "addl": "",
+       "brewery": "Rubber Soul Brewing Company",
+       "style": "Märzen/Oktoberfest",
+       "abv": 6.0,
+       "ba": null,
+       "order": 92
+      },
+      {
+       "pod": "H",
+       "name": "420 Extra Pale Ale",
+       "addl": "",
+       "brewery": "SweetWater Brewing Company",
+       "style": "American Pale Ale",
+       "abv": 5.4,
+       "ba": 82,
+       "order": 93
+      },
+      {
+       "pod": "H",
+       "name": "20 Hash on Brett",
+       "addl": "",
+       "brewery": "SweetWater Brewing Company",
+       "style": "American Double/Imperial IPA",
+       "abv": 9.0,
+       "ba": 85,
+       "order": 94
+      },
+      {
+       "pod": "H",
+       "name": "Old Man Johnson's Farm",
+       "addl": "With Raspberries",
+       "brewery": "SweetWater Brewing Company",
+       "style": "American Double/Imperial Stout",
+       "abv": 9.6,
+       "ba": 85,
+       "order": 95
+      },
+      {
+       "pod": "H",
+       "name": "Hop Knife Harvest Ale",
+       "addl": "",
+       "brewery": "Tröegs Independent Brewing",
+       "style": "American IPA",
+       "abv": 6.2,
+       "ba": 90,
+       "order": 96
+      },
+      {
+       "pod": "H",
+       "name": "Scratch 299 - Weizenbock",
+       "addl": "",
+       "brewery": "Tröegs Independent Brewing",
+       "style": "Weizenbock",
+       "abv": 7.0,
+       "ba": null,
+       "order": 97
+      },
+      {
+       "pod": "I",
+       "name": "Hoppy Table Beer",
+       "addl": "",
+       "brewery": "Allagash Brewing Company",
+       "style": "Belgian Pale Ale",
+       "abv": 4.8,
+       "ba": 90,
+       "order": 98
+      },
+      {
+       "pod": "I",
+       "name": "Curieux",
+       "addl": "Bourbon Barrel-Aged Tripel",
+       "brewery": "Allagash Brewing Company",
+       "style": "Tripel",
+       "abv": 11.0,
+       "ba": 94,
+       "order": 99
+      },
+      {
+       "pod": "I",
+       "name": "Fluxus 2017",
+       "addl": "",
+       "brewery": "Allagash Brewing Company",
+       "style": "Saison/Farmhouse Ale",
+       "abv": 6.5,
+       "ba": 86,
+       "order": 100
+      },
+      {
+       "pod": "I",
+       "name": "Line Street Pilsner",
+       "addl": "",
+       "brewery": "Weyerbacher Brewing Company",
+       "style": "Czech Pilsner",
+       "abv": 5.3,
+       "ba": 84,
+       "order": 101
+      },
+      {
+       "pod": "I",
+       "name": "Sexy Motherpucker",
+       "addl": "",
+       "brewery": "Weyerbacher Brewing Company",
+       "style": "American Wild Ale",
+       "abv": 7.5,
+       "ba": 81,
+       "order": 102
+      },
+      {
+       "pod": "I",
+       "name": "Raspberry Ale",
+       "addl": "",
+       "brewery": "Dark Horse Brewing Co.",
+       "style": "Fruit/Vegetable Beer",
+       "abv": 5.5,
+       "ba": 78,
+       "order": 103
+      },
+      {
+       "pod": "I",
+       "name": "Smells Like a Double Safety Meeting",
+       "addl": "",
+       "brewery": "Dark Horse Brewing Co.",
+       "style": "American Double/Imperial IPA",
+       "abv": 10.5,
+       "ba": null,
+       "order": 104
+      },
+      {
+       "pod": "I",
+       "name": "Jazz Hands",
+       "addl": "",
+       "brewery": "Collusion Tap Works",
+       "style": "American IPA",
+       "abv": 5.5,
+       "ba": null,
+       "order": 105
+      },
+      {
+       "pod": "I",
+       "name": "All Fudged Up",
+       "addl": "",
+       "brewery": "Collusion Tap Works",
+       "style": "American Double/Imperial Stout",
+       "abv": 10.5,
+       "ba": null,
+       "order": 106
+      },
+      {
+       "pod": "I",
+       "name": "Peach River",
+       "addl": "",
+       "brewery": "Collusion Tap Works",
+       "style": "Saison/Farmhouse Ale",
+       "abv": 5.4,
+       "ba": null,
+       "order": 107
+      },
+      {
+       "pod": "I",
+       "name": "Constant Flex",
+       "addl": "",
+       "brewery": "Collusion Tap Works",
+       "style": "American IPA",
+       "abv": 6.6,
+       "ba": null,
+       "order": 108
+      },
+      {
+       "pod": "I",
+       "name": "Mexican Harlequin",
+       "addl": "",
+       "brewery": "Collusion Tap Works",
+       "style": "Porter - Imperial/Double",
+       "abv": 9.0,
+       "ba": null,
+       "order": 109
+      },
+      {
+       "pod": "I",
+       "name": "Bourbon Harlequin",
+       "addl": "",
+       "brewery": "Collusion Tap Works",
+       "style": "Porter - Imperial/Double",
+       "abv": 9.0,
+       "ba": null,
+       "order": 110
+      },
+      {
+       "pod": "I",
+       "name": "Mosaic Promise",
+       "addl": "",
+       "brewery": "Founders Brewing Co.",
+       "style": "American Pale Ale",
+       "abv": 5.5,
+       "ba": 90,
+       "order": 111
+      },
+      {
+       "pod": "I",
+       "name": "Sumatra Mountain Brown",
+       "addl": "",
+       "brewery": "Founders Brewing Co.",
+       "style": "American Brown Ale",
+       "abv": 9.0,
+       "ba": 95,
+       "order": 112
+      },
+      {
+       "pod": "J",
+       "name": "SayJohn",
+       "addl": "",
+       "brewery": "Highway Manor Brewing",
+       "style": "Saison/Farmhouse Ale",
+       "abv": 6.7,
+       "ba": 87,
+       "order": 113
+      },
+      {
+       "pod": "J",
+       "name": "Funky Prowler",
+       "addl": "",
+       "brewery": "Highway Manor Brewing",
+       "style": "Irish Dry Stout",
+       "abv": 5.2,
+       "ba": null,
+       "order": 114
+      },
+      {
+       "pod": "J",
+       "name": "Mr. Strawberry",
+       "addl": "",
+       "brewery": "Highway Manor Brewing",
+       "style": "American Wild Ale",
+       "abv": 5.2,
+       "ba": 83,
+       "order": 115
+      },
+      {
+       "pod": "J",
+       "name": "Mr. Blueberry",
+       "addl": "",
+       "brewery": "Highway Manor Brewing",
+       "style": "American Wild Ale",
+       "abv": 5.2,
+       "ba": 85,
+       "order": 116
+      },
+      {
+       "pod": "J",
+       "name": "Pale Ale",
+       "addl": "",
+       "brewery": "Locust Lane Craft Brewery",
+       "style": "American Pale Ale",
+       "abv": 5.3,
+       "ba": null,
+       "order": 117
+      },
+      {
+       "pod": "J",
+       "name": "Oktoberfest",
+       "addl": "",
+       "brewery": "Locust Lane Craft Brewery",
+       "style": "Märzen/Oktoberfest",
+       "abv": 5.2,
+       "ba": null,
+       "order": 118
+      },
+      {
+       "pod": "J",
+       "name": "White IPA",
+       "addl": "",
+       "brewery": "Black Forest Brewery",
+       "style": "American IPA",
+       "abv": 6.2,
+       "ba": null,
+       "order": 119
+      },
+      {
+       "pod": "J",
+       "name": "Conrad Kölsch",
+       "addl": "",
+       "brewery": "Black Forest Brewery",
+       "style": "Kölsch",
+       "abv": 5.0,
+       "ba": null,
+       "order": 120
+      },
+      {
+       "pod": "J",
+       "name": "Head Hunter IPA",
+       "addl": "",
+       "brewery": "Fat Head's Brewery",
+       "style": "American IPA",
+       "abv": 7.5,
+       "ba": 96,
+       "order": 121
+      },
+      {
+       "pod": "J",
+       "name": "Sunshine Daydream Session IPA",
+       "addl": "",
+       "brewery": "Fat Head's Brewery",
+       "style": "American IPA",
+       "abv": 4.9,
+       "ba": 90,
+       "order": 122
+      },
+      {
+       "pod": "J",
+       "name": "Providence Pilsner",
+       "addl": "",
+       "brewery": "La Cabra Brewing",
+       "style": "Czech Pilsner",
+       "abv": 4.2,
+       "ba": null,
+       "order": 123
+      },
+      {
+       "pod": "J",
+       "name": "Zettle",
+       "addl": "",
+       "brewery": "La Cabra Brewing",
+       "style": "Hefeweizen",
+       "abv": 5.4,
+       "ba": null,
+       "order": 124
+      },
+      {
+       "pod": "J",
+       "name": "Hipster Catnip",
+       "addl": "",
+       "brewery": "La Cabra Brewing",
+       "style": "American IPA",
+       "abv": 7.2,
+       "ba": null,
+       "order": 125
+      },
+      {
+       "pod": "J",
+       "name": "Oktoberfest",
+       "addl": "",
+       "brewery": "La Cabra Brewing",
+       "style": "Märzen/Oktoberfest",
+       "abv": 6.4,
+       "ba": null,
+       "order": 126
+      },
+      {
+       "pod": "K",
+       "name": "Hopligation",
+       "addl": "",
+       "brewery": "Saint Benjamin Brewing Company",
+       "style": "American IPA",
+       "abv": 6.8,
+       "ba": null,
+       "order": 127
+      },
+      {
+       "pod": "K",
+       "name": "Start Today Double IPA",
+       "addl": "Featuring Azacca and Citra Hops",
+       "brewery": "Saint Benjamin Brewing Company",
+       "style": "American Double/Imperial IPA",
+       "abv": 8.0,
+       "ba": null,
+       "order": 128
+      },
+      {
+       "pod": "K",
+       "name": "The Shape of Hops to Come",
+       "addl": "",
+       "brewery": "Neshaminy Creek Brewing Company",
+       "style": "American Double/Imperial IPA",
+       "abv": 8.5,
+       "ba": 92,
+       "order": 129
+      },
+      {
+       "pod": "K",
+       "name": "Punkless Dunkel",
+       "addl": "",
+       "brewery": "Neshaminy Creek Brewing Company",
+       "style": "Pumpkin Ale",
+       "abv": 8.8,
+       "ba": 90,
+       "order": 130
+      },
+      {
+       "pod": "K",
+       "name": "Fat Tire Belgian White",
+       "addl": "",
+       "brewery": "New Belgium Brewing Company",
+       "style": "Witbier",
+       "abv": 5.2,
+       "ba": 84,
+       "order": 131
+      },
+      {
+       "pod": "K",
+       "name": "Voodoo Ranger IPA",
+       "addl": "",
+       "brewery": "New Belgium Brewing Company",
+       "style": "American IPA",
+       "abv": 7.0,
+       "ba": 86,
+       "order": 132
+      },
+      {
+       "pod": "K",
+       "name": "Hop Hero #24: Fruit Punch Double IPA",
+       "addl": "",
+       "brewery": "Liquid Hero Brewery",
+       "style": "American Double/Imperial IPA",
+       "abv": 8.4,
+       "ba": null,
+       "order": 133
+      },
+      {
+       "pod": "K",
+       "name": "Manifestation #3: Banana Split",
+       "addl": "",
+       "brewery": "Liquid Hero Brewery",
+       "style": "Hefeweizen",
+       "abv": 7.1,
+       "ba": null,
+       "order": 134
+      },
+      {
+       "pod": "K",
+       "name": "Black Butte Porter",
+       "addl": "",
+       "brewery": "Deschutes Brewery",
+       "style": "American Porter",
+       "abv": 5.2,
+       "ba": 93,
+       "order": 135
+      },
+      {
+       "pod": "K",
+       "name": "Fresh Squeezed IPA",
+       "addl": "",
+       "brewery": "Deschutes Brewery",
+       "style": "American IPA",
+       "abv": 6.4,
+       "ba": 94,
+       "order": 136
+      },
+      {
+       "pod": "L",
+       "name": "Tried and True",
+       "addl": "",
+       "brewery": "Boneshire Brew Works",
+       "style": "Witbier",
+       "abv": 5.5,
+       "ba": null,
+       "order": 137
+      },
+      {
+       "pod": "L",
+       "name": "Devil's Burden",
+       "addl": "",
+       "brewery": "Boneshire Brew Works",
+       "style": "American IPA",
+       "abv": 6.6,
+       "ba": null,
+       "order": 138
+      },
+      {
+       "pod": "L",
+       "name": "12th of Never Ale",
+       "addl": "",
+       "brewery": "Lagunitas Brewing Company",
+       "style": "American Pale Ale",
+       "abv": 5.5,
+       "ba": 89,
+       "order": 139
+      },
+      {
+       "pod": "L",
+       "name": "LAG Lagunator Lager",
+       "addl": "",
+       "brewery": "Lagunitas Brewing Company",
+       "style": "Bock",
+       "abv": 7.9,
+       "ba": 86,
+       "order": 140
+      },
+      {
+       "pod": "L",
+       "name": "Baked Pumpkin Ale",
+       "addl": "",
+       "brewery": "Lancaster Brewing Company",
+       "style": "Pumpkin Ale",
+       "abv": 7.5,
+       "ba": 86,
+       "order": 141
+      },
+      {
+       "pod": "L",
+       "name": "Boss Hog",
+       "addl": "",
+       "brewery": "Lancaster Brewing Company",
+       "style": "American Double/Imperial IPA",
+       "abv": 9.0,
+       "ba": 84,
+       "order": 142
+      },
+      {
+       "pod": "L",
+       "name": "Oktoberfest",
+       "addl": "",
+       "brewery": "Lancaster Brewing Company",
+       "style": "Märzen/Oktoberfest",
+       "abv": 5.2,
+       "ba": null,
+       "order": 143
+      },
+      {
+       "pod": "L",
+       "name": "Strawberry Wheat Beer",
+       "addl": "",
+       "brewery": "Lancaster Brewing Company",
+       "style": "Fruit/Vegetable Beer",
+       "abv": 4.7,
+       "ba": 74,
+       "order": 144
+      },
+      {
+       "pod": "L",
+       "name": "Nothing Gose as Planned - Peach",
+       "addl": "",
+       "brewery": "Chatty Monks Brewing Company",
+       "style": "Gose",
+       "abv": 5.5,
+       "ba": null,
+       "order": 145
+      },
+      {
+       "pod": "L",
+       "name": "Crash Test Pumpkin Ale",
+       "addl": "",
+       "brewery": "Chatty Monks Brewing Company",
+       "style": "Pumpkin Ale",
+       "abv": 5.3,
+       "ba": null,
+       "order": 146
+      },
+      {
+       "pod": "L",
+       "name": "Of Weizen Men",
+       "addl": "",
+       "brewery": "Appalachian Brewing Company",
+       "style": "Weizenbock",
+       "abv": 7.2,
+       "ba": null,
+       "order": 147
+      },
+      {
+       "pod": "L",
+       "name": "Zombie Apoca-Lititz",
+       "addl": "",
+       "brewery": "Appalachian Brewing Company",
+       "style": "American Amber/Red Ale",
+       "abv": 7.1,
+       "ba": null,
+       "order": 148
+      }
+    ],
+    "timestamp": "2017-09-20T21:55:56.716Z"
+  }
+]

@@ -1,23 +1,23 @@
 body {
-	background-color: #f7ce5b;
-	color: #666;
+	background-color: #22110c;
+	color: #616161;
   margin: 0 auto;
 	max-width: 1038px;
 }
 
 h3 {
-	color: #7fa20e;
+	color: #80a30f;
 	font-family: 'Yanone Kaffeesatz', sans-serif;
 	font-size: 36px;
 }
 
 a {
-	color: #c60;
+	color: #428bca;
 }
 
 a:focus,
 a:hover {
-	color: #c60;
+	color: #428bca;
 }
 
 .jumbotron {
@@ -34,7 +34,7 @@ a:hover {
 	height: 16px;
 }
 .progress-bar {
-	background-color: #de6b48;
+	background-color: #80a30f;
 	width: 100%;
 }
 
@@ -58,7 +58,7 @@ a:hover {
 .navbar-btn {
 	background-color: transparent !important;
 	border: 0;
-	color: #7fa20e;
+	color: #80a30f;
 	font-family: 'Yanone Kaffeesatz', sans-serif;
 	font-size: 24px;
 	height: 66px;
@@ -68,7 +68,7 @@ a:hover {
 .navbar-btn.btn-default:hover,
 .navbar-btn.btn-default:active,
 .navbar-btn.btn-default:focus {
-	color: #7fa20e;
+	color: #80a30f;
 }
 .navbar-btn .glyphicon {
 	font-size: 18px;
@@ -84,7 +84,7 @@ a:hover {
 	content: " MAP";
 }
 .authenticated .btn-login {
-	color: #de6b48;
+	color: #f1f1f1;
 }
 .authenticated .btn-login:after {
 	content: " LOGOUT";
@@ -131,21 +131,21 @@ a:hover {
 }
 
 .badge {
-	background-color: #7fa20e;
+	background-color: #80a30f;
 }
 
 .panel-primary {
 	border: none;
-	border-top: solid 12px #de6b48;
+	border-top: solid 12px #f1f1f1;
 }
 
 .panel-primary > .panel-heading {
 	background-color: #fff;
-	border-color: #de6b48;
+	border-color: #f1f1f1;
 }
 
 .panel-title {
-	color: #7fa20e;
+	color: #80a30f;
 	font-size: 26px;
 	text-transform: uppercase;
 }
@@ -159,11 +159,11 @@ a:hover {
 }
 
 #view-table table th span.heading {
-	border-bottom: dashed 1px #c60;
+	border-bottom: dashed 1px #428bca;
 }
 
 #view-table table th span.glyphicon {
-	color: #c60;
+	color: #428bca;
 	font-size: 10px;
 }
 
@@ -207,11 +207,11 @@ a:hover {
 	padding-bottom: 15px;
 }
 .attribution a {
-	color: #7fa20e;
+	color: #428bca;
 }
 
 a.topscroller {
-	background-color: #7fa20e;
+	background-color: #80a30f;
 	border-radius: 3px;
 	bottom: 20px;
 	color: #fff;
