@@ -69,7 +69,7 @@
        "brewery": "Funk Brewing",
        "style": "IPA - American",
        "ba": 4.08,
-       "abv": 6.9,
+       "abv": 6.7,
        "order": 7
      },
      {
@@ -195,10 +195,10 @@
      {
        "pod": "B",
        "name": "Sweet and Smoky Stout",
-       "addl": "",
+       "addl": "Brewhouse Rarities",
        "brewery": "Flying Dog Brewery",
        "style": "Smoked Beer",
-       "ba": null,
+       "ba": 3.58,
        "abv": 7.1,
        "order": 20
      },
@@ -388,7 +388,7 @@
        "addl": "",
        "brewery": "Captain Lawrence Brewing Company",
        "style": "IPA - American",
-       "ba": null,
+       "ba": 3.87,
        "abv": 7.5,
        "order": 39
      },
@@ -478,7 +478,7 @@
        "addl": "",
        "brewery": "Vault Brewing Company",
        "style": "Blonde Ale",
-       "ba": null,
+       "ba": 3.71,
        "abv": 5.2,
        "order": 48
      },
@@ -488,7 +488,7 @@
        "addl": "",
        "brewery": "Vault Brewing Company",
        "style": "Sour - Ale",
-       "ba": null,
+       "ba": 3.44,
        "abv": 4,
        "order": 49
      },
@@ -799,7 +799,7 @@
        "brewery": "Full Pint Brewing Company",
        "style": "IPA - Imperial / Double",
        "ba": 3.82,
-       "abv": 8,
+       "abv": 8.1,
        "order": 80
      },
      {
@@ -918,7 +918,7 @@
        "addl": "",
        "brewery": "Foreign Objects",
        "style": "Kellerbier / Zwickelbier",
-       "ba": null,
+       "ba": 3.69,
        "abv": 5.2,
        "order": 92
      },
@@ -987,7 +987,7 @@
        "name": "Form to Table",
        "addl": "",
        "brewery": "Fermentery Form & Blendery",
-       "style": "Table Beer",
+       "style": "Saison / Farmhouse Ale",
        "ba": 3.99,
        "abv": 3.5,
        "order": 99
@@ -1025,7 +1025,7 @@
      {
        "pod": "G",
        "name": "Pure Phase",
-       "addl": "",
+       "addl": "Crime & Punishment Collab",
        "brewery": "Fermentery Form & Blendery",
        "style": "Sour - Farmhouse IPA",
        "ba": null,
@@ -1037,7 +1037,7 @@
        "name": "Formation",
        "addl": "",
        "brewery": "Fermentery Form & Blendery",
-       "style": "Golden Ale",
+       "style": "American Wild Ale",
        "ba": 4.22,
        "abv": 5,
        "order": 104
@@ -1077,7 +1077,7 @@
        "name": "Soma: Blueberry",
        "addl": "",
        "brewery": "Collusion Tap Works",
-       "style": "Berlinerweiss",
+       "style": "Sour - Berliner Weisse",
        "ba": null,
        "abv": 5,
        "order": 108
@@ -1147,7 +1147,7 @@
        "name": "Mr. Blueberry",
        "addl": "",
        "brewery": "Highway Manor Brewing Co.",
-       "style": "Sour - Ale",
+       "style": "Sour - Fruited",
        "ba": 3.85,
        "abv": 5.2,
        "order": 115
@@ -1244,7 +1244,7 @@
      },
      {
        "pod": "H",
-       "name": "Nothing Gose as Planned - Tropical Rain",
+       "name": "Nothing Gose as Planned-Tropical Rain",
        "addl": "",
        "brewery": "Chatty Monks Brewing Company",
        "style": "Sour - Gose",
@@ -1388,7 +1388,7 @@
        "addl": "w/ Brett. & Sour Cherries",
        "brewery": "Turkey Hill Brewing Company",
        "style": "Belgian Dubbel",
-       "ba": null,
+       "ba": 3.99,
        "abv": 6.7,
        "order": 139
      },
@@ -1398,7 +1398,7 @@
        "addl": "",
        "brewery": "Zeroday Brewing Co.",
        "style": "Fruit Beer",
-       "ba": null,
+       "ba": 3.82,
        "abv": 6.5,
        "order": 140
      },
@@ -1434,11 +1434,11 @@
      },
      {
        "pod": "J",
-       "name": "Paideia",
+       "name": "Paideia Pale Ale",
        "addl": "Cask",
        "brewery": "St. Boniface Craft Brewing Co.",
        "style": "Pale Ale - American",
-       "ba": null,
+       "ba": 4.01,
        "abv": 5,
        "order": 144
      },
@@ -1564,7 +1564,7 @@
      },
      {
        "pod": "J",
-       "name": "Shifting Gears IPA #16",
+       "name": "Shifting Gears #16",
        "addl": "",
        "brewery": "GearHouse Brewing Company",
        "style": "IPA - American",
@@ -1734,7 +1734,7 @@
      },
      {
        "pod": "L",
-       "name": "Jam Series - Track #5 Peanut Butter Ale",
+       "name": "Jam Series-Track #5 Peanut Butter Ale",
        "addl": "",
        "brewery": "Lancaster Brewing Company",
        "style": "English Mild Ale",
@@ -1744,7 +1744,7 @@
      },
      {
        "pod": "L",
-       "name": "Vulpulin IPA",
+       "name": "Vulpulin",
        "addl": "",
        "brewery": "Sly Fox Brewing Company",
        "style": "IPA - American",
@@ -1798,7 +1798,7 @@
        "addl": "",
        "brewery": "Lagunitas Brewing Company",
        "style": "IPA - American",
-       "ba": null,
+       "ba": 4.11,
        "abv": 7.7,
        "order": 180
      },
@@ -1814,7 +1814,7 @@
      },
      {
        "pod": "L",
-       "name": "Cape of Good Hope IPA",
+       "name": "Cape of Good Hope",
        "addl": "",
        "brewery": "Yards Brewing Co.",
        "style": "IPA - Imperial / Double",
@@ -1975,10 +1975,10 @@
      {
        "pod": "N",
        "name": "Oktoberfest",
-       "addl": "",
+       "addl": "Camba Bavaria Collab",
        "brewery": "Otter Creek Brewing",
        "style": "Märzen",
-       "ba": null,
+       "ba": 3.87,
        "abv": 5.5,
        "order": 198
      },
@@ -2138,7 +2138,7 @@
        "addl": "",
        "brewery": "2SP Brewing Company",
        "style": "Smoked Beer",
-       "ba": null,
+       "ba": 3.82,
        "abv": 7,
        "order": 214
      },
@@ -2164,22 +2164,22 @@
      },
      {
        "pod": "O",
-       "name": "Flux",
+       "name": "F'Root (Gooseberry)",
        "addl": "",
        "brewery": "Root Down Brewing Company",
-       "style": "IPA - New England",
-       "ba": 3.98,
-       "abv": 6.8,
+       "style": "Sour - Gose",
+       "ba": null,
+       "abv": 4.5,
        "order": 217
      },
      {
        "pod": "O",
-       "name": "Psychedelic Mode",
+       "name": "Tropic",
        "addl": "",
        "brewery": "Root Down Brewing Company",
-       "style": "Sour - Farmhouse IPA",
+       "style": "IPA - American",
        "ba": null,
-       "abv": 6.9,
+       "abv": 7.0,
        "order": 218
      },
      {
