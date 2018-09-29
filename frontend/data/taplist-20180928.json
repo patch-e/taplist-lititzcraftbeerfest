@@ -846,7 +846,7 @@
        "pod": "F",
        "name": "Haze NEIPA",
        "addl": "",
-       "brewery": "Fetish Artisanal Ales",
+       "brewery": "Fetish* Brewing",
        "style": "IPA - New England",
        "ba": null,
        "abv": 5,
@@ -856,7 +856,7 @@
        "pod": "F",
        "name": "Submissive",
        "addl": "",
-       "brewery": "Fetish Artisanal Ales",
+       "brewery": "Fetish* Brewing",
        "style": "IPA - American",
        "ba": 3.68,
        "abv": 6.5,
@@ -866,7 +866,7 @@
        "pod": "F",
        "name": "Kolsch Fetish",
        "addl": "",
-       "brewery": "Fetish Artisanal Ales",
+       "brewery": "Fetish* Brewing",
        "style": "Kölsch",
        "ba": null,
        "abv": 4.7,
@@ -876,7 +876,7 @@
        "pod": "F",
        "name": "Pumpkin Fetish",
        "addl": "",
-       "brewery": "Fetish Artisanal Ales",
+       "brewery": "Fetish* Brewing",
        "style": "Pumpkin / Yam Beer",
        "ba": 3.72,
        "abv": 6.56,
@@ -2203,6 +2203,6 @@
        "order": 220
      }
    ],
-   "timestamp": "2018-09-29T11:07:56.716Z"
+   "timestamp": "2018-09-29T23:40:56.716Z"
  }
 ]
