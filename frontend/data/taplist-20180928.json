@@ -1234,7 +1234,7 @@
      },
      {
        "pod": "H",
-       "name": "Crash Test #193 - DDH Citra + Denali IPA",
+       "name": "Crash Test #193-DDH Citra + Denali IPA",
        "addl": "",
        "brewery": "Chatty Monks Brewing Company",
        "style": "IPA - American",
@@ -1634,7 +1634,7 @@
      },
      {
        "pod": "K",
-       "name": "Oktoberfest - Weihenstephan (2018)",
+       "name": "Oktoberfest-Weihenstephan (2018)",
        "addl": "",
        "brewery": "Sierra Nevada Brewing Co.",
        "style": "Märzen",
@@ -1844,7 +1844,7 @@
      },
      {
        "pod": "M",
-       "name": "Scratch 342 - Fest Lager",
+       "name": "Scratch 342-Fest Lager",
        "addl": "",
        "brewery": "Tröegs Independent Brewing",
        "style": "Festbier",
@@ -1904,7 +1904,7 @@
      },
      {
        "pod": "M",
-       "name": "Fool's Gold - Imperial Peanut Butter Hefeweizen",
+       "name": "Fool's Gold-Imperial Peanut Butter Hefeweizen",
        "addl": "",
        "brewery": "Rusty Rail Brewing Company",
        "style": "Hefeweizen",
@@ -1914,7 +1914,7 @@
      },
      {
        "pod": "M",
-       "name": "Dire Wolf - Bourbon Aged Imperial Stout",
+       "name": "Dire Wolf-Bourbon Aged Imperial Stout",
        "addl": "",
        "brewery": "Rusty Rail Brewing Company",
        "style": "Stout - Other",
