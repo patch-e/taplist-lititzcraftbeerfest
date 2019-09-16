@@ -1,13 +1,13 @@
 body {
-	background-color: #22110c;
-	color: #616161;
-  margin: 0 auto;
+	background-color: #76645a;
+	color: #3a3a3a;
+  	margin: 0 auto;
 	max-width: 1038px;
 }
 
 h3 {
-	color: #80a30f;
-	font-family: 'Yanone Kaffeesatz', sans-serif;
+	color: #80a20e;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 36px;
 }
 
@@ -34,7 +34,7 @@ a:hover {
 	height: 16px;
 }
 .progress-bar {
-	background-color: #80a30f;
+	background-color: #80a20e;
 	width: 100%;
 }
 
@@ -58,8 +58,8 @@ a:hover {
 .navbar-btn {
 	background-color: transparent !important;
 	border: 0;
-	color: #80a30f;
-	font-family: 'Yanone Kaffeesatz', sans-serif;
+	color: #ffffff;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 24px;
 	height: 66px;
 	margin: 0;
@@ -68,7 +68,7 @@ a:hover {
 .navbar-btn.btn-default:hover,
 .navbar-btn.btn-default:active,
 .navbar-btn.btn-default:focus {
-	color: #80a30f;
+	font-weight: bold;
 }
 .navbar-btn .glyphicon {
 	font-size: 18px;
@@ -131,12 +131,12 @@ a:hover {
 }
 
 .badge {
-	background-color: #80a30f;
+	background-color: #80a20e;
 }
 
 .panel-primary {
 	border: none;
-	border-top: solid 12px #f1f1f1;
+	border-top: solid 12px #80a20e;
 }
 
 .panel-primary > .panel-heading {
@@ -145,7 +145,7 @@ a:hover {
 }
 
 .panel-title {
-	color: #80a30f;
+	color: #80a20e;
 	font-size: 26px;
 	text-transform: uppercase;
 }
@@ -204,14 +204,15 @@ a:hover {
 }
 
 .attribution {
+	color: #eae1aa;
 	padding-bottom: 15px;
 }
 .attribution a {
-	color: #428bca;
+	color: #ffd657;
 }
 
 a.topscroller {
-	background-color: #80a30f;
+	background-color: #80a20e;
 	border-radius: 3px;
 	bottom: 20px;
 	color: #fff;
