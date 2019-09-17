@@ -1049,7 +1049,7 @@ Patrick Crager
     var directive = {
       restrict: 'E',
       replace: true,
-      templateUrl: 'templates/navigation.html'
+      templateUrl: 'templates/navigation-20190915.html'
     };
 
     return directive;
