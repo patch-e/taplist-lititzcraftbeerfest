@@ -1,0 +1,2238 @@
+[
+  {
+    "title": "tap list",
+    "beers": [
+      {
+        "pod": "A",
+        "name": "Schwarz'bear",
+        "addl": "",
+        "brewery": "Shy Bear Brewing",
+        "style": "Schwarzbier",
+        "ba": null,
+        "abv": 5.5,
+        "order": 1
+      },
+      {
+        "pod": "A",
+        "name": "Osoveza Especial",
+        "addl": "",
+        "brewery": "Shy Bear Brewing",
+        "style": "Lager - American",
+        "ba": 3.94,
+        "abv": 5.4,
+        "order": 2
+      },
+      {
+        "pod": "A",
+        "name": "Flamingo Pillows",
+        "addl": "",
+        "brewery": "Shy Bear Brewing",
+        "style": "IPA - Imperial / Double New England",
+        "ba": null,
+        "abv": 8,
+        "order": 3
+      },
+      {
+        "pod": "A",
+        "name": "Shifty Please",
+        "addl": "",
+        "brewery": "Shy Bear Brewing",
+        "style": "Sour - Other",
+        "ba": 4,
+        "abv": 6,
+        "order": 4
+      },
+      {
+        "pod": "A",
+        "name": "Stump Jumper",
+        "addl": "",
+        "brewery": "Ever Grain Brewing Co.",
+        "style": "IPA - Imperial / Double New England",
+        "ba": null,
+        "abv": 8.3,
+        "order": 5
+      },
+      {
+        "pod": "A",
+        "name": "Oktoberfest",
+        "addl": "",
+        "brewery": "Ever Grain Brewing Co.",
+        "style": "Märzen",
+        "ba": null,
+        "abv": 5.3,
+        "order": 6
+      },
+      {
+        "pod": "A",
+        "name": "Nothing Gose As Planned: Peach Cobbler",
+        "addl": "",
+        "brewery": "Chatty Monks Brewing Co.",
+        "style": "Sour - Gose",
+        "ba": null,
+        "abv": 4.3,
+        "order": 7
+      },
+      {
+        "pod": "A",
+        "name": "Endoplasmic Reticulum",
+        "addl": "",
+        "brewery": "Chatty Monks Brewing Co.",
+        "style": "IPA - American",
+        "ba": 3.6,
+        "abv": 7,
+        "order": 8
+      },
+      {
+        "pod": "A",
+        "name": "Hocus Hibiscus",
+        "addl": "",
+        "brewery": "Grand Illusion Hard Cider",
+        "style": "Cider - Sweet",
+        "ba": null,
+        "abv": 6.5,
+        "order": 9
+      },
+      {
+        "pod": "A",
+        "name": "Blue Illusion",
+        "addl": "",
+        "brewery": "Grand Illusion Hard Cider",
+        "style": "Cider - Traditional",
+        "ba": null,
+        "abv": 6.5,
+        "order": 10
+      },
+      {
+        "pod": "A",
+        "name": "Psychological Thriller: Strawberry",
+        "addl": "",
+        "brewery": "Schaylor Brewing Company",
+        "style": "Sour - Other",
+        "ba": null,
+        "abv": 6.3,
+        "order": 11
+      },
+      {
+        "pod": "A",
+        "name": "That’ll Do Donkey",
+        "addl": "",
+        "brewery": "Schaylor Brewing Company",
+        "style": "IPA - New England",
+        "ba": null,
+        "abv": 7.5,
+        "order": 12
+      },
+      {
+        "pod": "A",
+        "name": "Cosmic Nod",
+        "addl": "",
+        "brewery": "South County Brewing Co.",
+        "style": "Pale Ale - New England",
+        "ba": 3.99,
+        "abv": 5,
+        "order": 13
+      },
+      {
+        "pod": "A",
+        "name": "Liminal Moment",
+        "addl": "",
+        "brewery": "South County Brewing Co.",
+        "style": "IPA - Imperial / Double New England",
+        "ba": 4.14,
+        "abv": 7.5,
+        "order": 14
+      },
+      {
+        "pod": "B",
+        "name": "Oktoberfest",
+        "addl": "",
+        "brewery": "Iron Hill Brewery",
+        "style": "Märzen",
+        "ba": 3.81,
+        "abv": 5.8,
+        "order": 15
+      },
+      {
+        "pod": "B",
+        "name": "Philly Special",
+        "addl": "",
+        "brewery": "Iron Hill Brewery",
+        "style": "IPA - New England",
+        "ba": 3.97,
+        "abv": 6.7,
+        "order": 16
+      },
+      {
+        "pod": "B",
+        "name": "Gunter",
+        "addl": "",
+        "brewery": "Pour Man's Brewing Company",
+        "style": "Märzen",
+        "ba": null,
+        "abv": 5.5,
+        "order": 17
+      },
+      {
+        "pod": "B",
+        "name": "Struggles Real",
+        "addl": "",
+        "brewery": "Pour Man's Brewing Company",
+        "style": "IPA - American",
+        "ba": null,
+        "abv": 6,
+        "order": 18
+      },
+      {
+        "pod": "B",
+        "name": "The Great 76",
+        "addl": "",
+        "brewery": "Moo-Duck Brewery",
+        "style": "Pale Ale - American",
+        "ba": 3.75,
+        "abv": 8,
+        "order": 19
+      },
+      {
+        "pod": "B",
+        "name": "The Remedy Honey Chamomile Wheat",
+        "addl": "",
+        "brewery": "Moo-Duck Brewery",
+        "style": "Spiced / Herbed Beer",
+        "ba": 3.16,
+        "abv": 5.2,
+        "order": 20
+      },
+      {
+        "pod": "B",
+        "name": "Mistopheles Imperial Stout",
+        "addl": "",
+        "brewery": "Moo-Duck Brewery",
+        "style": "Stout - American Imperial / Double",
+        "ba": null,
+        "abv": 8,
+        "order": 21
+      },
+      {
+        "pod": "B",
+        "name": "Double Dry Hopped Data Points",
+        "addl": "",
+        "brewery": "Twisted Bine Beer Co.",
+        "style": "IPA - American",
+        "ba": null,
+        "abv": 6.6,
+        "order": 22
+      },
+      {
+        "pod": "B",
+        "name": "Golden Goose",
+        "addl": "",
+        "brewery": "Twisted Bine Beer Co.",
+        "style": "IPA - American",
+        "ba": null,
+        "abv": 7,
+        "order": 23
+      },
+      {
+        "pod": "B",
+        "name": "Mai Concerto",
+        "addl": "",
+        "brewery": "Twisted Bine Beer Co.",
+        "style": "Bock - Hell / Maibock / Lentebock",
+        "ba": null,
+        "abv": 6.8,
+        "order": 24
+      },
+      {
+        "pod": "B",
+        "name": "",
+        "addl": "",
+        "brewery": "Twisted Bine Beer Co.",
+        "style": "",
+        "ba": null,
+        "abv": null,
+        "order": 25
+      },
+      {
+        "pod": "B",
+        "name": "Green Machine (Double Dry Hopped)",
+        "addl": "",
+        "brewery": "Boneshire Brew Works",
+        "style": "IPA - American",
+        "ba": null,
+        "abv": 7.5,
+        "order": 26
+      },
+      {
+        "pod": "B",
+        "name": "Tried And True (Pineapple)",
+        "addl": "",
+        "brewery": "Boneshire Brew Works",
+        "style": "Witbier",
+        "ba": null,
+        "abv": 5.5,
+        "order": 27
+      },
+      {
+        "pod": "B",
+        "name": "Hop Monger",
+        "addl": "",
+        "brewery": "Well Crafted Beer Company",
+        "style": "IPA - American",
+        "ba": 4.1,
+        "abv": 7.7,
+        "order": 28
+      },
+      {
+        "pod": "B",
+        "name": "Blonde Americano",
+        "addl": "",
+        "brewery": "Well Crafted Beer Company",
+        "style": "Blonde Ale",
+        "ba": null,
+        "abv": 5.6,
+        "order": 29
+      },
+      {
+        "pod": "C",
+        "name": "Super Soma: Passion Puff",
+        "addl": "",
+        "brewery": "Collusion Tap Works",
+        "style": "Sour - Fruited",
+        "ba": null,
+        "abv": 4.5,
+        "order": 30
+      },
+      {
+        "pod": "C",
+        "name": "Soft N Cuddly (Triple Berry Cherry)",
+        "addl": "",
+        "brewery": "Collusion Tap Works",
+        "style": "Sour - Fruited",
+        "ba": null,
+        "abv": 4.5,
+        "order": 31
+      },
+      {
+        "pod": "C",
+        "name": "Animorphus #27",
+        "addl": "Galaxy IPA",
+        "brewery": "Collusion Tap Works",
+        "style": "IPA - Imperial / Double",
+        "ba": null,
+        "abv": 8.4,
+        "order": 32
+      },
+      {
+        "pod": "C",
+        "name": "All Fudged Up",
+        "addl": "",
+        "brewery": "Collusion Tap Works",
+        "style": "Stout - American Imperial / Double",
+        "ba": null,
+        "abv": 10.5,
+        "order": 33
+      },
+      {
+        "pod": "C",
+        "name": "First Rite Pilsner",
+        "addl": "",
+        "brewery": "Collusion Tap Works",
+        "style": "Pilsner - German",
+        "ba": 3.94,
+        "abv": 5,
+        "order": 34
+      },
+      {
+        "pod": "C",
+        "name": "Xerion Matrix",
+        "addl": "",
+        "brewery": "Collusion Tap Works",
+        "style": "IPA - New England",
+        "ba": 3.85,
+        "abv": 6,
+        "order": 35
+      },
+      {
+        "pod": "C",
+        "name": "Ninja Boots",
+        "addl": "",
+        "brewery": "GearHouse Brewing Company",
+        "style": "IPA - New England",
+        "ba": null,
+        "abv": 7.25,
+        "order": 36
+      },
+      {
+        "pod": "C",
+        "name": "Nathan Miller Chocolate Porter",
+        "addl": "",
+        "brewery": "GearHouse Brewing Company",
+        "style": "Porter - American",
+        "ba": 3.7,
+        "abv": 6.4,
+        "order": 37
+      },
+      {
+        "pod": "C",
+        "name": "Float",
+        "addl": "",
+        "brewery": "Molly Pitcher Brewing Company",
+        "style": "IPA - Milkshake",
+        "ba": null,
+        "abv": 8,
+        "order": 38
+      },
+      {
+        "pod": "C",
+        "name": "Molly's \"Lighter\" Lager",
+        "addl": "",
+        "brewery": "Molly Pitcher Brewing Company",
+        "style": "Lager - Pale",
+        "ba": null,
+        "abv": 5,
+        "order": 39
+      },
+      {
+        "pod": "C",
+        "name": "Gose (Lime)",
+        "addl": "",
+        "brewery": "Wacker Brewing Company",
+        "style": "Sour - Gose",
+        "ba": null,
+        "abv": 4.2,
+        "order": 40
+      },
+      {
+        "pod": "C",
+        "name": "Red Rose Oktoberfest Lager",
+        "addl": "",
+        "brewery": "Wacker Brewing Company",
+        "style": "Märzen",
+        "ba": null,
+        "abv": 6.2,
+        "order": 41
+      },
+      {
+        "pod": "C",
+        "name": "",
+        "addl": "",
+        "brewery": "Mad Chef Craft Brewing",
+        "style": "",
+        "ba": null,
+        "abv": null,
+        "order": 42
+      },
+      {
+        "pod": "C",
+        "name": "",
+        "addl": "",
+        "brewery": "Mad Chef Craft Brewing",
+        "style": "",
+        "ba": null,
+        "abv": null,
+        "order": 43
+      },
+      {
+        "pod": "C",
+        "name": "My Morning Haze",
+        "addl": "",
+        "brewery": "Imprint Beer Co.",
+        "style": "IPA - New England",
+        "ba": 4.25,
+        "abv": 7.8,
+        "order": 44
+      },
+      {
+        "pod": "C",
+        "name": "Train Swaying",
+        "addl": "",
+        "brewery": "Imprint Beer Co.",
+        "style": "IPA - New England",
+        "ba": 4.1,
+        "abv": 7,
+        "order": 45
+      },
+      {
+        "pod": "C",
+        "name": "Schmoojee Blackberry Raspberry",
+        "addl": "",
+        "brewery": "Imprint Beer Co.",
+        "style": "Sour - Fruited",
+        "ba": null,
+        "abv": 4.5,
+        "order": 46
+      },
+      {
+        "pod": "C",
+        "name": "Schmoojee Blueberry Strawberry Raspberry Calamansi",
+        "addl": "",
+        "brewery": "Imprint Beer Co.",
+        "style": "Sour - Fruited",
+        "ba": null,
+        "abv": 6,
+        "order": 47
+      },
+      {
+        "pod": "D",
+        "name": "Neither Here Nor There",
+        "addl": "",
+        "brewery": "New Trail Brewing Co.",
+        "style": "IPA - Imperial / Double New England",
+        "ba": null,
+        "abv": 9.7,
+        "order": 48
+      },
+      {
+        "pod": "D",
+        "name": "Heliocentric: Blackberry",
+        "addl": "",
+        "brewery": "New Trail Brewing Co.",
+        "style": "Sour - Fruited",
+        "ba": null,
+        "abv": 5.5,
+        "order": 49
+      },
+      {
+        "pod": "D",
+        "name": "Bumbleberry Honey Blueberry Ale",
+        "addl": "",
+        "brewery": "Fat Heads Brewery",
+        "style": "Fruit Beer",
+        "ba": 3.73,
+        "abv": 5.3,
+        "order": 50
+      },
+      {
+        "pod": "D",
+        "name": "Strange Magic",
+        "addl": "",
+        "brewery": "Fat Heads Brewery",
+        "style": "IPA - American",
+        "ba": 3.98,
+        "abv": 6.5,
+        "order": 51
+      },
+      {
+        "pod": "D",
+        "name": "Sir Lushington",
+        "addl": "",
+        "brewery": "Blake's Hard Cider",
+        "style": "Cider - Traditional",
+        "ba": null,
+        "abv": 9,
+        "order": 52
+      },
+      {
+        "pod": "D",
+        "name": "Apple Lantern",
+        "addl": "",
+        "brewery": "Blake's Hard Cider",
+        "style": "Cider - Traditional",
+        "ba": null,
+        "abv": 6.5,
+        "order": 53
+      },
+      {
+        "pod": "D",
+        "name": "Flannel Mouth",
+        "addl": "",
+        "brewery": "Blake's Hard Cider",
+        "style": "Cider - Traditional",
+        "ba": null,
+        "abv": 6.5,
+        "order": 54
+      },
+      {
+        "pod": "D",
+        "name": "Wolf King",
+        "addl": "",
+        "brewery": "Rusty Rail Brewing Company",
+        "style": "Stout - Imperial / Double Oatmeal",
+        "ba": null,
+        "abv": 8.2,
+        "order": 55
+      },
+      {
+        "pod": "D",
+        "name": "Fog Monster",
+        "addl": "",
+        "brewery": "Rusty Rail Brewing Company",
+        "style": "IPA - New England",
+        "ba": 3.83,
+        "abv": 6.8,
+        "order": 56
+      },
+      {
+        "pod": "D",
+        "name": "Golden Thing",
+        "addl": "",
+        "brewery": "Tröegs Independent Brewing",
+        "style": "IPA - Imperial / Double",
+        "ba": 3.86,
+        "abv": 8.2,
+        "order": 57
+      },
+      {
+        "pod": "D",
+        "name": "Raspberry Tart Ale",
+        "addl": "",
+        "brewery": "Tröegs Independent Brewing",
+        "style": "Sour - Gose - Fruited",
+        "ba": 3.83,
+        "abv": 4.5,
+        "order": 58
+      },
+      {
+        "pod": "D",
+        "name": "Stayman Winesap",
+        "addl": "",
+        "brewery": "Ploughman Cider",
+        "style": "Cider - Dry",
+        "ba": null,
+        "abv": 6.9,
+        "order": 59
+      },
+      {
+        "pod": "D",
+        "name": "Dornick",
+        "addl": "",
+        "brewery": "Ploughman Cider",
+        "style": "Cider - Traditional",
+        "ba": null,
+        "abv": 8.5,
+        "order": 60
+      },
+      {
+        "pod": "E",
+        "name": "Voodoo Ranger Juicifer IPA",
+        "addl": "",
+        "brewery": "New Belgium Brewing Company",
+        "style": "IPA - American",
+        "ba": 3.8,
+        "abv": 7.7,
+        "order": 61
+      },
+      {
+        "pod": "E",
+        "name": "Peach Kick",
+        "addl": "",
+        "brewery": "New Belgium Brewing Company",
+        "style": "Sour - Fruited",
+        "ba": 3.55,
+        "abv": 4.3,
+        "order": 62
+      },
+      {
+        "pod": "E",
+        "name": "Loyal Lager",
+        "addl": "",
+        "brewery": "Yards Brewing Co.",
+        "style": "Lager - American",
+        "ba": null,
+        "abv": 5,
+        "order": 63
+      },
+      {
+        "pod": "E",
+        "name": "PYNK",
+        "addl": "",
+        "brewery": "Yards Brewing Co.",
+        "style": "Fruit Beer",
+        "ba": 3.61,
+        "abv": 5.5,
+        "order": 64
+      },
+      {
+        "pod": "E",
+        "name": "Sun Burst",
+        "addl": "",
+        "brewery": "Heavy Seas Beer",
+        "style": "Sour - Fruited",
+        "ba": 3.77,
+        "abv": 4.5,
+        "order": 65
+      },
+      {
+        "pod": "E",
+        "name": "Pounder",
+        "addl": "",
+        "brewery": "Heavy Seas Beer",
+        "style": "Pilsner - Other",
+        "ba": 3.69,
+        "abv": 5,
+        "order": 66
+      },
+      {
+        "pod": "E",
+        "name": "Dad Bod",
+        "addl": "",
+        "brewery": "DuClaw Brewing Co.",
+        "style": "IPA - Imperial / Double",
+        "ba": 3.82,
+        "abv": 8.5,
+        "order": 67
+      },
+      {
+        "pod": "E",
+        "name": "Hell on Wood (2019)",
+        "addl": "",
+        "brewery": "DuClaw Brewing Co.",
+        "style": "Barleywine - American",
+        "ba": 4.02,
+        "abv": 13.1,
+        "order": 68
+      },
+      {
+        "pod": "E",
+        "name": "My, My, My Key Lime Pie",
+        "addl": "",
+        "brewery": "DuClaw Brewing Co.",
+        "style": "Sour - Other",
+        "ba": 3.59,
+        "abv": 7.1,
+        "order": 69
+      },
+      {
+        "pod": "E",
+        "name": "Troubles Melt Like Lemon Drops",
+        "addl": "",
+        "brewery": "DuClaw Brewing Co.",
+        "style": "IPA - Sour",
+        "ba": 4.27,
+        "abv": 7.1,
+        "order": 70
+      },
+      {
+        "pod": "E",
+        "name": "The PastryArchy Pecan Pie",
+        "addl": "",
+        "brewery": "DuClaw Brewing Co.",
+        "style": "Stout - Russian Imperial",
+        "ba": 3.92,
+        "abv": 8.5,
+        "order": 71
+      },
+      {
+        "pod": "E",
+        "name": "No Way Gose (2019)",
+        "addl": "",
+        "brewery": "DuClaw Brewing Co.",
+        "style": "Sour - Gose",
+        "ba": 3.94,
+        "abv": 5.5,
+        "order": 72
+      },
+      {
+        "pod": "E",
+        "name": "Sour Me Carolina",
+        "addl": "",
+        "brewery": "DuClaw Brewing Co.",
+        "style": "Sour - Other",
+        "ba": 3.63,
+        "abv": 5.5,
+        "order": 73
+      },
+      {
+        "pod": "E",
+        "name": "Rapturous Verbatim",
+        "addl": "",
+        "brewery": "Snitz Creek Brewery",
+        "style": "IPA - Imperial / Double New England",
+        "ba": null,
+        "abv": 8.5,
+        "order": 74
+      },
+      {
+        "pod": "E",
+        "name": "Gold Hot Pants",
+        "addl": "",
+        "brewery": "Snitz Creek Brewery",
+        "style": "Sour - Fruited",
+        "ba": null,
+        "abv": 7.5,
+        "order": 75
+      },
+      {
+        "pod": "E",
+        "name": "Golden Bubbles",
+        "addl": "",
+        "brewery": "Rotunda Brewing Company",
+        "style": "IPA - New England",
+        "ba": null,
+        "abv": 5.9,
+        "order": 76
+      },
+      {
+        "pod": "E",
+        "name": "Wild Berry Pomegranate sWheat Tart",
+        "addl": "",
+        "brewery": "Rotunda Brewing Company",
+        "style": "Sour - Fruited",
+        "ba": null,
+        "abv": 5.9,
+        "order": 77
+      },
+      {
+        "pod": "E",
+        "name": "The Hessian Mercenary",
+        "addl": "",
+        "brewery": "Rotunda Brewing Company",
+        "style": "Brown Ale - Other",
+        "ba": null,
+        "abv": 7.8,
+        "order": 78
+      },
+      {
+        "pod": "F",
+        "name": "Financial Panther",
+        "addl": "",
+        "brewery": "Zeroday Brewing Co.",
+        "style": "IPA - New England",
+        "ba": 4,
+        "abv": 6.5,
+        "order": 79
+      },
+      {
+        "pod": "F",
+        "name": "Peach Novelty",
+        "addl": "",
+        "brewery": "Zeroday Brewing Co.",
+        "style": "Fruit Beer",
+        "ba": 3.82,
+        "abv": 6.5,
+        "order": 80
+      },
+      {
+        "pod": "F",
+        "name": "Amber Lager",
+        "addl": "",
+        "brewery": "Locust Lane Craft Brewery",
+        "style": "Lager - Amber",
+        "ba": 4.3,
+        "abv": 5.2,
+        "order": 81
+      },
+      {
+        "pod": "F",
+        "name": "Experimental IPA# XI: Straw-pricot Smoothie IPA",
+        "addl": "",
+        "brewery": "Locust Lane Craft Brewery",
+        "style": "IPA - Milkshake",
+        "ba": null,
+        "abv": 6.1,
+        "order": 82
+      },
+      {
+        "pod": "F",
+        "name": "Strawberry DIPA",
+        "addl": "",
+        "brewery": "Cox Brewing Company",
+        "style": "IPA - Imperial / Double",
+        "ba": null,
+        "abv": 7.4,
+        "order": 83
+      },
+      {
+        "pod": "F",
+        "name": "The White Feather",
+        "addl": "",
+        "brewery": "Cox Brewing Company",
+        "style": "Hefeweizen",
+        "ba": null,
+        "abv": 4.7,
+        "order": 84
+      },
+      {
+        "pod": "F",
+        "name": "S'more Beer",
+        "addl": "",
+        "brewery": "Cox Brewing Company",
+        "style": "Stout - Other",
+        "ba": 3.44,
+        "abv": 5,
+        "order": 85
+      },
+      {
+        "pod": "F",
+        "name": "",
+        "addl": "",
+        "brewery": "Mount Gretna Craft Brewery",
+        "style": "",
+        "ba": null,
+        "abv": null,
+        "order": 86
+      },
+      {
+        "pod": "F",
+        "name": "",
+        "addl": "",
+        "brewery": "Mount Gretna Craft Brewery",
+        "style": "",
+        "ba": null,
+        "abv": null,
+        "order": 87
+      },
+      {
+        "pod": "F",
+        "name": "Ghost Pepper Fetish",
+        "addl": "",
+        "brewery": "Fetish Brewing",
+        "style": "Spiced / Herbed Beer",
+        "ba": 3.46,
+        "abv": 6.5,
+        "order": 88
+      },
+      {
+        "pod": "F",
+        "name": "Gestalt",
+        "addl": "",
+        "brewery": "Fetish Brewing",
+        "style": "Hefeweizen",
+        "ba": null,
+        "abv": 6,
+        "order": 89
+      },
+      {
+        "pod": "F",
+        "name": "Pumpkin Fetish",
+        "addl": "",
+        "brewery": "Fetish Brewing",
+        "style": "Pumpkin / Yam Beer",
+        "ba": 3.89,
+        "abv": 6.56,
+        "order": 90
+      },
+      {
+        "pod": "F",
+        "name": "Submissive",
+        "addl": "",
+        "brewery": "Fetish Brewing",
+        "style": "IPA - American",
+        "ba": 3.79,
+        "abv": 6.5,
+        "order": 91
+      },
+      {
+        "pod": "F",
+        "name": "",
+        "addl": "",
+        "brewery": "Levante Brewing Co.",
+        "style": "",
+        "ba": null,
+        "abv": null,
+        "order": 92
+      },
+      {
+        "pod": "F",
+        "name": "",
+        "addl": "",
+        "brewery": "Levante Brewing Co.",
+        "style": "",
+        "ba": null,
+        "abv": null,
+        "order": 93
+      },
+      {
+        "pod": "G",
+        "name": "Food of the Gods Chocolate Porter",
+        "addl": "",
+        "brewery": "St. Boniface Craft Brewing Co",
+        "style": "Porter - Other",
+        "ba": 3.88,
+        "abv": 5.1,
+        "order": 94
+      },
+      {
+        "pod": "G",
+        "name": "Offering #50 - Captain Tyin' Knots Soursop IPA",
+        "addl": "",
+        "brewery": "St. Boniface Craft Brewing Co",
+        "style": "IPA - American",
+        "ba": null,
+        "abv": 5.8,
+        "order": 95
+      },
+      {
+        "pod": "G",
+        "name": "Community with Propinquity",
+        "addl": "",
+        "brewery": "Hidden River Brewing Co.",
+        "style": "English Mild Ale",
+        "ba": null,
+        "abv": 4.8,
+        "order": 96
+      },
+      {
+        "pod": "G",
+        "name": "Fortune Awaits",
+        "addl": "",
+        "brewery": "Hidden River Brewing Co.",
+        "style": "IPA - American",
+        "ba": null,
+        "abv": 6.4,
+        "order": 97
+      },
+      {
+        "pod": "G",
+        "name": "Mongo Mango Haze",
+        "addl": "",
+        "brewery": "Columbia Kettle Works",
+        "style": "IPA - New England",
+        "ba": null,
+        "abv": 5.3,
+        "order": 98
+      },
+      {
+        "pod": "G",
+        "name": "Tricky Fingers",
+        "addl": "",
+        "brewery": "Columbia Kettle Works",
+        "style": "Belgian Tripel",
+        "ba": 3.73,
+        "abv": 9,
+        "order": 99
+      },
+      {
+        "pod": "G",
+        "name": "Munich Helles",
+        "addl": "",
+        "brewery": "Columbia Kettle Works",
+        "style": "Lager - Helles",
+        "ba": 4.09,
+        "abv": 4.5,
+        "order": 100
+      },
+      {
+        "pod": "G",
+        "name": "Olmec Umber Chocolate Stout",
+        "addl": "",
+        "brewery": "Columbia Kettle Works",
+        "style": "",
+        "ba": null,
+        "abv": 4.1,
+        "order": 101
+      },
+      {
+        "pod": "G",
+        "name": "Voodoo in the Basement",
+        "addl": "",
+        "brewery": "Pottstown United Brewing Co.",
+        "style": "IPA - American",
+        "ba": null,
+        "abv": 6,
+        "order": 102
+      },
+      {
+        "pod": "G",
+        "name": "Weather Companion",
+        "addl": "",
+        "brewery": "Pottstown United Brewing Co.",
+        "style": "Bock - Weizenbock",
+        "ba": null,
+        "abv": 7.6,
+        "order": 103
+      },
+      {
+        "pod": "G",
+        "name": "Raspberry Bliss",
+        "addl": "",
+        "brewery": "Pottstown United Brewing Co.",
+        "style": "Sour - Fruited",
+        "ba": null,
+        "abv": 5.2,
+        "order": 104
+      },
+      {
+        "pod": "G",
+        "name": "Gestalt 9",
+        "addl": "",
+        "brewery": "Fermentery Form",
+        "style": "American Wild Ale",
+        "ba": 4,
+        "abv": 5,
+        "order": 105
+      },
+      {
+        "pod": "G",
+        "name": "Informal #3",
+        "addl": "",
+        "brewery": "Fermentery Form",
+        "style": "Farmhouse Ale - Saison",
+        "ba": null,
+        "abv": 7,
+        "order": 106
+      },
+      {
+        "pod": "G",
+        "name": "Form To Table (Batch 003 - 2019)",
+        "addl": "",
+        "brewery": "Fermentery Form",
+        "style": "Farmhouse Ale - Saison",
+        "ba": 3.99,
+        "abv": 3.5,
+        "order": 107
+      },
+      {
+        "pod": "G",
+        "name": "Formation (Batch 002)",
+        "addl": "",
+        "brewery": "Fermentery Form",
+        "style": "Golden Ale",
+        "ba": 4.22,
+        "abv": 5,
+        "order": 108
+      },
+      {
+        "pod": "G",
+        "name": "LO-FI",
+        "addl": "",
+        "brewery": "Fermentery Form",
+        "style": "Farmhouse Ale - Other",
+        "ba": null,
+        "abv": null,
+        "order": 109
+      },
+      {
+        "pod": "G",
+        "name": "Fooz",
+        "addl": "",
+        "brewery": "Fermentery Form",
+        "style": "Fruit Beer",
+        "ba": null,
+        "abv": 5,
+        "order": 110
+      },
+      {
+        "pod": "G",
+        "name": "Sherbert Day",
+        "addl": "",
+        "brewery": "Crime & Punishment Brewing Company",
+        "style": "Sour - Gose",
+        "ba": null,
+        "abv": 5.1,
+        "order": 111
+      },
+      {
+        "pod": "G",
+        "name": "Portable Chekhov",
+        "addl": "",
+        "brewery": "Crime & Punishment Brewing Company",
+        "style": "IPA - New England",
+        "ba": null,
+        "abv": 6.5,
+        "order": 112
+      },
+      {
+        "pod": "H",
+        "name": "Sol in Gemini",
+        "addl": "",
+        "brewery": "Foreign Objects",
+        "style": "IPA - Imperial / Double New England",
+        "ba": 4.17,
+        "abv": 7.5,
+        "order": 113
+      },
+      {
+        "pod": "H",
+        "name": "Die Deutscher Haltung",
+        "addl": "",
+        "brewery": "Foreign Objects",
+        "style": "Kellerbier / Zwickelbier",
+        "ba": 3.97,
+        "abv": 4.8,
+        "order": 114
+      },
+      {
+        "pod": "H",
+        "name": "Zoe",
+        "addl": "",
+        "brewery": "Maine Beer Company",
+        "style": "Red Ale - American Amber / Red",
+        "ba": 4.2,
+        "abv": 7.2,
+        "order": 115
+      },
+      {
+        "pod": "H",
+        "name": "Lunch",
+        "addl": "",
+        "brewery": "Maine Beer Company",
+        "style": "IPA - American",
+        "ba": 4.39,
+        "abv": 7,
+        "order": 116
+      },
+      {
+        "pod": "H",
+        "name": "Vienna Style Lager",
+        "addl": "",
+        "brewery": "von Trapp Brewing",
+        "style": "Lager - Vienna",
+        "ba": 3.82,
+        "abv": 5.2,
+        "order": 117
+      },
+      {
+        "pod": "H",
+        "name": "Bohemian Pilsner",
+        "addl": "",
+        "brewery": "von Trapp Brewing",
+        "style": "Pilsner - Czech",
+        "ba": 3.86,
+        "abv": 5.4,
+        "order": 118
+      },
+      {
+        "pod": "H",
+        "name": "Voodoo Love Child",
+        "addl": "",
+        "brewery": "Voodoo Brewing",
+        "style": "Belgian Tripel",
+        "ba": 3.78,
+        "abv": 9.2,
+        "order": 119
+      },
+      {
+        "pod": "H",
+        "name": "Hoodoo",
+        "addl": "",
+        "brewery": "Voodoo Brewing",
+        "style": "IPA - American",
+        "ba": 3.83,
+        "abv": 7.3,
+        "order": 120
+      },
+      {
+        "pod": "H",
+        "name": "Oatmeal Raisin Cookie",
+        "addl": "",
+        "brewery": "Cigar City Brewing",
+        "style": "Brown Ale - English",
+        "ba": 4.12,
+        "abv": 5.5,
+        "order": 121
+      },
+      {
+        "pod": "H",
+        "name": "Guayabera",
+        "addl": "",
+        "brewery": "Cigar City Brewing",
+        "style": "Pale Ale - American",
+        "ba": 4.07,
+        "abv": 5.5,
+        "order": 122
+      },
+      {
+        "pod": "H",
+        "name": "Jai Alai",
+        "addl": "",
+        "brewery": "Cigar City Brewing",
+        "style": "IPA - American",
+        "ba": 4.29,
+        "abv": 7.5,
+        "order": 123
+      },
+      {
+        "pod": "H",
+        "name": "Dale's Pale Ale",
+        "addl": "",
+        "brewery": "Oskar Blues Brewery",
+        "style": "Pale Ale - American",
+        "ba": 3.9,
+        "abv": 6.5,
+        "order": 124
+      },
+      {
+        "pod": "H",
+        "name": "Death by Coconut",
+        "addl": "",
+        "brewery": "Oskar Blues Brewery",
+        "style": "Porter - Other",
+        "ba": 4.18,
+        "abv": 6.5,
+        "order": 125
+      },
+      {
+        "pod": "I",
+        "name": "Be Nice Vol. Three",
+        "addl": "",
+        "brewery": "Funk Brewing",
+        "style": "IPA - Imperial / Double",
+        "ba": null,
+        "abv": 7.7,
+        "order": 126
+      },
+      {
+        "pod": "I",
+        "name": "Funktoberfest",
+        "addl": "",
+        "brewery": "Funk Brewing",
+        "style": "Märzen",
+        "ba": 3.86,
+        "abv": 5.9,
+        "order": 127
+      },
+      {
+        "pod": "I",
+        "name": "Citrus IPA",
+        "addl": "",
+        "brewery": "Funk Brewing",
+        "style": "IPA - American",
+        "ba": 4.08,
+        "abv": 6.7,
+        "order": 128
+      },
+      {
+        "pod": "I",
+        "name": "Silent Disco",
+        "addl": "",
+        "brewery": "Funk Brewing",
+        "style": "IPA - New England",
+        "ba": 4.11,
+        "abv": 6.8,
+        "order": 129
+      },
+      {
+        "pod": "I",
+        "name": "Raspberry Coconut",
+        "addl": "",
+        "brewery": "Charm City Meadworks",
+        "style": "Mead - Other",
+        "ba": null,
+        "abv": 6.9,
+        "order": 130
+      },
+      {
+        "pod": "I",
+        "name": "Mango Comapeño",
+        "addl": "",
+        "brewery": "Charm City Meadworks",
+        "style": "Mead - Other",
+        "ba": null,
+        "abv": 6.9,
+        "order": 131
+      },
+      {
+        "pod": "I",
+        "name": "Tell Your Citra I Said Hi",
+        "addl": "",
+        "brewery": "Oliver Brewing Co",
+        "style": "IPA - Imperial / Double New England",
+        "ba": 4,
+        "abv": 8,
+        "order": 132
+      },
+      {
+        "pod": "I",
+        "name": "Social Lager",
+        "addl": "",
+        "brewery": "Oliver Brewing Co",
+        "style": "Lager - Pale",
+        "ba": null,
+        "abv": 5,
+        "order": 133
+      },
+      {
+        "pod": "I",
+        "name": "Farm Flor",
+        "addl": "",
+        "brewery": "Graft Cider",
+        "style": "Cider - Traditional",
+        "ba": null,
+        "abv": 6.9,
+        "order": 134
+      },
+      {
+        "pod": "I",
+        "name": "Salt & Sand",
+        "addl": "",
+        "brewery": "Graft Cider",
+        "style": "Cider - Traditional",
+        "ba": null,
+        "abv": 6.9,
+        "order": 135
+      },
+      {
+        "pod": "I",
+        "name": "Interstellar Fog",
+        "addl": "",
+        "brewery": "Captain Lawrence Brewing Co.",
+        "style": "IPA - New England",
+        "ba": null,
+        "abv": 8.5,
+        "order": 136
+      },
+      {
+        "pod": "I",
+        "name": "Frutteto",
+        "addl": "",
+        "brewery": "Captain Lawrence Brewing Co.",
+        "style": "Sour - Fruited",
+        "ba": 4.16,
+        "abv": 7.5,
+        "order": 137
+      },
+      {
+        "pod": "I",
+        "name": "Groove City Hefe",
+        "addl": "",
+        "brewery": "RaR Brewing",
+        "style": "Hefeweizen",
+        "ba": 3.9,
+        "abv": 5.2,
+        "order": 138
+      },
+      {
+        "pod": "I",
+        "name": "Nanticoke Nectar",
+        "addl": "",
+        "brewery": "RaR Brewing",
+        "style": "IPA - American",
+        "ba": 3.97,
+        "abv": 7.4,
+        "order": 139
+      },
+      {
+        "pod": "I",
+        "name": "Puck Face",
+        "addl": "",
+        "brewery": "RaR Brewing",
+        "style": "Sour - Berliner Weisse",
+        "ba": 3.81,
+        "abv": 4.6,
+        "order": 140
+      },
+      {
+        "pod": "I",
+        "name": "Deez Knux",
+        "addl": "",
+        "brewery": "RaR Brewing",
+        "style": "Sour - Fruited",
+        "ba": null,
+        "abv": 6.5,
+        "order": 141
+      },
+      {
+        "pod": "J",
+        "name": "Robert the Bruce",
+        "addl": "",
+        "brewery": "3 Floyds Brewing Company",
+        "style": "Scottish Ale",
+        "ba": 3.89,
+        "abv": 6.5,
+        "order": 142
+      },
+      {
+        "pod": "J",
+        "name": "Space Station Middle Finger",
+        "addl": "",
+        "brewery": "3 Floyds Brewing Company",
+        "style": "Pale Ale - American",
+        "ba": 4.18,
+        "abv": 6,
+        "order": 143
+      },
+      {
+        "pod": "J",
+        "name": "Copper Legend",
+        "addl": "",
+        "brewery": "Jack's Abby Craft Lagers",
+        "style": "Festbier",
+        "ba": 3.78,
+        "abv": 5.7,
+        "order": 144
+      },
+      {
+        "pod": "J",
+        "name": "House Lager",
+        "addl": "",
+        "brewery": "Jack's Abby Craft Lagers",
+        "style": "Lager - Helles",
+        "ba": 3.9,
+        "abv": 5.2,
+        "order": 145
+      },
+      {
+        "pod": "J",
+        "name": "Dragon's Milk",
+        "addl": "",
+        "brewery": "New Holland Brewing",
+        "style": "Stout - American Imperial / Double",
+        "ba": 4.08,
+        "abv": 11,
+        "order": 146
+      },
+      {
+        "pod": "J",
+        "name": "Sour Inc: Concord Grape Gose",
+        "addl": "",
+        "brewery": "New Holland Brewing",
+        "style": "Sour - Gose",
+        "ba": 3.98,
+        "abv": 4.5,
+        "order": 147
+      },
+      {
+        "pod": "J",
+        "name": "Dragon’s Milk White",
+        "addl": "",
+        "brewery": "New Holland Brewing",
+        "style": "Stout - White",
+        "ba": 3.82,
+        "abv": 6,
+        "order": 148
+      },
+      {
+        "pod": "J",
+        "name": "Pumking",
+        "addl": "",
+        "brewery": "Southern Tier Brewing Co.",
+        "style": "Pumpkin / Yam Beer",
+        "ba": 4.13,
+        "abv": 8.6,
+        "order": 149
+      },
+      {
+        "pod": "J",
+        "name": "Chocolate Milkshake Non Nitro",
+        "addl": "Southern Tier Blackwater Series",
+        "brewery": "Southern Tier Brewing Co.",
+        "style": "Stout - Imperial / Double Milk",
+        "ba": 4.13,
+        "abv": 10,
+        "order": 150
+      },
+      {
+        "pod": "J",
+        "name": "Festbier",
+        "addl": "",
+        "brewery": "Victory Brewing Company",
+        "style": "Lager - Amber",
+        "ba": 3.7,
+        "abv": 5.6,
+        "order": 151
+      },
+      {
+        "pod": "J",
+        "name": "Twisted Monkey",
+        "addl": "",
+        "brewery": "Victory Brewing Company",
+        "style": "Belgian Blonde",
+        "ba": 3.58,
+        "abv": 5.8,
+        "order": 152
+      },
+      {
+        "pod": "J",
+        "name": "Lime Ginger Cider",
+        "addl": "",
+        "brewery": "Levengoods of Lancaster",
+        "style": "Cider - Traditional",
+        "ba": null,
+        "abv": 6.5,
+        "order": 153
+      },
+      {
+        "pod": "J",
+        "name": "Rose Cider",
+        "addl": "",
+        "brewery": "Levengoods of Lancaster",
+        "style": "Cider - Traditional",
+        "ba": null,
+        "abv": null,
+        "order": 154
+      },
+      {
+        "pod": "K",
+        "name": "Double Chocolate Milk Stout",
+        "addl": "",
+        "brewery": "Lancaster Brewing Company",
+        "style": "Stout - Milk / Sweet",
+        "ba": 4.07,
+        "abv": 6.8,
+        "order": 155
+      },
+      {
+        "pod": "K",
+        "name": "Fresh Roasted Peanut Butter Ale",
+        "addl": "",
+        "brewery": "Lancaster Brewing Company",
+        "style": "English Mild Ale",
+        "ba": 4.04,
+        "abv": 6.5,
+        "order": 156
+      },
+      {
+        "pod": "K",
+        "name": "Hop Belly IPA",
+        "addl": "",
+        "brewery": "Lancaster Brewing Company",
+        "style": "IPA - Session / India Session Ale",
+        "ba": 3.51,
+        "abv": 4.5,
+        "order": 157
+      },
+      {
+        "pod": "K",
+        "name": "Lancaster Hard Seltzer - Blackberry",
+        "addl": "",
+        "brewery": "Lancaster Brewing Company",
+        "style": "Hard Seltzer",
+        "ba": null,
+        "abv": 5.4,
+        "order": 158
+      },
+      {
+        "pod": "K",
+        "name": "Hennepin Farmhouse Saison",
+        "addl": "",
+        "brewery": "Brewery Ommegang",
+        "style": "Farmhouse Ale - Saison",
+        "ba": 4.18,
+        "abv": 7.7,
+        "order": 159
+      },
+      {
+        "pod": "K",
+        "name": "Adoration (Barrel Aged)",
+        "addl": "",
+        "brewery": "Brewery Ommegang",
+        "style": "Belgian Strong Dark Ale",
+        "ba": 4.22,
+        "abv": 10,
+        "order": 160
+      },
+      {
+        "pod": "K",
+        "name": "Two Juicy",
+        "addl": "",
+        "brewery": "Two Roads Brewing Company",
+        "style": "IPA - Imperial / Double New England",
+        "ba": 4.16,
+        "abv": 8.2,
+        "order": 161
+      },
+      {
+        "pod": "K",
+        "name": "Persian Lime Gose",
+        "addl": "Tanker Truck Sour Series",
+        "brewery": "Two Roads Brewing Company",
+        "style": "Sour - Gose - Fruited",
+        "ba": 3.88,
+        "abv": 4.5,
+        "order": 162
+      },
+      {
+        "pod": "K",
+        "name": "Heavy Boots of Lead Imperial Stout",
+        "addl": "",
+        "brewery": "Singlecut Beersmiths",
+        "style": "Stout - American Imperial / Double",
+        "ba": 4.29,
+        "abv": 11.2,
+        "order": 163
+      },
+      {
+        "pod": "K",
+        "name": "Half Stack",
+        "addl": "",
+        "brewery": "Singlecut Beersmiths",
+        "style": "IPA - American",
+        "ba": 4.14,
+        "abv": 6.6,
+        "order": 164
+      },
+      {
+        "pod": "K",
+        "name": "Barn Beer",
+        "addl": "",
+        "brewery": "Plan Bee Farm Brewery",
+        "style": "American Wild Ale",
+        "ba": 4.18,
+        "abv": 5.5,
+        "order": 165
+      },
+      {
+        "pod": "K",
+        "name": "Karnevel",
+        "addl": "",
+        "brewery": "Plan Bee Farm Brewery",
+        "style": "American Wild Ale",
+        "ba": 4.03,
+        "abv": 6.3,
+        "order": 166
+      },
+      {
+        "pod": "K",
+        "name": "Hipster Catnip",
+        "addl": "",
+        "brewery": "La Cabra Brewing",
+        "style": "IPA - American",
+        "ba": 4.18,
+        "abv": 7.2,
+        "order": 167
+      },
+      {
+        "pod": "K",
+        "name": "Clipper",
+        "addl": "",
+        "brewery": "La Cabra Brewing",
+        "style": "Kölsch",
+        "ba": null,
+        "abv": 4.5,
+        "order": 168
+      },
+      {
+        "pod": "L",
+        "name": "Black House",
+        "addl": "",
+        "brewery": "Modern Times Beer",
+        "style": "Stout - Coffee",
+        "ba": 4.03,
+        "abv": 5.8,
+        "order": 169
+      },
+      {
+        "pod": "L",
+        "name": "Orderville",
+        "addl": "",
+        "brewery": "Modern Times Beer",
+        "style": "IPA - New England",
+        "ba": 4.13,
+        "abv": 7.2,
+        "order": 170
+      },
+      {
+        "pod": "L",
+        "name": "Space Ways",
+        "addl": "",
+        "brewery": "Modern Times Beer",
+        "style": "IPA - New England",
+        "ba": 4.13,
+        "abv": 6.7,
+        "order": 171
+      },
+      {
+        "pod": "L",
+        "name": "Framboise",
+        "addl": "",
+        "brewery": "Une Année Brewery",
+        "style": "Lambic - Framboise",
+        "ba": 4.22,
+        "abv": 6.5,
+        "order": 172
+      },
+      {
+        "pod": "L",
+        "name": "Le Seul III (Blackberry)",
+        "addl": "",
+        "brewery": "Une Année Brewery",
+        "style": "American Wild Ale",
+        "ba": 4.08,
+        "abv": 7,
+        "order": 173
+      },
+      {
+        "pod": "L",
+        "name": "Le Seul XXIV (Plums)",
+        "addl": "",
+        "brewery": "Une Année Brewery",
+        "style": "American Wild Ale",
+        "ba": null,
+        "abv": 6.5,
+        "order": 174
+      },
+      {
+        "pod": "L",
+        "name": "Le Seul XXVI (Boysenberry)",
+        "addl": "",
+        "brewery": "Une Année Brewery",
+        "style": "American Wild Ale",
+        "ba": null,
+        "abv": 6.5,
+        "order": 175
+      },
+      {
+        "pod": "L",
+        "name": "Lucifer in A Haze",
+        "addl": "",
+        "brewery": "18th Street Brewery",
+        "style": "IPA - Imperial / Double New England",
+        "ba": 4.33,
+        "abv": 8.4,
+        "order": 176
+      },
+      {
+        "pod": "L",
+        "name": "Rubicon",
+        "addl": "",
+        "brewery": "18th Street Brewery",
+        "style": "IPA - American",
+        "ba": 3.95,
+        "abv": 7.2,
+        "order": 177
+      },
+      {
+        "pod": "L",
+        "name": "Coded Tiles",
+        "addl": "",
+        "brewery": "LIC Beer Project",
+        "style": "Pale Ale - American",
+        "ba": 4.07,
+        "abv": 5,
+        "order": 178
+      },
+      {
+        "pod": "L",
+        "name": "SAMO",
+        "addl": "",
+        "brewery": "LIC Beer Project",
+        "style": "IPA - American",
+        "ba": 4.22,
+        "abv": 6.5,
+        "order": 179
+      },
+      {
+        "pod": "L",
+        "name": "Lizard King",
+        "addl": "",
+        "brewery": "Pipeworks Brewing Company",
+        "style": "Pale Ale - American",
+        "ba": 4.27,
+        "abv": 6,
+        "order": 180
+      },
+      {
+        "pod": "L",
+        "name": "Premium Pilsner",
+        "addl": "",
+        "brewery": "Pipeworks Brewing Company",
+        "style": "Pilsner - Other",
+        "ba": 3.94,
+        "abv": 4.9,
+        "order": 181
+      },
+      {
+        "pod": "L",
+        "name": "Tools of the Trade",
+        "addl": "",
+        "brewery": "Industrial Arts Brewing",
+        "style": "Pale Ale - American",
+        "ba": 3.94,
+        "abv": 4.9,
+        "order": 182
+      },
+      {
+        "pod": "L",
+        "name": "Wrench NEIPA",
+        "addl": "",
+        "brewery": "Industrial Arts Brewing",
+        "style": "IPA - New England",
+        "ba": 4.33,
+        "abv": 6.8,
+        "order": 183
+      },
+      {
+        "pod": "M",
+        "name": "Spring Rooster IPA",
+        "addl": "",
+        "brewery": "Spring House Brewing Company",
+        "style": "IPA - American",
+        "ba": null,
+        "abv": 7.1,
+        "order": 184
+      },
+      {
+        "pod": "M",
+        "name": "Slap Me Some Skin",
+        "addl": "",
+        "brewery": "Spring House Brewing Company",
+        "style": "Stout - Oatmeal",
+        "ba": null,
+        "abv": 8.5,
+        "order": 185
+      },
+      {
+        "pod": "M",
+        "name": "Up & Out",
+        "addl": "",
+        "brewery": "2SP Brewing Company",
+        "style": "IPA - American",
+        "ba": 4.02,
+        "abv": 6,
+        "order": 186
+      },
+      {
+        "pod": "M",
+        "name": "Voluptuous Fuzz",
+        "addl": "",
+        "brewery": "2SP Brewing Company",
+        "style": "Wheat Beer - Other",
+        "ba": 3.77,
+        "abv": 4.8,
+        "order": 187
+      },
+      {
+        "pod": "M",
+        "name": "Trick or Treat",
+        "addl": "",
+        "brewery": "Evil Genius Beer Company",
+        "style": "Pumpkin / Yam Beer",
+        "ba": 3.65,
+        "abv": 7.8,
+        "order": 188
+      },
+      {
+        "pod": "M",
+        "name": "Bye Felicia!",
+        "addl": "",
+        "brewery": "Evil Genius Beer Company",
+        "style": "IPA - American",
+        "ba": 3.79,
+        "abv": 6.5,
+        "order": 189
+      },
+      {
+        "pod": "M",
+        "name": "Helles Golden Lager",
+        "addl": "",
+        "brewery": "Sly Fox Brewing Co.",
+        "style": "Lager - Helles",
+        "ba": 3.68,
+        "abv": 4.9,
+        "order": 190
+      },
+      {
+        "pod": "M",
+        "name": "Vulpulin",
+        "addl": "",
+        "brewery": "Sly Fox Brewing Co.",
+        "style": "IPA - American",
+        "ba": 3.96,
+        "abv": 6,
+        "order": 191
+      },
+      {
+        "pod": "M",
+        "name": "Croydon Cream Ale",
+        "addl": "",
+        "brewery": "Neshaminy Creek Brewing Company",
+        "style": "Cream Ale",
+        "ba": 3.51,
+        "abv": 4.2,
+        "order": 192
+      },
+      {
+        "pod": "M",
+        "name": "Uncommon Knowledge",
+        "addl": "",
+        "brewery": "Neshaminy Creek Brewing Company",
+        "style": "IPA - New England",
+        "ba": 4.05,
+        "abv": 7,
+        "order": 193
+      },
+      {
+        "pod": "M",
+        "name": "Luponic Distortion: IPA Series No. 013",
+        "addl": "",
+        "brewery": "Firestone Walker Brewing Company",
+        "style": "IPA - American",
+        "ba": 3.89,
+        "abv": 5.9,
+        "order": 194
+      },
+      {
+        "pod": "M",
+        "name": "Rosalie",
+        "addl": "",
+        "brewery": "Firestone Walker Brewing Company",
+        "style": "Cider - Rosé",
+        "ba": 3.57,
+        "abv": 5,
+        "order": 195
+      },
+      {
+        "pod": "N",
+        "name": "Slightly Mighty",
+        "addl": "",
+        "brewery": "Dogfish Head Craft Brewery",
+        "style": "IPA - Session / India Session Ale",
+        "ba": 3.59,
+        "abv": 4,
+        "order": 196
+      },
+      {
+        "pod": "N",
+        "name": "Punkin Ale (2019)",
+        "addl": "",
+        "brewery": "Dogfish Head Craft Brewery",
+        "style": "Pumpkin / Yam Beer",
+        "ba": 3.95,
+        "abv": 7,
+        "order": 197
+      },
+      {
+        "pod": "N",
+        "name": "Oktoberfest",
+        "addl": "",
+        "brewery": "Stoudts Brewing Company",
+        "style": "Märzen",
+        "ba": 3.62,
+        "abv": 5,
+        "order": 198
+      },
+      {
+        "pod": "N",
+        "name": "Queen of Hops #1671 Belgian-Style Wit",
+        "addl": "",
+        "brewery": "Stoudts Brewing Company",
+        "style": "Witbier",
+        "ba": null,
+        "abv": 6.3,
+        "order": 199
+      },
+      {
+        "pod": "N",
+        "name": "Don't Cryo'ver Spilled Milk",
+        "addl": "",
+        "brewery": "Tattered Flag Brewery",
+        "style": "IPA - Milkshake",
+        "ba": null,
+        "abv": 8,
+        "order": 200
+      },
+      {
+        "pod": "N",
+        "name": "Teutonic Knight Hefeweizen",
+        "addl": "",
+        "brewery": "Tattered Flag Brewery",
+        "style": "Hefeweizen",
+        "ba": 3.84,
+        "abv": 5.4,
+        "order": 201
+      },
+      {
+        "pod": "N",
+        "name": "Irregardless IPA",
+        "addl": "",
+        "brewery": "Liquid Hero Brewery",
+        "style": "IPA - American",
+        "ba": 3.84,
+        "abv": 6.5,
+        "order": 202
+      },
+      {
+        "pod": "N",
+        "name": "Manifestation #14: DRINK BEANS! Coffee Stout",
+        "addl": "",
+        "brewery": "Liquid Hero Brewery",
+        "style": "Stout - Coffee",
+        "ba": null,
+        "abv": 6.4,
+        "order": 203
+      },
+      {
+        "pod": "N",
+        "name": "Not Today Satan",
+        "addl": "",
+        "brewery": "Mispillion River Brewing",
+        "style": "IPA - American",
+        "ba": 3.82,
+        "abv": 7.3,
+        "order": 204
+      },
+      {
+        "pod": "N",
+        "name": "Holy Crap!",
+        "addl": "",
+        "brewery": "Mispillion River Brewing",
+        "style": "Red Ale - Imperial / Double",
+        "ba": 3.97,
+        "abv": 9,
+        "order": 205
+      },
+      {
+        "pod": "N",
+        "name": "The Kragle IPA",
+        "addl": "",
+        "brewery": "Free Will Brewing Co.",
+        "style": "IPA - American",
+        "ba": 3.95,
+        "abv": 6.6,
+        "order": 206
+      },
+      {
+        "pod": "N",
+        "name": "Scarecrow",
+        "addl": "",
+        "brewery": "Free Will Brewing Co.",
+        "style": "Wheat Beer - Other",
+        "ba": 3.61,
+        "abv": 5,
+        "order": 207
+      },
+      {
+        "pod": "N",
+        "name": "Ella",
+        "addl": "",
+        "brewery": "Free Will Brewing Co.",
+        "style": "Belgian Quadrupel",
+        "ba": 4.14,
+        "abv": 14.7,
+        "order": 208
+      },
+      {
+        "pod": "O",
+        "name": "Double Trouble",
+        "addl": "",
+        "brewery": "Founders Brewing Co.",
+        "style": "IPA - Imperial / Double",
+        "ba": 4.21,
+        "abv": 9.4,
+        "order": 209
+      },
+      {
+        "pod": "O",
+        "name": "Underground Mountain Brown",
+        "addl": "",
+        "brewery": "Founders Brewing Co.",
+        "style": "Brown Ale - Imperial / Double",
+        "ba": 4.43,
+        "abv": 11.9,
+        "order": 210
+      },
+      {
+        "pod": "O",
+        "name": "Pilsner",
+        "addl": "",
+        "brewery": "Founders Brewing Co.",
+        "style": "Pilsner - Other",
+        "ba": 3.84,
+        "abv": 5.5,
+        "order": 211
+      },
+      {
+        "pod": "O",
+        "name": "Mischievous Brown Ale",
+        "addl": "",
+        "brewery": "Helltown Brewing",
+        "style": "Brown Ale - English",
+        "ba": 3.96,
+        "abv": 5.5,
+        "order": 212
+      },
+      {
+        "pod": "O",
+        "name": "Buffy",
+        "addl": "",
+        "brewery": "Helltown Brewing",
+        "style": "IPA - New England",
+        "ba": 4.08,
+        "abv": 6.7,
+        "order": 213
+      },
+      {
+        "pod": "O",
+        "name": "Type A",
+        "addl": "",
+        "brewery": "Conshohocken Brewing Company",
+        "style": "IPA - American",
+        "ba": 4,
+        "abv": 7,
+        "order": 214
+      },
+      {
+        "pod": "O",
+        "name": "Adjacent American Pale Ale",
+        "addl": "",
+        "brewery": "Conshohocken Brewing Company",
+        "style": "Pale Ale - American",
+        "ba": null,
+        "abv": 5.2,
+        "order": 215
+      },
+      {
+        "pod": "O",
+        "name": "Festbier",
+        "addl": "",
+        "brewery": "Conshohocken Brewing Company",
+        "style": "Märzen",
+        "ba": 3.62,
+        "abv": 5.3,
+        "order": 216
+      },
+      {
+        "pod": "O",
+        "name": "DayTime IPA",
+        "addl": "",
+        "brewery": "Lagunitas Brewing Company",
+        "style": "IPA - Session/India Session Ale",
+        "ba": 3.97,
+        "abv": 4,
+        "order": 217
+      },
+      {
+        "pod": "O",
+        "name": "Hazy Memory",
+        "addl": "",
+        "brewery": "Lagunitas Brewing Company",
+        "style": "IPA - New England",
+        "ba": 4.08,
+        "abv": 7.7,
+        "order": 218
+      },
+      {
+        "pod": "O",
+        "name": "We Are",
+        "addl": "",
+        "brewery": "Stable 12 Brewing Company",
+        "style": "Lager - American Light",
+        "ba": null,
+        "abv": 4.5,
+        "order": 219
+      },
+      {
+        "pod": "O",
+        "name": "Super Mash Bros",
+        "addl": "",
+        "brewery": "Stable 12 Brewing Company",
+        "style": "IPA - New England",
+        "ba": 3.95,
+        "abv": 6.4,
+        "order": 220
+      },
+      {
+        "pod": "O",
+        "name": "Basic Bee",
+        "addl": "",
+        "brewery": "Stable 12 Brewing Company",
+        "style": "Stout - Coffee",
+        "ba": null,
+        "abv": 6,
+        "order": 221
+      },
+      {
+        "pod": "O",
+        "name": "Kipona Fest",
+        "addl": "",
+        "brewery": "Appalachian Brewing Co.",
+        "style": "Märzen",
+        "ba": 3.59,
+        "abv": 5.2,
+        "order": 222
+      },
+      {
+        "pod": "O",
+        "name": "Hoppy Trails",
+        "addl": "",
+        "brewery": "Appalachian Brewing Co.",
+        "style": "IPA - American",
+        "ba": 3.65,
+        "abv": 6.2,
+        "order": 223
+      }
+     ],
+   "timestamp": "2019-09-18T01:17:00.716Z"
+ }
+]
