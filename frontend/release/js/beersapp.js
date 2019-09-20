@@ -514,7 +514,7 @@ Patrick Crager
     return factory;
 
     function list() {
-      return $http.get('/data/taplist-20190917.json');
+      return $http.get('/data/taplist-20190919.json');
     }
 
     function search(b, n) {
