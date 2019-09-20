@@ -73,20 +73,26 @@ a:hover {
 }
 .navbar-brand {
 	height: 66px;
-	padding: 0 10px;
+	padding: 3px 10px 0 10px;
 }
 .navbar-brand img {
-	width: 66px;
+	width: 60px;
 }
 .navbar-btn {
 	background-color: transparent !important;
 	border: 0;
 	color: #ffffff;
+	display: inline;
 	font-family: 'Montserrat', sans-serif;
-	font-size: 24px;
-	height: 66px;
+	font-size: 13px;
 	margin: 0;
-	padding: 16px 8px;
+	padding: 24px 8px;
+}
+@media (min-width: 576px) {
+	.navbar-btn {
+		font-size: 18px;
+		padding: 20px 8px;
+	}
 }
 .navbar-btn.btn-default:hover,
 .navbar-btn.btn-default:active,
@@ -94,7 +100,7 @@ a:hover {
 	font-weight: bold;
 }
 .navbar-btn .glyphicon {
-	font-size: 18px;
+	font-size: 14px;
 }
 
 .btn-help:after {
@@ -115,7 +121,7 @@ a:hover {
 
 .btn-untappd {
 	background-color: #ffcc00;
-	color: #fff;
+	color: #ffffff;
 	font-weight: bold;
 }
 .btn-untappd:hover,
@@ -163,7 +169,7 @@ a:hover {
 }
 
 .panel-primary > .panel-heading {
-	background-color: #fff;
+	background-color: #ffffff;
 	border-color: #f1f1f1;
 }
 
@@ -238,7 +244,7 @@ a.topscroller {
 	background-color: #80a20e;
 	border-radius: 3px;
 	bottom: 20px;
-	color: #fff;
+	color: #ffffff;
 	height: 38px;
 	opacity: 0;
 	padding: 10px 12px;
