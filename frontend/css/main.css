@@ -65,7 +65,7 @@ a:hover {
 	margin: 0;
 	padding: 24px 8px;
 }
-@media (min-width: 576px) {
+@media (min-width: 375px) {
 	.navbar-btn {
 		font-size: 18px;
 		padding: 20px 8px;
