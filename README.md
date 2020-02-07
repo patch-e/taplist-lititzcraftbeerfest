@@ -8,4 +8,4 @@ Each beer can be tapped to look up it's additional data on [Untappd](https://unt
 
 AngularJS app running @ http://taplist.lititzcraftbeerfest.com/
 
-Node.js app running @ https://pizzaboy.taplists.com/nodejs/beer/
+Node.js app running @ https://taplist.lititzcraftbeerfest.com/nodejs/beer/
