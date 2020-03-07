@@ -1,10 +1,10 @@
 {
-  "name": "lititz-taplist-frontend",
+  "name": "taplist-lititzcraftbeerfest",
   "version": "1.0.0",
   "description": "Providing a mobile-friendly beer list at Lititz Craft Beer Fest!",
   "author": "Patrick Crager",
-  "homepage": "https://github.com/patch-e/beers-at-als",
-  "bugs": "https://github.com/patch-e/beers-at-als/issues",
+  "homepage": "https://github.com/patch-e/taplist-lititzcraftbeerfest",
+  "bugs": "https://github.com/patch-e/taplist-lititzcraftbeerfest/issues",
   "keywords": [
     "beer",
     "taplist",
@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/patch-e/beers-at-als.git"
+    "url": "https://github.com/patch-e/taplist-lititzcraftbeerfest.git"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
