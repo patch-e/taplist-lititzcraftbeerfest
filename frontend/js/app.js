@@ -16,10 +16,9 @@ Patrick Crager
     'beersApp.controllers'
   ]).config(configure);
 
-  configure.$inject = ['$locationProvider', '$routeProvider'];
+  configure.$inject = ['$routeProvider'];
 
-  function configure($locationProvider, $routeProvider) {
-    $locationProvider.hashPrefix('!'); 
+  function configure($routeProvider) {
     $routeProvider
       .when('/', {
         templateUrl: 'partials/table.html',
