@@ -6,14 +6,14 @@
 
         <title>Tap List - Lititz Craft Beer Fest</title>
         <meta name="description" content="Providing a mobile-friendly list and Untappd integration to beers on tap at the Lititz Craft Beer Fest!">
-        <meta property="og:url" content="http://taplist.lititzcraftbeerfest.com/">
+        <meta property="og:url" content="//taplist.lititzcraftbeerfest.com/">
         <meta property="og:title" content="Tap List - Lititz Craft Beer Fest">
         <meta property="og:description" content="Providing a mobile-friendly list and Untappd integration to beers on tap at the Lititz Craft Beer Fest!">
-        <meta property="og:image" content="http://taplist.lititzcraftbeerfest.com/img/android-chrome-192x192.png">
+        <meta property="og:image" content="//taplist.lititzcraftbeerfest.com/img/android-chrome-192x192.png">
         <meta property="og:image:type" content="image/png">
 
-        <link rel="canonical" href="http://taplist.lititzcraftbeerfest.com/" />
-        <link rel="stylesheet" href="release/css/beersapp.min-20190919.css">
+        <link rel="canonical" href="//taplist.lititzcraftbeerfest.com/" />
+        <link rel="stylesheet" href="release/css/beersapp.min.css">
 
         <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png?v=M4KKw8pEdP">
         <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png?v=M4KKw8pEdP">
@@ -26,29 +26,38 @@
         <meta name="theme-color" content="#ffffff">
     </head>
     <body data-ng-class="{'authenticated': vm.isAuthenticated}">
-        <div class="jumbotron" data-ng-hide="vm.isLoaded()">
-            <div class="container">
-              <img class="img-responsive center-block" src="/img/LCBF-badge.png">
-                <div class="progress">
-                    <div class="progress-bar progress-bar-striped active"></div>
+        <div data-ng-hide="true">
+            <div class="jumbotron" data-ng-hide="vm.isLoaded()">
+                <div class="container-fluid">
+                    <img class="img-responsive center-block" src="/img/LCBF-badge.png" alt="Lititz Craft Beer Festival">
+                    <div class="progress">
+                        <div class="progress-bar progress-bar-striped active"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div data-ng-show="vm.isLoaded()">
+                <data-navigation></data-navigation>
+                <div class="container-fluid">
+                    <div class="row">
+                        <data-ng-view></data-ng-view>
+                        <p class="col-xs-12 attribution" data-attribution data-ng-hide="vm.isLoading()"></p>
+                    </div>
                 </div>
             </div>
         </div>
 
-        <div data-ng-show="vm.isLoaded()">
-            <data-navigation></data-navigation>
-            <div class="container-fluid">
-                <div class="row">
-                    <data-ng-view></data-ng-view>
-                    <p class="col-xs-12 attribution" data-attribution data-ng-hide="vm.isLoading()"></p>
-                </div>
+        <div class="container-fluid" data-ng-hide="false">
+            <div class="jumbotron">
+                <img class="img-responsive center-block" src="/img/LCBF-badge.png" alt="Lititz Craft Beer Festival">
+                <p>The 2021 tap list will be revealed soon!</p>
             </div>
         </div>
 
         <data-footer-topscroller></data-footer-topscroller>
         <data-ng-include src="'templates/modalHelp.html'"></data-ng-include>
 
-        <script src="release/js/beersapp.min-20190919.js"></script>
+        <script src="release/js/beersapp.min.js"></script>
         
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-83643255-1"></script>
