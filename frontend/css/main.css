@@ -81,6 +81,44 @@ a:hover {
 	font-size: 14px;
 }
 
+.btn-toolbar .btn-group { 
+	margin-bottom: 10px;
+}
+
+.btn-toolbar .btn {
+	color: #999999;
+	background-color: #e6e6e6;
+}
+
+.btn-toolbar .btn:hover,
+.btn-toolbar .btn:focus,
+.btn-toolbar .btn:active,
+.btn-toolbar .btn.active {
+	color: #999999;
+}
+
+.btn-toolbar .btn-primary {
+	background-color: #738f0f;
+	border-color: #738f0f;
+	color: #ffffff;
+}
+.btn-toolbar .btn-primary:hover,
+.btn-toolbar .btn-primary:focus,
+.btn-toolbar .btn-primary:active,
+.btn-toolbar .btn-primary.active {
+	background-color: #738f0f;
+	border-color: #738f0f;
+	color: #ffffff;
+}
+.btn-toolbar .badge {
+    color: #999999;
+    background-color: #ffffff;
+}
+.btn-toolbar .btn-primary .badge {
+    color: #3a3a3a;
+    background-color: #ffffff;
+}
+
 .btn-help:after {
 	content: " HELP";
 }

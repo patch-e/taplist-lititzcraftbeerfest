@@ -22,7 +22,7 @@ Patrick Crager
     return factory;
 
     function list() {
-      return $http.get('/data/taplist-20190919.json');
+      return $http.get('/data/taplist-2021.json');
     }
 
     function search(b, n) {

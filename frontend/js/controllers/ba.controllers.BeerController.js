@@ -26,9 +26,19 @@ Patrick Crager
       {display: 'ABV',     column: 'abv'},
       {display: 'BA',      column: 'ba'}
     ];
-    // array that is populated after API call finishes
+
+    // array that isn't populated after API call finishes
     vm.beersList = [];
     vm.isSearching = false;
+
+    // default to day 1 until day 2
+    var today = Date.now();
+    var day2 = new Date('9/26/2021');
+    vm.day1 = {day: 'Saturday', date: '9/25'};
+    vm.day2 = {day: 'Sunday', date: '9/26'};
+    vm.currentDay = (today < day2 ? vm.day1 : vm.day2);
+
+    vm.vip = false;
 
     // vm functions
     vm.prependBeerNumber = prependBeerNumber;
