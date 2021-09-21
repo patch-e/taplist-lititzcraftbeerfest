@@ -1,0 +1,117 @@
+[
+  {
+    "title": "tap list",
+    "beers": [
+      {
+        "pod": "A",
+        "name": "Schwarz'bear",
+        "addl": "",
+        "brewery": "Shy Bear Brewing",
+        "style": "Schwarzbier",
+        "ba": null,
+        "abv": 5.5,
+        "order": 1,
+        "day": "saturday"
+      },
+      {
+        "pod": "A",
+        "name": "Osoveza Especial",
+        "addl": "",
+        "brewery": "Shy Bear Brewing",
+        "style": "Lager - American",
+        "ba": 3.94,
+        "abv": 5.4,
+        "order": 2,
+        "day": "sunday"
+      },
+      {
+        "pod": "A",
+        "name": "Flamingo Pillows",
+        "addl": "",
+        "brewery": "Shy Bear Brewing",
+        "style": "IPA - Imperial / Double New England",
+        "ba": null,
+        "abv": 8,
+        "order": 3,
+        "day": "saturday"
+      },
+      {
+        "pod": "A",
+        "name": "Shifty Please",
+        "addl": "",
+        "brewery": "Shy Bear Brewing",
+        "style": "Sour - Other",
+        "ba": 4,
+        "abv": 6,
+        "order": 4,
+        "day": "sunday"
+      },
+      {
+        "pod": "A",
+        "name": "Stump Jumper",
+        "addl": "",
+        "brewery": "Ever Grain Brewing Co.",
+        "style": "IPA - Imperial / Double New England",
+        "ba": null,
+        "abv": 8.3,
+        "order": 5,
+        "day": "saturday"
+      },
+      {
+        "pod": "A",
+        "name": "Oktoberfest",
+        "addl": "",
+        "brewery": "Ever Grain Brewing Co.",
+        "style": "Märzen",
+        "ba": null,
+        "abv": 5.3,
+        "order": 6,
+        "day": "sunday"
+      },
+      {
+        "pod": "VIP",
+        "name": "Robert the Bruce",
+        "addl": "",
+        "brewery": "3 Floyds Brewing Company",
+        "style": "Scottish Ale",
+        "ba": 3.89,
+        "abv": 6.5,
+        "order": 142,
+        "day": "saturday"
+      },
+      {
+        "pod": "VIP",
+        "name": "Space Station Middle Finger",
+        "addl": "",
+        "brewery": "3 Floyds Brewing Company",
+        "style": "Pale Ale - American",
+        "ba": 4.18,
+        "abv": 6,
+        "order": 143,
+        "day": "saturday"
+      },
+      {
+        "pod": "VIP",
+        "name": "Copper Legend",
+        "addl": "",
+        "brewery": "Jack's Abby Craft Lagers",
+        "style": "Festbier",
+        "ba": 3.78,
+        "abv": 5.7,
+        "order": 144,
+        "day": "saturday"
+      },
+      {
+        "pod": "VIP",
+        "name": "House Lager",
+        "addl": "",
+        "brewery": "Jack's Abby Craft Lagers",
+        "style": "Lager - Helles",
+        "ba": 3.9,
+        "abv": 5.2,
+        "order": 145
+      }
+     ],
+   "timestamp": "2021-09-19T23:16:00.000Z"
+ }
+]
