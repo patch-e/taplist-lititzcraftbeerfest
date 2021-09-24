@@ -9,7 +9,7 @@
                     <button class="btn btn-xs"
                             data-ng-class="{'btn-primary': vm.currentDay === vm.day1}"
                             data-ng-click="vm.currentDay = vm.day1">
-                        <span class="btn-text"></span>{{vm.day1.day}} <span class="badge">{{vm.day1.date}}</span>
+                        <span class="btn-text"></span>{{vm.day1.day}} <span class="badge">{{vm.day1.display}}</span>
                     </button>
                     <button class="btn btn-xs"
                             data-ng-class="{'btn-primary': vm.vip}"
@@ -21,7 +21,7 @@
                     <button class="btn btn-xs"
                             data-ng-class="{'btn-primary': vm.currentDay === vm.day2}"
                             data-ng-click="vm.currentDay = vm.day2; vm.vip = false;">
-                        <span class="btn-text">{{vm.day2.day}}</span> <span class="badge">{{vm.day2.date}}</span>
+                        <span class="btn-text">{{vm.day2.day}}</span> <span class="badge">{{vm.day2.display}}</span>
                     </button>
                 </div>
             </div>
@@ -45,8 +45,8 @@
                     <tr class="beerSearch"
                         data-ng-repeat="beer in filteredBeers = 
                             (beerList.beers | 
-                             filter: (vm.vip ? ({'day': vm.currentDay.day, 'pod': 'vip', $: searchFilter}) : ({'day': vm.currentDay.day, $: searchFilter})) |
-                             orderBy: [beerList.sort.column, 'order', 'brewery', 'name'] : beerList.sort.descending)"
+                             filter: (vm.vip ? ({'pod': 'vip', $: searchFilter}) : ({'day': vm.currentDay.day, $: searchFilter})) |
+                             orderBy: [beerList.sort.column, 'brewery', 'name'] : beerList.sort.descending)"
                         data-ng-click="vm.search(beer)">
                         <td><span class="badge">{{beer.pod}}</span></td>
                         <td>

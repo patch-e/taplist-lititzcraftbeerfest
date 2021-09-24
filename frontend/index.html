@@ -13,7 +13,7 @@
         <meta property="og:image:type" content="image/png">
 
         <link rel="canonical" href="//taplist.lititzcraftbeerfest.com/" />
-        <link rel="stylesheet" href="release/css/beersapp.min-20210921.css">
+        <link rel="stylesheet" href="release/css/beersapp.min-20210923.css">
 
         <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png?v=M4KKw8pEdP">
         <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png?v=M4KKw8pEdP">
@@ -26,7 +26,7 @@
         <meta name="theme-color" content="#ffffff">
     </head>
     <body data-ng-class="{'authenticated': vm.isAuthenticated}">
-        <div data-ng-hide="false">
+        <div>
             <div class="jumbotron" data-ng-hide="vm.isLoaded()">
                 <div class="container-fluid">
                     <img class="img-responsive center-block" src="/img/LCBF-badge.png" alt="Lititz Craft Beer Festival">
@@ -47,7 +47,7 @@
             </div>
         </div>
 
-        <div class="container-fluid" data-ng-hide="true">
+        <div class="container-fluid hide">
             <div class="jumbotron">
                 <img class="img-responsive center-block" src="/img/LCBF-badge.png" alt="Lititz Craft Beer Festival">
                 <p>The 2021 tap list will be revealed soon!</p>
@@ -55,10 +55,10 @@
         </div>
 
         <data-footer-topscroller></data-footer-topscroller>
-        <data-ng-include src="'templates/modalHelp.html'"></data-ng-include>
-        <data-ng-include src="'templates/modalMap.html'"></data-ng-include>
+        <data-ng-include src="'templates/modalHelp-20210923.html'"></data-ng-include>
+        <data-ng-include src="'templates/modalMap-20210923.html'"></data-ng-include>
 
-        <script src="release/js/beersapp.min-20210921.js"></script>
+        <script src="release/js/beersapp.min-20210923.js"></script>
         
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-83643255-1"></script>

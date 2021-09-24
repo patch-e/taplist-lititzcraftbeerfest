@@ -15,7 +15,7 @@ Patrick Crager
     var directive = {
       restrict: 'E',
       replace: true,
-      templateUrl: 'templates/navigation-20210919.html'
+      templateUrl: 'templates/navigation-20210923.html'
     };
 
     return directive;

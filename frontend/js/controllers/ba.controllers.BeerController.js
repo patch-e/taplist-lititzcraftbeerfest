@@ -34,8 +34,8 @@ Patrick Crager
     // default to day 1 until day 2
     var today = Date.now();
     var day2 = new Date('9/26/2021');
-    vm.day1 = {day: 'Saturday', date: '9/25'};
-    vm.day2 = {day: 'Sunday', date: '9/26'};
+    vm.day1 = {day: '9/25/2021', display: '9/25'};
+    vm.day2 = {day: '9/26/2021', display: '9/26'};
     vm.currentDay = (today < day2 ? vm.day1 : vm.day2);
 
     vm.vip = false;
@@ -115,7 +115,7 @@ Patrick Crager
       beerDataFactory.search(beer.brewery, beer.name)
         .success(function(data) {
           var modal = $modal.open({
-            templateUrl: 'templates/modalSearchResult.html',
+            templateUrl: 'templates/modalSearchResult-20210923.html',
             controller: 'SearchResultController',
             controllerAs: 'vm',
             resolve: {
