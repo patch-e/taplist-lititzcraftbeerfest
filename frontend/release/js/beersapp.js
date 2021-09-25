@@ -384,12 +384,12 @@ Patrick Crager
   function configure($routeProvider) {
     $routeProvider
       .when('/', {
-        templateUrl: 'partials/table-20210923.html',
+        templateUrl: 'partials/table-20210925.html',
         controller: 'BeerController',
         controllerAs: 'vm'
       })
       .when('/table', {
-        templateUrl: 'partials/table-20210923.html',
+        templateUrl: 'partials/table-20210925.html',
         controller: 'BeerController',
         controllerAs: 'vm'
       })
@@ -503,7 +503,7 @@ Patrick Crager
     return factory;
 
     function list() {
-      return $http.get('/data/taplist-20210923.json');
+      return $http.get('/data/taplist-20210925.json');
     }
 
     function search(b, n) {
@@ -644,8 +644,8 @@ Patrick Crager
     // default to day 1 until day 2
     var today = Date.now();
     var day2 = new Date('9/26/2021');
-    vm.day1 = {day: '9/25/2021', display: '9/25'};
-    vm.day2 = {day: '9/26/2021', display: '9/26'};
+    vm.day1 = {day: '9/25/2021', label: 'Saturday', badge: '9/25'};
+    vm.day2 = {day: '9/26/2021', label: 'Sunday', badge: '9/26'};
     vm.currentDay = (today < day2 ? vm.day1 : vm.day2);
 
     vm.vip = false;

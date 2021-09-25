@@ -9,7 +9,7 @@
                     <button class="btn btn-xs"
                             data-ng-class="{'btn-primary': vm.currentDay === vm.day1}"
                             data-ng-click="vm.currentDay = vm.day1">
-                        <span class="btn-text"></span>{{vm.day1.day}} <span class="badge">{{vm.day1.display}}</span>
+                        <span class="btn-text"></span>{{vm.day1.label}} <span class="badge">{{vm.day1.badge}}</span>
                     </button>
                     <button class="btn btn-xs"
                             data-ng-class="{'btn-primary': vm.vip}"
@@ -21,7 +21,7 @@
                     <button class="btn btn-xs"
                             data-ng-class="{'btn-primary': vm.currentDay === vm.day2}"
                             data-ng-click="vm.currentDay = vm.day2; vm.vip = false;">
-                        <span class="btn-text">{{vm.day2.day}}</span> <span class="badge">{{vm.day2.display}}</span>
+                        <span class="btn-text">{{vm.day2.label}}</span> <span class="badge">{{vm.day2.badge}}</span>
                     </button>
                 </div>
             </div>
