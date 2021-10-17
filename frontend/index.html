@@ -26,7 +26,7 @@
         <meta name="theme-color" content="#ffffff">
     </head>
     <body data-ng-class="{'authenticated': vm.isAuthenticated}">
-        <div class="hide">
+        <div id="lastSeason" class="hide">
             <div class="jumbotron" data-ng-hide="vm.isLoaded()">
                 <div class="container-fluid">
                     <img class="img-responsive center-block" src="/img/LCBF-badge.png" alt="Lititz Craft Beer Festival">
@@ -47,10 +47,11 @@
             </div>
         </div>
 
-        <div class="container-fluid">
+        <div id="offSeason" class="container-fluid">
             <div class="jumbotron">
                 <img class="img-responsive center-block" src="/img/LCBF-badge.png" alt="Lititz Craft Beer Festival">
                 <p>The 2021 Lititz Craft Beer Fest is complete.<br>Please visit again next year to browse the 2022 tap list!</p>
+                <button class="btn btn-default" onclick="viewLastSeason()">View 2021 Tap List</button>
             </div>
         </div>
 
@@ -66,6 +67,12 @@
         <data-ng-include src="'templates/modalMap.html'"></data-ng-include>
 
         <script src="release/js/beersapp.min.js"></script>
+        <script>
+            function viewLastSeason() {
+                document.querySelector('#lastSeason').classList.remove('hide');
+                document.querySelector('#offSeason').classList.add('hide');
+            }
+        </script>
         
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-83643255-1"></script>
