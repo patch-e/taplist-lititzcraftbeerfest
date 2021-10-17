@@ -384,12 +384,12 @@ Patrick Crager
   function configure($routeProvider) {
     $routeProvider
       .when('/', {
-        templateUrl: 'partials/table-20210925.html',
+        templateUrl: 'partials/table.html',
         controller: 'BeerController',
         controllerAs: 'vm'
       })
       .when('/table', {
-        templateUrl: 'partials/table-20210925.html',
+        templateUrl: 'partials/table.html',
         controller: 'BeerController',
         controllerAs: 'vm'
       })
@@ -503,7 +503,7 @@ Patrick Crager
     return factory;
 
     function list() {
-      return $http.get('/data/taplist-20210925.json');
+      return $http.get('/data/taplist-2021.json');
     }
 
     function search(b, n) {
@@ -725,7 +725,7 @@ Patrick Crager
       beerDataFactory.search(beer.brewery, beer.name)
         .success(function(data) {
           var modal = $modal.open({
-            templateUrl: 'templates/modalSearchResult-20210923.html',
+            templateUrl: 'templates/modalSearchResult.html',
             controller: 'SearchResultController',
             controllerAs: 'vm',
             resolve: {
@@ -1048,7 +1048,7 @@ Patrick Crager
     var directive = {
       restrict: 'E',
       replace: true,
-      templateUrl: 'templates/navigation-20210923.html'
+      templateUrl: 'templates/navigation.html'
     };
 
     return directive;

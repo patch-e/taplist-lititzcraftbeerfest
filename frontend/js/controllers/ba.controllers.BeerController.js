@@ -115,7 +115,7 @@ Patrick Crager
       beerDataFactory.search(beer.brewery, beer.name)
         .success(function(data) {
           var modal = $modal.open({
-            templateUrl: 'templates/modalSearchResult-20210923.html',
+            templateUrl: 'templates/modalSearchResult.html',
             controller: 'SearchResultController',
             controllerAs: 'vm',
             resolve: {

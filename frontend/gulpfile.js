@@ -52,7 +52,8 @@ gulp.task('scripts', function() {
         ]).
         pipe(concat('beersapp.js')).
         pipe(gulp.dest('release/js')).
-        pipe(rename('beersapp.min-' + yyyymmdd + '.js')).
+        // pipe(rename('beersapp.min-' + yyyymmdd + '.js')).
+        pipe(rename('beersapp.min.js')).
         pipe(uglify()).
         pipe(gulp.dest('release/js'));
 });
@@ -65,7 +66,8 @@ gulp.task('css', function() {
         ]).
         pipe(concat('beersapp.css')).
         pipe(gulp.dest('release/css')).
-        pipe(rename('beersapp.min-' + yyyymmdd + '.css')).
+        // pipe(rename('beersapp.min-' + yyyymmdd + '.css')).
+        pipe(rename('beersapp.min.css')).
         pipe(minifyCSS({
             keepSpecialComments: 0,
             processImport: false
