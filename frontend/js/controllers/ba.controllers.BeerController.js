@@ -33,9 +33,9 @@ Patrick Crager
 
     // default to day 1 until day 2
     var today = Date.now();
-    var day2 = new Date('9/26/2021');
-    vm.day1 = {day: '9/25/2021', label: 'Saturday', badge: '9/25'};
-    vm.day2 = {day: '9/26/2021', label: 'Sunday', badge: '9/26'};
+    var day2 = new Date('9/25/2022');
+    vm.day1 = {day: '9/24/2022', label: 'Saturday', badge: '9/24'};
+    vm.day2 = {day: '9/25/2022', label: 'Sunday', badge: '9/25'};
     vm.currentDay = (today < day2 ? vm.day1 : vm.day2);
 
     vm.vip = false;
