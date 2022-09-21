@@ -8,10 +8,10 @@
                 <div class="btn-group" role="group" aria-label="...">
                     <button class="btn btn-xs"
                             data-ng-class="{'btn-primary': vm.currentDay === vm.day1}"
-                            data-ng-click="vm.currentDay = vm.day1">
+                            data-ng-click="vm.currentDay = vm.day1; vm.vip = false;">
                         <span class="btn-text"></span>{{vm.day1.label}} <span class="badge">{{vm.day1.badge}}</span>
                     </button>
-                    <button class="btn btn-xs"
+                    <button class="btn btn-xs hide"
                             data-ng-class="{'btn-primary': vm.vip}"
                             data-ng-click="vm.currentDay = vm.day1; vm.vip = !vm.vip;">
                         <span class="btn-text">Backstage Pass</span> <span class="badge">VIP</span></span>
@@ -22,6 +22,13 @@
                             data-ng-class="{'btn-primary': vm.currentDay === vm.day2}"
                             data-ng-click="vm.currentDay = vm.day2; vm.vip = false;">
                         <span class="btn-text">{{vm.day2.label}}</span> <span class="badge">{{vm.day2.badge}}</span>
+                    </button>
+                </div>
+                <div class="btn-group" role="group" aria-label="...">
+                    <button class="btn btn-xs"
+                            data-ng-class="{'btn-primary': vm.vip}"
+                            data-ng-click="vm.currentDay = ''; vm.vip = !vm.vip;">
+                        <span class="btn-text">Bulls Head Tap Trailer</span></span>
                     </button>
                 </div>
             </div>
@@ -45,7 +52,7 @@
                     <tr class="beerSearch"
                         data-ng-repeat="beer in filteredBeers = 
                             (beerList.beers | 
-                             filter: (vm.vip ? ({'pod': 'vip', $: searchFilter}) : ({'day': vm.currentDay.day, $: searchFilter})) |
+                             filter: (vm.vip ? ({'pod': 'bhtt', $: searchFilter}) : ({'day': vm.currentDay.day, $: searchFilter})) |
                              orderBy: [beerList.sort.column, 'brewery', 'name'] : beerList.sort.descending)"
                         data-ng-click="vm.search(beer)">
                         <td><span class="badge">{{beer.pod}}</span></td>

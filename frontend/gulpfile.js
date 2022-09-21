@@ -30,8 +30,8 @@ gulp.task('lint', function() {
     pipe(jshint.reporter('default'));
 });
 
-var rightNow = new Date();
-var yyyymmdd = rightNow.toISOString().slice(0,10).replace(/-/g,"");
+// build a date string for cache busting
+var cacheBuster = new Date().toISOString().replace('-', '').split('T')[0].replace('-', '');
 
 // concat & minify js task
 gulp.task('scripts', function() {
@@ -52,8 +52,7 @@ gulp.task('scripts', function() {
         ]).
         pipe(concat('beersapp.js')).
         pipe(gulp.dest('release/js')).
-        // pipe(rename('beersapp.min-' + yyyymmdd + '.js')).
-        pipe(rename('beersapp.min.js')).
+        pipe(rename('beersapp.min-' + cacheBuster + '.js')).
         pipe(uglify()).
         pipe(gulp.dest('release/js'));
 });
@@ -66,8 +65,7 @@ gulp.task('css', function() {
         ]).
         pipe(concat('beersapp.css')).
         pipe(gulp.dest('release/css')).
-        // pipe(rename('beersapp.min-' + yyyymmdd + '.css')).
-        pipe(rename('beersapp.min.css')).
+        pipe(rename('beersapp.min-' + cacheBuster + '.css')).
         pipe(minifyCSS({
             keepSpecialComments: 0,
             processImport: false
