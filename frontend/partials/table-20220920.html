@@ -27,7 +27,7 @@
                 <div class="btn-group" role="group" aria-label="...">
                     <button class="btn btn-xs"
                             data-ng-class="{'btn-primary': vm.vip}"
-                            data-ng-click="vm.currentDay = ''; vm.vip = !vm.vip;">
+                            data-ng-click="vm.currentDay = ''; vm.vip = true;">
                         <span class="btn-text">Bulls Head Tap Trailer</span></span>
                     </button>
                 </div>
@@ -52,7 +52,7 @@
                     <tr class="beerSearch"
                         data-ng-repeat="beer in filteredBeers = 
                             (beerList.beers | 
-                             filter: (vm.vip ? ({'pod': 'bhtt', $: searchFilter}) : ({'day': vm.currentDay.day, $: searchFilter})) |
+                             filter: (vm.vip ? ({'pod': 'bh', $: searchFilter}) : ({'day': vm.currentDay.day, $: searchFilter})) |
                              orderBy: [beerList.sort.column, 'brewery', 'name'] : beerList.sort.descending)"
                         data-ng-click="vm.search(beer)">
                         <td><span class="badge">{{beer.pod}}</span></td>
