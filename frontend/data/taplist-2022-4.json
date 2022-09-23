@@ -1844,7 +1844,7 @@
         "brewery": "Imprint Beer Co.",
         "name": "You Got A Good Sarsaparilla?",
         "style": "Sour - Fruited",
-        "abv": null,
+        "abv": 6,
         "ba": "",
         "day": "9/24/2022"
       },
