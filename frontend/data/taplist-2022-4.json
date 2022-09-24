@@ -8,7 +8,7 @@
         "name": "General Braddock's",
         "style": "IPA - American",
         "abv": 6.8,
-        "ba": "95",
+        "ba": 95,
         "day": "9/24/2022"
       },
       {
@@ -17,7 +17,7 @@
         "name": "BG Kolsch",
         "style": "Kölsch",
         "abv": 5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -26,7 +26,7 @@
         "name": "DoubleMex (2021)",
         "style": "Stout - Imperial / Double",
         "abv": 9.9,
-        "ba": "98",
+        "ba": 98,
         "day": "9/24/2022"
       },
       {
@@ -35,7 +35,7 @@
         "name": "Gettin' Schmidty",
         "style": "Lager - American",
         "abv": 5.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -44,7 +44,7 @@
         "name": "Dr. Rick Marshall",
         "style": "IPA - American",
         "abv": 7.2,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -53,7 +53,7 @@
         "name": "Pineapple Express Flip: 420 Grapefruit",
         "style": "IPA - Imperial / Double",
         "abv": 8.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -62,7 +62,7 @@
         "name": "S'moreo Speedwagon",
         "style": "Stout - Milk / Sweet",
         "abv": 5.4,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -71,7 +71,7 @@
         "name": "P Is For Pumpkin",
         "style": "Pumpkin / Yam Beer",
         "abv": 7.4,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -80,7 +80,7 @@
         "name": "2022 Raspberry Berliner Weisse",
         "style": "Sour - Berliner Weisse",
         "abv": 3.8,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -89,7 +89,7 @@
         "name": "Autumn",
         "style": "Märzen",
         "abv": 5.7,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -98,7 +98,7 @@
         "name": "Garten",
         "style": "Lager - Helles",
         "abv": 5.2,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -107,7 +107,7 @@
         "name": "Bing Bang Boom",
         "style": "IPA - American",
         "abv": 6.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -116,7 +116,7 @@
         "name": "Hilltop Blackberry",
         "style": "Farmhouse Ale - Saison",
         "abv": 5.7,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -125,7 +125,7 @@
         "name": "Danville Train",
         "style": "Festbier",
         "abv": 6.2,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -134,7 +134,7 @@
         "name": "Smallman",
         "style": "IPA - New England / Hazy",
         "abv": 6.6,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -143,7 +143,7 @@
         "name": "Star Crumb: Strawberry Rhubarb",
         "style": "Sour - Fruited",
         "abv": 6.6,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -152,7 +152,7 @@
         "name": "All The Single Hazies",
         "style": "IPA - New England / Hazy",
         "abv": 6,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -161,7 +161,7 @@
         "name": "Oktoberfest",
         "style": "Märzen",
         "abv": 5.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -170,7 +170,7 @@
         "name": "The Midnight Ride",
         "style": "Stout - Coffee",
         "abv": 5.8,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -179,7 +179,7 @@
         "name": "The Battle of the Clouds",
         "style": "IPA - Sour",
         "abv": 6.3,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -188,7 +188,7 @@
         "name": "Union Delegate",
         "style": "Grape Ale - Italian",
         "abv": 5.8,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -197,7 +197,7 @@
         "name": "Reap the Whirlwind",
         "style": "IPA - Imperial / Double New England / Hazy",
         "abv": 8.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -206,7 +206,7 @@
         "name": "Grillen Lager",
         "style": "Lager - Vienna",
         "abv": 4.8,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -215,7 +215,7 @@
         "name": "Brauheist",
         "style": "Lager - Amber",
         "abv": 5.2,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -224,7 +224,7 @@
         "name": "Faceplant",
         "style": "IPA - New England / Hazy",
         "abv": 6.4,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -233,7 +233,7 @@
         "name": "Reapers Pursuit",
         "style": "Pumpkin / Yam Beer",
         "abv": 10,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -242,7 +242,7 @@
         "name": "MindTripp: Can You Quack Like A Duck?",
         "style": "Sour - Fruited",
         "abv": 6,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -251,7 +251,7 @@
         "name": "Pottsville Pilsner",
         "style": "Pilsner - Czech",
         "abv": 4.6,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -260,7 +260,7 @@
         "name": "X51 Nube Naranja",
         "style": "IPA - New England / Hazy",
         "abv": 7.1,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -269,7 +269,7 @@
         "name": "Cookie Crumble Stout",
         "style": "Stout - Other",
         "abv": 7.1,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -278,7 +278,7 @@
         "name": "Dream Queen",
         "style": "Sour - Fruited",
         "abv": 5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -287,7 +287,7 @@
         "name": "Flannel Forever",
         "style": "Pale Ale - American",
         "abv": 5.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -296,7 +296,7 @@
         "name": "Dortmunder Gold",
         "style": "Lager - Dortmunder / Export",
         "abv": 5.8,
-        "ba": "91",
+        "ba": 91,
         "day": "9/24/2022"
       },
       {
@@ -305,7 +305,7 @@
         "name": "Hazecraft IPA",
         "style": "IPA - New England / Hazy",
         "abv": 6.7,
-        "ba": "87",
+        "ba": 87,
         "day": "9/24/2022"
       },
       {
@@ -314,7 +314,7 @@
         "name": "Edmund Fitzgerald",
         "style": "Porter - American",
         "abv": 6,
-        "ba": "94",
+        "ba": 94,
         "day": "9/24/2022"
       },
       {
@@ -323,7 +323,7 @@
         "name": "Oktoberfest",
         "style": "Märzen",
         "abv": 6.5,
-        "ba": "90",
+        "ba": 90,
         "day": "9/24/2022"
       },
       {
@@ -332,7 +332,7 @@
         "name": "7th Anniversary",
         "style": "IPA - New England / Hazy",
         "abv": 6.8,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -341,7 +341,7 @@
         "name": "Koruna Pils",
         "style": "Pilsner - Czech",
         "abv": 4.6,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -350,7 +350,7 @@
         "name": "There's No Crying In Baseball",
         "style": "IPA - American",
         "abv": 6,
-        "ba": "88",
+        "ba": 88,
         "day": "9/24/2022"
       },
       {
@@ -359,7 +359,7 @@
         "name": "Trick or Treat",
         "style": "Porter - American",
         "abv": 7.8,
-        "ba": "83",
+        "ba": 83,
         "day": "9/24/2022"
       },
       {
@@ -368,7 +368,7 @@
         "name": "Oktoberfest",
         "style": "Märzen",
         "abv": 5,
-        "ba": "82",
+        "ba": 82,
         "day": "9/24/2022"
       },
       {
@@ -377,7 +377,7 @@
         "name": "Gold Lager",
         "style": "Lager - Helles",
         "abv": 4.7,
-        "ba": "88",
+        "ba": 88,
         "day": "9/24/2022"
       },
       {
@@ -386,7 +386,7 @@
         "name": "Cape May IPA",
         "style": "IPA - American",
         "abv": 6.3,
-        "ba": "85",
+        "ba": 85,
         "day": "9/24/2022"
       },
       {
@@ -395,7 +395,7 @@
         "name": "Always Ready",
         "style": "Pale Ale - American",
         "abv": 4.8,
-        "ba": "88",
+        "ba": 88,
         "day": "9/24/2022"
       },
       {
@@ -404,7 +404,7 @@
         "name": "Oktoberfest",
         "style": "Märzen",
         "abv": 5.8,
-        "ba": "85",
+        "ba": 85,
         "day": "9/24/2022"
       },
       {
@@ -413,7 +413,7 @@
         "name": "Hazy Cannon",
         "style": "IPA - New England / Hazy",
         "abv": 7.25,
-        "ba": "87",
+        "ba": 87,
         "day": "9/24/2022"
       },
       {
@@ -422,7 +422,7 @@
         "name": "Chocoloate Volcano",
         "style": "Stout - Imperial / Double",
         "abv": 9,
-        "ba": "86",
+        "ba": 86,
         "day": "9/24/2022"
       },
       {
@@ -431,7 +431,7 @@
         "name": "TropiCannon Pina Colada",
         "style": "IPA - American",
         "abv": 7.25,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -440,7 +440,7 @@
         "name": "Well Made",
         "style": "Lager - American",
         "abv": 5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -449,7 +449,7 @@
         "name": "Okoberfest",
         "style": "Märzen",
         "abv": 5.2,
-        "ba": "86",
+        "ba": 86,
         "day": "9/24/2022"
       },
       {
@@ -458,7 +458,7 @@
         "name": "Pompeii",
         "style": "IPA - American",
         "abv": 6.3,
-        "ba": "95",
+        "ba": 95,
         "day": "9/24/2022"
       },
       {
@@ -467,7 +467,7 @@
         "name": "Pseudo Sue",
         "style": "Pale Ale - American",
         "abv": 5.8,
-        "ba": "99",
+        "ba": 99,
         "day": "9/24/2022"
       },
       {
@@ -476,7 +476,7 @@
         "name": "Pack'd : Raspberry.Blackberry",
         "style": "Sour - Fruited",
         "abv": 4.8,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -485,7 +485,7 @@
         "name": "Mood: Harvest",
         "style": "IPA - New England / Hazy",
         "abv": 9,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -494,7 +494,7 @@
         "name": "Clearwater Kolsch",
         "style": "Kölsch",
         "abv": 4.9,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -503,7 +503,7 @@
         "name": "Blueberry Sour Power",
         "style": "Sour - Fruited",
         "abv": 5.2,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -512,7 +512,7 @@
         "name": "Bomb Pop",
         "style": "Shandy / Radler",
         "abv": 4.2,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -521,7 +521,7 @@
         "name": "Paydirt IPA",
         "style": "IPA - New England / Hazy",
         "abv": 5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -530,7 +530,7 @@
         "name": "Shot in the Dark",
         "style": "Stout - Imperial / Double Coffee",
         "abv": 8.3,
-        "ba": "90",
+        "ba": 90,
         "day": "9/24/2022"
       },
       {
@@ -539,7 +539,7 @@
         "name": "Marylan",
         "style": "Blonde Ale",
         "abv": 5.2,
-        "ba": "90",
+        "ba": 90,
         "day": "9/24/2022"
       },
       {
@@ -548,7 +548,7 @@
         "name": "Slip-Ons",
         "style": "Pale Ale - American",
         "abv": 6.5,
-        "ba": "91",
+        "ba": 91,
         "day": "9/24/2022"
       },
       {
@@ -557,7 +557,7 @@
         "name": "Stunts",
         "style": "Sour - Fruited",
         "abv": 4.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -566,7 +566,7 @@
         "name": "Pumking",
         "style": "Pumpkin / Yam Beer",
         "abv": 8.6,
-        "ba": "90",
+        "ba": 90,
         "day": "9/24/2022"
       },
       {
@@ -575,7 +575,7 @@
         "name": "Harvest Autumn IPA",
         "style": "IPA - American",
         "abv": 6.7,
-        "ba": "86",
+        "ba": 86,
         "day": "9/24/2022"
       },
       {
@@ -584,7 +584,7 @@
         "name": "Cold Brew Coffee Pumking Nitro",
         "style": "Pumpkin / Yam Beer",
         "abv": 8.6,
-        "ba": "89",
+        "ba": 89,
         "day": "9/24/2022"
       },
       {
@@ -593,7 +593,7 @@
         "name": "Nitro S'mores",
         "style": "Stout - Imperial / Double Milk",
         "abv": 10,
-        "ba": "96",
+        "ba": 96,
         "day": "9/24/2022"
       },
       {
@@ -602,7 +602,7 @@
         "name": "Swishy Pants",
         "style": "IPA - American",
         "abv": 7.4,
-        "ba": "91",
+        "ba": 91,
         "day": "9/24/2022"
       },
       {
@@ -611,7 +611,7 @@
         "name": "Secret Machine - Pineapple Strawberry Colada",
         "style": "Fruit Beer",
         "abv": 7,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -620,7 +620,7 @@
         "name": "Secret Machine - Peach Blueberry Muffins",
         "style": "Fruit Beer",
         "abv": 7,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -629,7 +629,7 @@
         "name": "Secret Machine - Pineapple, Grapefruit, Orange",
         "style": "Fruit Beer",
         "abv": 7,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -638,7 +638,7 @@
         "name": "Secret Machine - Strawberry Blueberry Gelato",
         "style": "Fruit Beer",
         "abv": 7,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -647,7 +647,7 @@
         "name": "House Lager",
         "style": "Lager - Amber",
         "abv": 4.8,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -656,7 +656,7 @@
         "name": "Goin' Broke IPA",
         "style": "IPA - American",
         "abv": 7,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -665,7 +665,7 @@
         "name": "Juice Carton",
         "style": "IPA - New England / Hazy",
         "abv": 6.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -674,7 +674,7 @@
         "name": "Tiny Tart - Mango/Blackberry",
         "style": "Sour - Fruited",
         "abv": 5.8,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -683,7 +683,7 @@
         "name": "Veritá",
         "style": "Pilsner - Italian",
         "abv": 5.3,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -692,7 +692,7 @@
         "name": "Hip 2B Ale",
         "style": "Wheat Beer - Other",
         "abv": 6,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -701,7 +701,7 @@
         "name": "Newcomer",
         "style": "IPA - Session",
         "abv": 4.6,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -710,7 +710,7 @@
         "name": "Going Back to Cali",
         "style": "IPA - American",
         "abv": 7.8,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -719,7 +719,7 @@
         "name": "Vienna Lager",
         "style": "Lager - Vienna",
         "abv": 5.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -728,7 +728,7 @@
         "name": "Fieden Und Lieben",
         "style": "Märzen",
         "abv": 5.1,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -737,7 +737,7 @@
         "name": "Hoppenstance IPA: Riwaka and Motueka",
         "style": "IPA - New England / Hazy",
         "abv": 6.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -746,7 +746,7 @@
         "name": "New Zealand Pils",
         "style": "Pilsner - Other",
         "abv": 4.8,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -755,7 +755,7 @@
         "name": "Whoopie Pie Stout",
         "style": "Stout - Milk / Sweet",
         "abv": 5.8,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -764,7 +764,7 @@
         "name": "DDH Broken Clutch",
         "style": "IPA - New England / Hazy",
         "abv": 6.8,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -773,7 +773,7 @@
         "name": "Simcoe Sensation",
         "style": "IPA - New England / Hazy",
         "abv": 6.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -782,7 +782,7 @@
         "name": "Blue Trail Lemon Blueberry Shandy",
         "style": "Shandy / Radler",
         "abv": 5,
-        "ba": "82",
+        "ba": 82,
         "day": "9/24/2022"
       },
       {
@@ -791,7 +791,7 @@
         "name": "Bull Ring Berliner Weisse",
         "style": "Sour - Berliner Weisse",
         "abv": 4.8,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -800,7 +800,7 @@
         "name": "Jump Seat Schwarzbier",
         "style": "Schwarzbier",
         "abv": 5.5,
-        "ba": "85",
+        "ba": 85,
         "day": "9/24/2022"
       },
       {
@@ -809,7 +809,7 @@
         "name": "Hop Hog IPA",
         "style": "IPA - American",
         "abv": 7,
-        "ba": "78",
+        "ba": 78,
         "day": "9/24/2022"
       },
       {
@@ -818,7 +818,7 @@
         "name": "Wee Heavy Scotch Ale",
         "style": "Scotch Ale / Wee Heavy",
         "abv": 8.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -827,7 +827,7 @@
         "name": "Sortie (Strawberry Lemon)",
         "style": "IPA - Sour",
         "abv": 6,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -836,7 +836,7 @@
         "name": "Pumpkin Pie Milkshake DIPA",
         "style": "IPA - Milkshake",
         "abv": 8.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -845,7 +845,7 @@
         "name": "Chaos",
         "style": "Stout - Imperial / Double",
         "abv": 9.4,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -854,7 +854,7 @@
         "name": "Rocktoberfest",
         "style": "Märzen",
         "abv": 6,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -863,7 +863,7 @@
         "name": "Queen Street Fuego",
         "style": "Other",
         "abv": 8.3,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -872,7 +872,7 @@
         "name": "Hart van Glas",
         "style": "Belgian Blonde",
         "abv": 7.7,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -881,7 +881,7 @@
         "name": "Nightmare on Springwood Drive",
         "style": "Lager - Amber",
         "abv": 6.4,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -890,7 +890,7 @@
         "name": "Walking on Clouds",
         "style": "IPA - New England / Hazy",
         "abv": 7,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -899,7 +899,7 @@
         "name": "Marzen",
         "style": "Märzen",
         "abv": 5.6,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -908,7 +908,7 @@
         "name": "O.G Pils Legendary Philly Lager",
         "style": "Pilsner - Other",
         "abv": 4.9,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -917,7 +917,7 @@
         "name": "Hallertau Pils",
         "style": "Pilsner - German",
         "abv": 5.2,
-        "ba": "90",
+        "ba": 90,
         "day": "9/24/2022"
       },
       {
@@ -926,7 +926,7 @@
         "name": "Oktoberfest",
         "style": "Märzen",
         "abv": 5.6,
-        "ba": "89",
+        "ba": 89,
         "day": "9/24/2022"
       },
       {
@@ -935,7 +935,7 @@
         "name": "Cult Vibes",
         "style": "Farmhouse Ale - Saison",
         "abv": 6,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -944,7 +944,7 @@
         "name": "Dwelling Place",
         "style": "Mild - Other",
         "abv": 5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -953,7 +953,7 @@
         "name": "Riemer",
         "style": "Pilsner - German",
         "abv": 5.3,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -962,7 +962,7 @@
         "name": "Swell",
         "style": "IPA - New England / Hazy",
         "abv": 5.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -971,7 +971,7 @@
         "name": "Orange Crushsicle",
         "style": "Fruit Beer",
         "abv": 7,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -980,7 +980,7 @@
         "name": "Koruna Pils",
         "style": "Pilsner - Czech",
         "abv": 4.6,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -989,7 +989,7 @@
         "name": "Gose Traditionale",
         "style": "Sour - Traditional Gose",
         "abv": 4.2,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -998,7 +998,7 @@
         "name": "Endoplasmic Reticulum",
         "style": "IPA - American",
         "abv": 7,
-        "ba": "82",
+        "ba": 82,
         "day": "9/24/2022"
       },
       {
@@ -1007,7 +1007,7 @@
         "name": "Chatty Premium Lager",
         "style": "Lager - American",
         "abv": 4.6,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1016,7 +1016,7 @@
         "name": "Split Face",
         "style": "Lager - Amber",
         "abv": 5.3,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1025,7 +1025,7 @@
         "name": "Cush",
         "style": "IPA - New England / Hazy",
         "abv": 6.5,
-        "ba": "87",
+        "ba": 87,
         "day": "9/24/2022"
       },
       {
@@ -1034,7 +1034,7 @@
         "name": "Face Chop",
         "style": "IPA - Imperial / Double New England / Hazy",
         "abv": 8.2,
-        "ba": "90",
+        "ba": 90,
         "day": "9/24/2022"
       },
       {
@@ -1043,7 +1043,7 @@
         "name": "Lustra",
         "style": "Pale Ale - American",
         "abv": 5.8,
-        "ba": "92",
+        "ba": 92,
         "day": "9/24/2022"
       },
       {
@@ -1052,7 +1052,7 @@
         "name": "Not Always Present",
         "style": "Kölsch",
         "abv": 4.8,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1061,7 +1061,7 @@
         "name": "It's the Yeast We Could Do",
         "style": "Belgian Strong Golden Ale",
         "abv": 7.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1070,7 +1070,7 @@
         "name": "Gentlemen's Agreement",
         "style": "IPA - American",
         "abv": 6.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1079,7 +1079,7 @@
         "name": "Interstellar Keller",
         "style": "Kellerbier / Zwickelbier",
         "abv": 5.9,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1088,7 +1088,7 @@
         "name": "Helium Wheels",
         "style": "IPA - New England / Hazy",
         "abv": 7,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1097,7 +1097,7 @@
         "name": "Shuckin' Pumpkin",
         "style": "Pumpkin / Yam Beer",
         "abv": 5.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1106,7 +1106,7 @@
         "name": "Peaches & Cream Dreamsicle",
         "style": "IPA - New England / Hazy",
         "abv": 7,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1115,7 +1115,7 @@
         "name": "Solar Power",
         "style": "Belgian Blonde",
         "abv": 5.9,
-        "ba": "85",
+        "ba": 85,
         "day": "9/24/2022"
       },
       {
@@ -1124,7 +1124,7 @@
         "name": "Hammerhead IPA",
         "style": "IPA - American",
         "abv": 6.3,
-        "ba": "87",
+        "ba": 87,
         "day": "9/24/2022"
       },
       {
@@ -1133,7 +1133,7 @@
         "name": "Marley",
         "style": "Sour - Fruited",
         "abv": 6.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1142,7 +1142,7 @@
         "name": "Ring the Bell",
         "style": "Pilsner - Other",
         "abv": 5.2,
-        "ba": "85",
+        "ba": 85,
         "day": "9/24/2022"
       },
       {
@@ -1151,7 +1151,7 @@
         "name": "Life Coach",
         "style": "IPA - New England / Hazy",
         "abv": 5.2,
-        "ba": "83",
+        "ba": 83,
         "day": "9/24/2022"
       },
       {
@@ -1160,7 +1160,7 @@
         "name": "Cran-Apple Peach Cobbler sWheat Tart",
         "style": "Sour - Fruited",
         "abv": 5.9,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1169,7 +1169,7 @@
         "name": "Annville IPA",
         "style": "IPA - New England / Hazy",
         "abv": 7.8,
-        "ba": "89",
+        "ba": 89,
         "day": "9/24/2022"
       },
       {
@@ -1178,7 +1178,7 @@
         "name": "Peach Party",
         "style": "Cider - Other Fruit",
         "abv": 6.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1187,7 +1187,7 @@
         "name": "Triple Jam",
         "style": "Cider - Other Fruit",
         "abv": 6.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1196,7 +1196,7 @@
         "name": "American Apple",
         "style": "Cider - Other Fruit",
         "abv": 8,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1205,7 +1205,7 @@
         "name": "El Chavo",
         "style": "Cider - Traditional / Apfelwein",
         "abv": 3.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1214,7 +1214,7 @@
         "name": "D.O.P.E. (Doctrine of Phonetic Equivalents)",
         "style": "IPA - Triple",
         "abv": 10,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1223,7 +1223,7 @@
         "name": "King of the Campfire",
         "style": "Stout - Imperial / Double Milk",
         "abv": 10,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1232,7 +1232,7 @@
         "name": "The Beat Gose On",
         "style": "Sour - Fruited Gose",
         "abv": 4.6,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1241,7 +1241,7 @@
         "name": "The Wolf of Market Street",
         "style": "IPA - Triple",
         "abv": 10,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1250,7 +1250,7 @@
         "name": "Chocolate Hazelnut Marshmallow Mlíko",
         "style": "Stout - Imperial / Double Pastry",
         "abv": 14,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1259,7 +1259,7 @@
         "name": "Sip of Sunshine",
         "style": "IPA - Imperial / Double",
         "abv": 8,
-        "ba": "100",
+        "ba": 100,
         "day": "9/24/2022"
       },
       {
@@ -1268,7 +1268,7 @@
         "name": "Scrag Mountain Pils Salt & Lime",
         "style": "Pilsner - Czech",
         "abv": 4.8,
-        "ba": "85",
+        "ba": 85,
         "day": "9/24/2022"
       },
       {
@@ -1277,7 +1277,7 @@
         "name": "Bane of Exisitence",
         "style": "IPA - American",
         "abv": 6.6,
-        "ba": "89",
+        "ba": 89,
         "day": "9/24/2022"
       },
       {
@@ -1286,7 +1286,7 @@
         "name": "Magic West",
         "style": "IPA - Other",
         "abv": 6.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1295,7 +1295,7 @@
         "name": "How Many Planets?",
         "style": "IPA - Imperial / Double",
         "abv": 9,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1304,7 +1304,7 @@
         "name": "MC2",
         "style": "IPA - Imperial / Double",
         "abv": 8,
-        "ba": "96",
+        "ba": 96,
         "day": "9/24/2022"
       },
       {
@@ -1313,7 +1313,7 @@
         "name": "Data Points",
         "style": "IPA - Imperial / Double",
         "abv": 8.5,
-        "ba": "92",
+        "ba": 92,
         "day": "9/24/2022"
       },
       {
@@ -1322,7 +1322,7 @@
         "name": "King AL",
         "style": "IPA - Imperial / Double",
         "abv": 7.9,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1331,7 +1331,7 @@
         "name": "Tie-Dye Science",
         "style": "IPA - New England / Hazy",
         "abv": 6.5,
-        "ba": "91",
+        "ba": 91,
         "day": "9/24/2022"
       },
       {
@@ -1340,7 +1340,7 @@
         "name": "Original Blend",
         "style": "Cider - Traditional / Apfelwein",
         "abv": 5.1,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1349,7 +1349,7 @@
         "name": "Pumpkin Blend",
         "style": "Cider - Herbed / Spiced / Hopped",
         "abv": 5.1,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1358,7 +1358,7 @@
         "name": "Okoberfest Lager",
         "style": "Festbier",
         "abv": 6.1,
-        "ba": "89",
+        "ba": 89,
         "day": "9/24/2022"
       },
       {
@@ -1367,7 +1367,7 @@
         "name": "Lucky Holler Hazy IPA",
         "style": "IPA - New England / Hazy",
         "abv": 6.8,
-        "ba": "88",
+        "ba": 88,
         "day": "9/24/2022"
       },
       {
@@ -1376,7 +1376,7 @@
         "name": "Replenish",
         "style": "IPA - American",
         "abv": 7.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1385,7 +1385,7 @@
         "name": "Tropical Double Broken Heels",
         "style": "IPA - Imperial / Double New England / Hazy",
         "abv": 9.2,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1394,7 +1394,7 @@
         "name": "Sunrise",
         "style": "Porter - Baltic",
         "abv": 5.5,
-        "ba": "87",
+        "ba": 87,
         "day": "9/24/2022"
       },
       {
@@ -1403,7 +1403,7 @@
         "name": "Head Hunter IPA",
         "style": "IPA - American",
         "abv": 7.5,
-        "ba": "96",
+        "ba": 96,
         "day": "9/24/2022"
       },
       {
@@ -1412,7 +1412,7 @@
         "name": "Bumble Berry Honey Blueberry Ale",
         "style": "Fruit Beer",
         "abv": 5.3,
-        "ba": "84",
+        "ba": 84,
         "day": "9/24/2022"
       },
       {
@@ -1421,7 +1421,7 @@
         "name": "Hazeway IPA",
         "style": "IPA - American",
         "abv": 7.4,
-        "ba": "88",
+        "ba": 88,
         "day": "9/24/2022"
       },
       {
@@ -1430,7 +1430,7 @@
         "name": "Sunset Lager",
         "style": "Lager - Amber",
         "abv": 4.8,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1439,7 +1439,7 @@
         "name": "Cranberry",
         "style": "Cider - Traditional / Apfelwein",
         "abv": 5.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1448,7 +1448,7 @@
         "name": "Caramel Apple Cider",
         "style": "Cider - Sweet",
         "abv": 6,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1457,7 +1457,7 @@
         "name": "Pumpkin Ale",
         "style": "Pumpkin / Yam Beer",
         "abv": 5.5,
-        "ba": "83",
+        "ba": 83,
         "day": "9/24/2022"
       },
       {
@@ -1466,7 +1466,7 @@
         "name": "Philly Phavorite IPA",
         "style": "IPA - New England / Hazy",
         "abv": 6.7,
-        "ba": "87",
+        "ba": 87,
         "day": "9/24/2022"
       },
       {
@@ -1475,7 +1475,7 @@
         "name": "Creekfestbier Lager",
         "style": "Märzen",
         "abv": 5.2,
-        "ba": "86",
+        "ba": 86,
         "day": "9/24/2022"
       },
       {
@@ -1484,7 +1484,7 @@
         "name": "UltraCush Hazy IPA",
         "style": "IPA - New England / Hazy",
         "abv": 6,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1493,7 +1493,7 @@
         "name": "Double Dry Hopped Green City",
         "style": "IPA - American",
         "abv": 7,
-        "ba": "93",
+        "ba": 93,
         "day": "9/24/2022"
       },
       {
@@ -1502,7 +1502,7 @@
         "name": "Double Dry Hopped Mylar Bags",
         "style": "IPA - Imperial / Double",
         "abv": 8.5,
-        "ba": "100",
+        "ba": 100,
         "day": "9/24/2022"
       },
       {
@@ -1512,7 +1512,7 @@
         "addl": "collab with Fourscore Beer Co.",
         "style": "Sour - Smoothie / Pastry",
         "abv": 6,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1521,7 +1521,7 @@
         "name": "Talk to the Hand",
         "style": "Sour - Fruited",
         "abv": 7,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1530,7 +1530,7 @@
         "name": "Fun Sip: Orange Skittle Seltzer",
         "style": "Hard Seltzer",
         "abv": 5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1539,7 +1539,7 @@
         "name": "You Vedder Not",
         "style": "IPA - Triple New England / Hazy",
         "abv": 10.8,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1548,7 +1548,7 @@
         "name": "One Hop Wonders - Black Sabroth",
         "style": "IPA - Imperial / Double Black",
         "abv": 8.3,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1557,7 +1557,7 @@
         "name": "Double Dingers Peach Cobbler",
         "style": "Sour - Berliner Weisse",
         "abv": 9,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1566,7 +1566,7 @@
         "name": "Madtoberfest",
         "style": "Märzen",
         "abv": 5.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1575,7 +1575,7 @@
         "name": "Juice Excuse N.E.I.P.A.",
         "style": "IPA - New England / Hazy",
         "abv": 5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1584,7 +1584,7 @@
         "name": "Tailgate Meeting",
         "style": "IPA - Session",
         "abv": 5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1593,7 +1593,7 @@
         "name": "Townsquare Raspberry Mango Sour",
         "style": "Sour - Fruited",
         "abv": 4.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1602,7 +1602,7 @@
         "name": "Mondays",
         "style": "Lager - American",
         "abv": 4.2,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1611,7 +1611,7 @@
         "name": "Raney City",
         "style": "Stout - Imperial / Double",
         "abv": 10.2,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1620,7 +1620,7 @@
         "name": "Kiwi Gose",
         "style": "Sour - Fruited Gose",
         "abv": 4.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1629,7 +1629,7 @@
         "name": "Ghost Pepper Fetish",
         "style": "Spiced / Herbed Beer",
         "abv": 6.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1638,7 +1638,7 @@
         "name": "Pumpkin Fetish",
         "style": "Pumpkin / Yam Beer",
         "abv": 6.56,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1647,7 +1647,7 @@
         "name": "Hazy 100",
         "style": "Pale Ale - New England / Hazy",
         "abv": 5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1656,7 +1656,7 @@
         "name": "Neutrino (Double Dry Hopped)",
         "style": "IPA - New England / Hazy",
         "abv": 6.2,
-        "ba": "95",
+        "ba": 95,
         "day": "9/24/2022"
       },
       {
@@ -1665,7 +1665,7 @@
         "name": "Promotion",
         "style": "Sour - Fruited",
         "abv": 6.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1674,7 +1674,7 @@
         "name": "Perfect Date: Tropical Taste",
         "style": "Sour - Smoothie / Pastry",
         "abv": 5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1683,7 +1683,7 @@
         "name": "Oktoberfest Lager",
         "style": "Märzen",
         "abv": 5.7,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1692,7 +1692,7 @@
         "name": "Forever Bright",
         "style": "Pilsner - Other",
         "abv": 4.8,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1701,7 +1701,7 @@
         "name": "Ancient Giants",
         "style": "IPA - American",
         "abv": 6.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1710,7 +1710,7 @@
         "name": "By Steam Or Sail: Maple Porter",
         "style": "Porter - Imperial / Double",
         "abv": 8.6,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1719,7 +1719,7 @@
         "name": "Pumpkin ESB",
         "style": "Bitter - Session / Ordinary",
         "abv": 4,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1728,7 +1728,7 @@
         "name": "Tom-Tom Double India Pale Ale",
         "style": "IPA - Imperial / Double",
         "abv": 8,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1737,7 +1737,7 @@
         "name": "Jersey Girl",
         "style": "Farmhouse Ale - Saison",
         "abv": 6.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1746,7 +1746,7 @@
         "name": "Jaybird",
         "style": "IPA - New England / Hazy",
         "abv": 6.9,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1755,7 +1755,7 @@
         "name": "Emmie Gorgon",
         "style": "IPA - New England / Hazy",
         "abv": 7,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1764,7 +1764,7 @@
         "name": "Logan Guard",
         "style": "Pilsner - German",
         "abv": 5.6,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1773,7 +1773,7 @@
         "name": "Alt of Personality",
         "style": "Altbier",
         "abv": 5.6,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1782,7 +1782,7 @@
         "name": "Gang Green 22",
         "style": "IPA - Imperial / Double New England / Hazy",
         "abv": 8,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1791,7 +1791,7 @@
         "name": "My Morning Juice Pineapple (2021)",
         "style": "IPA - Imperial / Double",
         "abv": 7.6,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1800,7 +1800,7 @@
         "name": "Fest",
         "style": "Festbier",
         "abv": 5.3,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1809,7 +1809,7 @@
         "name": "Pumpkin Spice Latte Origins",
         "style": "Stout - Imperial / Double Coffee",
         "abv": 10.5,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1818,7 +1818,7 @@
         "name": "Mild Enthusiasm",
         "style": "Mild - Dark",
         "abv": 4.3,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1827,7 +1827,7 @@
         "name": "You Got A Good Sarsaparilla?",
         "style": "Sour - Fruited",
         "abv": 6,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1836,7 +1836,7 @@
         "name": "Captain Cuvee: Watermelon",
         "style": "Sour - Fruited",
         "abv": 6,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1845,7 +1845,7 @@
         "name": "Schmoojee Pumpkin Roll S'Mores",
         "style": "Sour - Smoothie / Pastry",
         "abv": 6.4,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1854,7 +1854,7 @@
         "name": "Schmoojee 4 Leaf Clover",
         "style": "Sour - Fruited",
         "abv": 6,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1863,7 +1863,7 @@
         "name": "4th Anniversary Stout",
         "style": "Stout - Imperial / Double",
         "abv": 12,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1872,7 +1872,7 @@
         "name": "Maple Chunky Monkey",
         "style": "Stout - Imperial / Double",
         "abv": 12,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1881,7 +1881,7 @@
         "name": "Old Times",
         "style": "Altbier",
         "abv": 4.6,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1890,7 +1890,7 @@
         "name": "Pinnacle Pilsner",
         "style": "Pilsner - Czech",
         "abv": 4.7,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1899,7 +1899,7 @@
         "name": "Casual Ruckus",
         "style": "IPA - New England / Hazy",
         "abv": 6.4,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1908,7 +1908,7 @@
         "name": "Daytime Constellations",
         "style": "Lager - Mexican",
         "abv": 4.6,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1917,7 +1917,7 @@
         "name": "Argyle Sweater",
         "style": "IPA - New England / Hazy",
         "abv": 6.1,
-        "ba": "87",
+        "ba": 87,
         "day": "9/24/2022"
       },
       {
@@ -1926,7 +1926,7 @@
         "name": "Kipona Fest",
         "style": "Märzen",
         "abv": 5.2,
-        "ba": "82",
+        "ba": 82,
         "day": "9/24/2022"
       },
       {
@@ -1935,7 +1935,7 @@
         "name": "Green Machine",
         "style": "IPA - American",
         "abv": 7.2,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1944,7 +1944,7 @@
         "name": "Pa Blue Corn Pils",
         "style": "Pilsner - Other",
         "abv": 4.8,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1953,7 +1953,7 @@
         "name": "Extra Lava Channel",
         "style": "IPA - Imperial / Double New England / Hazy",
         "abv": 9,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1962,7 +1962,7 @@
         "name": "We Go Back",
         "style": "IPA - Imperial / Double",
         "abv": 8.4,
-        "ba": "",
+        "ba": null,
         "day": "9/24/2022"
       },
       {
@@ -1971,7 +1971,7 @@
         "name": "General Braddock's",
         "style": "IPA - American",
         "abv": 6.8,
-        "ba": "95",
+        "ba": 95,
         "day": "9/25/2022"
       },
       {
@@ -1980,7 +1980,7 @@
         "name": "BG Kolsch",
         "style": "Kölsch",
         "abv": 5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -1989,7 +1989,7 @@
         "name": "DoubleMex (2021)",
         "style": "Stout - Imperial / Double",
         "abv": 9.9,
-        "ba": "98",
+        "ba": 98,
         "day": "9/25/2022"
       },
       {
@@ -1998,7 +1998,7 @@
         "name": "Gettin' Schmidty",
         "style": "Lager - American",
         "abv": 5.5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2007,7 +2007,7 @@
         "name": "Dr. Rick Marshall",
         "style": "IPA - American",
         "abv": 7.2,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2016,7 +2016,7 @@
         "name": "Pineapple Express Flip: 420 Grapefruit",
         "style": "IPA - Imperial / Double",
         "abv": 8.5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2025,7 +2025,7 @@
         "name": "S'moreo Speedwagon",
         "style": "Stout - Milk / Sweet",
         "abv": 5.4,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2034,7 +2034,7 @@
         "name": "P Is For Pumpkin",
         "style": "Pumpkin / Yam Beer",
         "abv": 7.4,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2043,7 +2043,7 @@
         "name": "2022 Raspberry Berliner Weisse",
         "style": "Sour - Berliner Weisse",
         "abv": 3.8,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2052,7 +2052,7 @@
         "name": "Autumn",
         "style": "Märzen",
         "abv": 5.7,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2061,7 +2061,7 @@
         "name": "Garten",
         "style": "Lager - Helles",
         "abv": 5.2,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2070,7 +2070,7 @@
         "name": "Bing Bang Boom",
         "style": "IPA - American",
         "abv": 6.5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2079,7 +2079,7 @@
         "name": "Hilltop Blackberry",
         "style": "Farmhouse Ale - Saison",
         "abv": 5.7,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2088,7 +2088,7 @@
         "name": "Danville Train",
         "style": "Festbier",
         "abv": 6.2,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2097,7 +2097,7 @@
         "name": "Smallman",
         "style": "IPA - New England / Hazy",
         "abv": 6.6,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2106,7 +2106,7 @@
         "name": "Star Crumb: Strawberry Rhubarb",
         "style": "Sour - Fruited",
         "abv": 6.6,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2115,7 +2115,7 @@
         "name": "Pigeon Milkiatto",
         "style": "IPA - Imperial / Double Milkshake",
         "abv": 7.9,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2124,7 +2124,7 @@
         "name": "SelT7er: Tangerine Passionfruit",
         "style": "Hard Seltzer",
         "abv": 6,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2133,7 +2133,7 @@
         "name": "Relax",
         "style": "IPA - New England / Hazy",
         "abv": 6.5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2142,7 +2142,7 @@
         "name": "Mild Mannered",
         "style": "Mild - Dark",
         "abv": 4.7,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2151,7 +2151,7 @@
         "name": "The Midnight Ride",
         "style": "Stout - Coffee",
         "abv": 5.8,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2160,7 +2160,7 @@
         "name": "The Battle of the Clouds",
         "style": "IPA - Sour",
         "abv": 6.3,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2169,7 +2169,7 @@
         "name": "Union Delegate",
         "style": "Grape Ale - Italian",
         "abv": 5.8,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2178,7 +2178,7 @@
         "name": "Reap the Whirlwind",
         "style": "IPA - Imperial / Double New England / Hazy",
         "abv": 8.5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2187,7 +2187,7 @@
         "name": "Grillen Lager",
         "style": "Lager - Vienna",
         "abv": 4.8,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2196,7 +2196,7 @@
         "name": "Brauheist",
         "style": "Lager - Amber",
         "abv": 5.2,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2205,7 +2205,7 @@
         "name": "Faceplant",
         "style": "IPA - New England / Hazy",
         "abv": 6.4,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2214,7 +2214,7 @@
         "name": "Reapers Pursuit",
         "style": "Pumpkin / Yam Beer",
         "abv": 10,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2223,7 +2223,7 @@
         "name": "MindTripp: Can You Quack Like A Duck?",
         "style": "Sour - Fruited",
         "abv": 6,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2232,7 +2232,7 @@
         "name": "I Live In a Shandy Down by The River",
         "style": "Shandy / Radler",
         "abv": 5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2241,7 +2241,7 @@
         "name": "Blue Moistyyy",
         "style": "Hard Seltzer",
         "abv": 5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2250,7 +2250,7 @@
         "name": "X51 Nube Naranja",
         "style": "IPA - New England / Hazy",
         "abv": 7.1,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2259,7 +2259,7 @@
         "name": "Cookie Crumble Stout",
         "style": "Stout - Other",
         "abv": 7.1,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2268,7 +2268,7 @@
         "name": "Dream Queen",
         "style": "Sour - Fruited",
         "abv": 5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2277,7 +2277,7 @@
         "name": "Flannel Forever",
         "style": "Pale Ale - American",
         "abv": 5.5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2286,7 +2286,7 @@
         "name": "Dortmunder Gold",
         "style": "Lager - Dortmunder / Export",
         "abv": 5.8,
-        "ba": "91",
+        "ba": 91,
         "day": "9/25/2022"
       },
       {
@@ -2295,7 +2295,7 @@
         "name": "Hazecraft IPA",
         "style": "IPA - New England / Hazy",
         "abv": 6.7,
-        "ba": "87",
+        "ba": 87,
         "day": "9/25/2022"
       },
       {
@@ -2304,7 +2304,7 @@
         "name": "Edmund Fitzgerald",
         "style": "Porter - American",
         "abv": 6,
-        "ba": "94",
+        "ba": 94,
         "day": "9/25/2022"
       },
       {
@@ -2313,7 +2313,7 @@
         "name": "Oktoberfest",
         "style": "Märzen",
         "abv": 6.5,
-        "ba": "90",
+        "ba": 90,
         "day": "9/25/2022"
       },
       {
@@ -2322,7 +2322,7 @@
         "name": "7th Anniversary",
         "style": "IPA - New England / Hazy",
         "abv": 6.8,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2331,7 +2331,7 @@
         "name": "Koruna Pils",
         "style": "Pilsner - Czech",
         "abv": 4.6,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2340,7 +2340,7 @@
         "name": "There's No Crying In Baseball",
         "style": "IPA - American",
         "abv": 6,
-        "ba": "88",
+        "ba": 88,
         "day": "9/25/2022"
       },
       {
@@ -2349,7 +2349,7 @@
         "name": "Trick or Treat",
         "style": "Porter - American",
         "abv": 7.8,
-        "ba": "83",
+        "ba": 83,
         "day": "9/25/2022"
       },
       {
@@ -2358,7 +2358,7 @@
         "name": "Oktoberfest",
         "style": "Märzen",
         "abv": 5,
-        "ba": "82",
+        "ba": 82,
         "day": "9/25/2022"
       },
       {
@@ -2367,7 +2367,7 @@
         "name": "Gold Lager",
         "style": "Lager - Helles",
         "abv": 4.7,
-        "ba": "88",
+        "ba": 88,
         "day": "9/25/2022"
       },
       {
@@ -2376,7 +2376,7 @@
         "name": "Cape May IPA",
         "style": "IPA - American",
         "abv": 6.3,
-        "ba": "85",
+        "ba": 85,
         "day": "9/25/2022"
       },
       {
@@ -2385,7 +2385,7 @@
         "name": "Always Ready",
         "style": "Pale Ale - American",
         "abv": 4.8,
-        "ba": "88",
+        "ba": 88,
         "day": "9/25/2022"
       },
       {
@@ -2394,7 +2394,7 @@
         "name": "Oktoberfest",
         "style": "Märzen",
         "abv": 5.8,
-        "ba": "85",
+        "ba": 85,
         "day": "9/25/2022"
       },
       {
@@ -2403,7 +2403,7 @@
         "name": "Hazy Cannon",
         "style": "IPA - New England / Hazy",
         "abv": 7.25,
-        "ba": "87",
+        "ba": 87,
         "day": "9/25/2022"
       },
       {
@@ -2412,7 +2412,7 @@
         "name": "Chocoloate Volcano",
         "style": "Stout - Imperial / Double",
         "abv": 9,
-        "ba": "86",
+        "ba": 86,
         "day": "9/25/2022"
       },
       {
@@ -2421,7 +2421,7 @@
         "name": "TropiCannon Pina Colada",
         "style": "IPA - American",
         "abv": 7.25,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2430,7 +2430,7 @@
         "name": "Well Made",
         "style": "Lager - American",
         "abv": 5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2439,7 +2439,7 @@
         "name": "Okoberfest",
         "style": "Märzen",
         "abv": 5.2,
-        "ba": "86",
+        "ba": 86,
         "day": "9/25/2022"
       },
       {
@@ -2448,7 +2448,7 @@
         "name": "Pompeii",
         "style": "IPA - American",
         "abv": 6.3,
-        "ba": "95",
+        "ba": 95,
         "day": "9/25/2022"
       },
       {
@@ -2457,7 +2457,7 @@
         "name": "Pseudo Sue",
         "style": "Pale Ale - American",
         "abv": 5.8,
-        "ba": "99",
+        "ba": 99,
         "day": "9/25/2022"
       },
       {
@@ -2466,7 +2466,7 @@
         "name": "Pack'd : Raspberry.Blackberry",
         "style": "Sour - Fruited",
         "abv": 4.8,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2475,7 +2475,7 @@
         "name": "Mood: Harvest",
         "style": "IPA - New England / Hazy",
         "abv": 9,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2484,7 +2484,7 @@
         "name": "Clearwater Kolsch",
         "style": "Kölsch",
         "abv": 4.9,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2493,7 +2493,7 @@
         "name": "Blueberry Sour Power",
         "style": "Sour - Fruited",
         "abv": 5.2,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2502,7 +2502,7 @@
         "name": "Bomb Pop",
         "style": "Shandy / Radler",
         "abv": 4.2,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2511,7 +2511,7 @@
         "name": "Paydirt IPA",
         "style": "IPA - New England / Hazy",
         "abv": 5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2520,7 +2520,7 @@
         "name": "Shot in the Dark",
         "style": "Stout - Imperial / Double Coffee",
         "abv": 8.3,
-        "ba": "90",
+        "ba": 90,
         "day": "9/25/2022"
       },
       {
@@ -2529,7 +2529,7 @@
         "name": "Marylan",
         "style": "Blonde Ale",
         "abv": 5.2,
-        "ba": "90",
+        "ba": 90,
         "day": "9/25/2022"
       },
       {
@@ -2538,7 +2538,7 @@
         "name": "Slip-Ons",
         "style": "Pale Ale - American",
         "abv": 6.5,
-        "ba": "91",
+        "ba": 91,
         "day": "9/25/2022"
       },
       {
@@ -2547,7 +2547,7 @@
         "name": "Stunts",
         "style": "Sour - Fruited",
         "abv": 4.5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2556,7 +2556,7 @@
         "name": "Pulp",
         "style": "",
         "abv": null,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2565,7 +2565,7 @@
         "name": "Pumking",
         "style": "Pumpkin / Yam Beer",
         "abv": 8.6,
-        "ba": "90",
+        "ba": 90,
         "day": "9/25/2022"
       },
       {
@@ -2574,7 +2574,7 @@
         "name": "Harvest Autumn IPA",
         "style": "IPA - American",
         "abv": 6.7,
-        "ba": "86",
+        "ba": 86,
         "day": "9/25/2022"
       },
       {
@@ -2583,7 +2583,7 @@
         "name": "Cold Brew Coffee Pumking Nitro",
         "style": "Pumpkin / Yam Beer",
         "abv": 8.6,
-        "ba": "89",
+        "ba": 89,
         "day": "9/25/2022"
       },
       {
@@ -2592,7 +2592,7 @@
         "name": "Nitro Crème Brûlée",
         "style": "Stout - Imperial / Double Milk",
         "abv": 10,
-        "ba": "94",
+        "ba": 94,
         "day": "9/25/2022"
       },
       {
@@ -2601,7 +2601,7 @@
         "name": "Swishy Pants",
         "style": "IPA - American",
         "abv": 7.4,
-        "ba": "91",
+        "ba": 91,
         "day": "9/25/2022"
       },
       {
@@ -2610,7 +2610,7 @@
         "name": "Secret Machine - Pineapple Strawberry Colada",
         "style": "Fruit Beer",
         "abv": 7,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2619,7 +2619,7 @@
         "name": "Secret Machine - Peach Blueberry Muffins",
         "style": "Fruit Beer",
         "abv": 7,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2628,7 +2628,7 @@
         "name": "Secret Machine - Pineapple, Grapefruit, Orange",
         "style": "Fruit Beer",
         "abv": 7,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2637,7 +2637,7 @@
         "name": "Secret Machine - Strawberry Blueberry Gelato",
         "style": "Fruit Beer",
         "abv": 7,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2646,7 +2646,7 @@
         "name": "House Lager",
         "style": "Lager - Amber",
         "abv": 4.8,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2655,7 +2655,7 @@
         "name": "Goin' Broke IPA",
         "style": "IPA - American",
         "abv": 7,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2664,7 +2664,7 @@
         "name": "Juice Carton",
         "style": "IPA - New England / Hazy",
         "abv": 6.5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2673,7 +2673,7 @@
         "name": "Tiny Tart - Mango/Blackberry",
         "style": "Sour - Fruited",
         "abv": 5.8,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2682,7 +2682,7 @@
         "name": "Veritá",
         "style": "Pilsner - Italian",
         "abv": 5.3,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2691,7 +2691,7 @@
         "name": "Hip 2B Ale",
         "style": "Wheat Beer - Other",
         "abv": 6,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2700,7 +2700,7 @@
         "name": "Newcomer",
         "style": "IPA - Session",
         "abv": 4.6,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2709,7 +2709,7 @@
         "name": "Going Back to Cali",
         "style": "IPA - American",
         "abv": 7.8,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2718,7 +2718,7 @@
         "name": "Vienna Lager",
         "style": "Lager - Vienna",
         "abv": 5.5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2727,7 +2727,7 @@
         "name": "Fieden Und Lieben",
         "style": "Märzen",
         "abv": 5.1,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2736,7 +2736,7 @@
         "name": "Hoppenstance IPA: Riwaka and Motueka",
         "style": "IPA - New England / Hazy",
         "abv": 6.5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2745,7 +2745,7 @@
         "name": "New Zealand Pils",
         "style": "Pilsner - Other",
         "abv": 4.8,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2754,7 +2754,7 @@
         "name": "Whoopie Pie Stout",
         "style": "Stout - Milk / Sweet",
         "abv": 5.8,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2763,7 +2763,7 @@
         "name": "DDH Broken Clutch",
         "style": "IPA - New England / Hazy",
         "abv": 6.8,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2772,7 +2772,7 @@
         "name": "Simcoe Sensation",
         "style": "IPA - New England / Hazy",
         "abv": 6.5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2781,7 +2781,7 @@
         "name": "Blue Trail Lemon Blueberry Shandy",
         "style": "Shandy / Radler",
         "abv": 5,
-        "ba": "82",
+        "ba": 82,
         "day": "9/25/2022"
       },
       {
@@ -2790,7 +2790,7 @@
         "name": "Bull Ring Berliner Weisse",
         "style": "Sour - Berliner Weisse",
         "abv": 4.8,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2799,7 +2799,7 @@
         "name": "Jump Seat Schwarzbier",
         "style": "Schwarzbier",
         "abv": 5.5,
-        "ba": "85",
+        "ba": 85,
         "day": "9/25/2022"
       },
       {
@@ -2808,7 +2808,7 @@
         "name": "Hop Hog IPA",
         "style": "IPA - American",
         "abv": 7,
-        "ba": "78",
+        "ba": 78,
         "day": "9/25/2022"
       },
       {
@@ -2817,7 +2817,7 @@
         "name": "Wee Heavy Scotch Ale",
         "style": "Scotch Ale / Wee Heavy",
         "abv": 8.5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2826,7 +2826,7 @@
         "name": "Sortie (Strawberry Lemon)",
         "style": "IPA - Sour",
         "abv": 6,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2835,7 +2835,7 @@
         "name": "Pumpkin Pie Milkshake DIPA",
         "style": "IPA - Milkshake",
         "abv": 8.5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2844,7 +2844,7 @@
         "name": "White Boy Rick",
         "style": "Pilsner - Czech",
         "abv": 6.2,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2853,7 +2853,7 @@
         "name": "Perfectionist",
         "style": "IPA - American",
         "abv": 7.5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2862,7 +2862,7 @@
         "name": "Queen Street Fuego",
         "style": "Other",
         "abv": 8.3,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2871,7 +2871,7 @@
         "name": "Hart van Glas",
         "style": "Belgian Blonde",
         "abv": 7.7,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2880,7 +2880,7 @@
         "name": "Nightmare on Springwood Drive",
         "style": "Lager - Amber",
         "abv": 6.4,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2889,7 +2889,7 @@
         "name": "Walking on Clouds",
         "style": "IPA - New England / Hazy",
         "abv": 7,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2898,7 +2898,7 @@
         "name": "Marzen",
         "style": "Märzen",
         "abv": 5.6,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2907,7 +2907,7 @@
         "name": "O.G Pils Legendary Philly Lager",
         "style": "Pilsner - Other",
         "abv": 4.9,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2916,7 +2916,7 @@
         "name": "Hallertau Pils",
         "style": "Pilsner - German",
         "abv": 5.2,
-        "ba": "90",
+        "ba": 90,
         "day": "9/25/2022"
       },
       {
@@ -2925,7 +2925,7 @@
         "name": "Oktoberfest",
         "style": "Märzen",
         "abv": 5.6,
-        "ba": "89",
+        "ba": 89,
         "day": "9/25/2022"
       },
       {
@@ -2934,7 +2934,7 @@
         "name": "Cult Vibes",
         "style": "Farmhouse Ale - Saison",
         "abv": 6,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2943,7 +2943,7 @@
         "name": "The Empty Sea",
         "style": "Porter - Baltic",
         "abv": 8.1,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2952,7 +2952,7 @@
         "name": "Riemer",
         "style": "Pilsner - German",
         "abv": 5.3,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2961,7 +2961,7 @@
         "name": "Swell",
         "style": "IPA - New England / Hazy",
         "abv": 5.5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2970,7 +2970,7 @@
         "name": "Orange Crushsicle",
         "style": "Fruit Beer",
         "abv": 7,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2979,7 +2979,7 @@
         "name": "Koruna Pils",
         "style": "Pilsner - Czech",
         "abv": 4.6,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2988,7 +2988,7 @@
         "name": "Gose Traditionale",
         "style": "Sour - Traditional Gose",
         "abv": 4.2,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -2997,7 +2997,7 @@
         "name": "Endoplasmic Reticulum",
         "style": "IPA - American",
         "abv": 7,
-        "ba": "82",
+        "ba": 82,
         "day": "9/25/2022"
       },
       {
@@ -3006,7 +3006,7 @@
         "name": "Chatty Premium Lager",
         "style": "Lager - American",
         "abv": 4.6,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3015,7 +3015,7 @@
         "name": "Split Face",
         "style": "Lager - Amber",
         "abv": 5.3,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3024,7 +3024,7 @@
         "name": "Cush",
         "style": "IPA - New England / Hazy",
         "abv": 6.5,
-        "ba": "87",
+        "ba": 87,
         "day": "9/25/2022"
       },
       {
@@ -3033,7 +3033,7 @@
         "name": "Face Chop",
         "style": "IPA - Imperial / Double New England / Hazy",
         "abv": 8.2,
-        "ba": "90",
+        "ba": 90,
         "day": "9/25/2022"
       },
       {
@@ -3042,7 +3042,7 @@
         "name": "Lustra",
         "style": "Pale Ale - American",
         "abv": 5.8,
-        "ba": "92",
+        "ba": 92,
         "day": "9/25/2022"
       },
       {
@@ -3051,7 +3051,7 @@
         "name": "Not Always Present",
         "style": "Kölsch",
         "abv": 4.8,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3060,7 +3060,7 @@
         "name": "It's the Yeast We Could Do",
         "style": "Belgian Strong Golden Ale",
         "abv": 7.5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3069,7 +3069,7 @@
         "name": "Gentlemen's Agreement",
         "style": "IPA - American",
         "abv": 6.5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3078,7 +3078,7 @@
         "name": "Interstellar Keller",
         "style": "Kellerbier / Zwickelbier",
         "abv": 5.9,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3087,7 +3087,7 @@
         "name": "Helium Wheels",
         "style": "IPA - New England / Hazy",
         "abv": 7,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3096,7 +3096,7 @@
         "name": "Shuckin' Pumpkin",
         "style": "Pumpkin / Yam Beer",
         "abv": 5.5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3105,7 +3105,7 @@
         "name": "Peaches & Cream Dreamsicle",
         "style": "IPA - New England / Hazy",
         "abv": 7,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3114,7 +3114,7 @@
         "name": "Solar Power",
         "style": "Belgian Blonde",
         "abv": 5.9,
-        "ba": "85",
+        "ba": 85,
         "day": "9/25/2022"
       },
       {
@@ -3123,7 +3123,7 @@
         "name": "Hammerhead IPA",
         "style": "IPA - American",
         "abv": 6.3,
-        "ba": "87",
+        "ba": 87,
         "day": "9/25/2022"
       },
       {
@@ -3132,7 +3132,7 @@
         "name": "Marley",
         "style": "Sour - Fruited",
         "abv": 6.5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3141,7 +3141,7 @@
         "name": "Ring the Bell",
         "style": "Pilsner - Other",
         "abv": 5.2,
-        "ba": "85",
+        "ba": 85,
         "day": "9/25/2022"
       },
       {
@@ -3150,7 +3150,7 @@
         "name": "Life Coach",
         "style": "IPA - New England / Hazy",
         "abv": 5.2,
-        "ba": "83",
+        "ba": 83,
         "day": "9/25/2022"
       },
       {
@@ -3159,7 +3159,7 @@
         "name": "Cran-Apple Peach Cobbler sWheat Tart",
         "style": "Sour - Fruited",
         "abv": 5.9,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3168,7 +3168,7 @@
         "name": "Annville IPA",
         "style": "IPA - New England / Hazy",
         "abv": 7.8,
-        "ba": "89",
+        "ba": 89,
         "day": "9/25/2022"
       },
       {
@@ -3177,7 +3177,7 @@
         "name": "Peach Party",
         "style": "Cider - Other Fruit",
         "abv": 6.5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3186,7 +3186,7 @@
         "name": "Triple Jam",
         "style": "Cider - Other Fruit",
         "abv": 6.5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3195,7 +3195,7 @@
         "name": "American Apple",
         "style": "Cider - Other Fruit",
         "abv": 8,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3204,7 +3204,7 @@
         "name": "El Chavo",
         "style": "Cider - Traditional / Apfelwein",
         "abv": 3.5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3213,7 +3213,7 @@
         "name": "#TeamWestCoast",
         "style": "IPA - American",
         "abv": 6.2,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3222,7 +3222,7 @@
         "name": "Crush Time Kölsch",
         "style": "Kölsch",
         "abv": 4.4,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3231,7 +3231,7 @@
         "name": "Proper Pils",
         "style": "Pilsner - Czech",
         "abv": 5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3240,7 +3240,7 @@
         "name": "Brewer's Intent",
         "style": "Lager - IPL (India Pale Lager)",
         "abv": 5.6,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3249,7 +3249,7 @@
         "name": "Bohemian Pilsner",
         "style": "Pilsner - Czech",
         "abv": 5.4,
-        "ba": "87",
+        "ba": 87,
         "day": "9/25/2022"
       },
       {
@@ -3258,7 +3258,7 @@
         "name": "Golden Helles Lager",
         "style": "Lager - Helles",
         "abv": 4.9,
-        "ba": "87",
+        "ba": 87,
         "day": "9/25/2022"
       },
       {
@@ -3267,7 +3267,7 @@
         "name": "Bane of Exisitence",
         "style": "IPA - American",
         "abv": 6.6,
-        "ba": "89",
+        "ba": 89,
         "day": "9/25/2022"
       },
       {
@@ -3276,7 +3276,7 @@
         "name": "Magic West",
         "style": "IPA - Other",
         "abv": 6.5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3285,7 +3285,7 @@
         "name": "How Many Planets?",
         "style": "IPA - Imperial / Double",
         "abv": 9,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3294,7 +3294,7 @@
         "name": "MC2",
         "style": "IPA - Imperial / Double",
         "abv": 8,
-        "ba": "96",
+        "ba": 96,
         "day": "9/25/2022"
       },
       {
@@ -3303,7 +3303,7 @@
         "name": "Data Points",
         "style": "IPA - Imperial / Double",
         "abv": 8.5,
-        "ba": "92",
+        "ba": 92,
         "day": "9/25/2022"
       },
       {
@@ -3312,7 +3312,7 @@
         "name": "King AL",
         "style": "IPA - Imperial / Double",
         "abv": 7.9,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3321,7 +3321,7 @@
         "name": "Tie-Dye Science",
         "style": "IPA - New England / Hazy",
         "abv": 6.5,
-        "ba": "91",
+        "ba": 91,
         "day": "9/25/2022"
       },
       {
@@ -3330,7 +3330,7 @@
         "name": "Cartella",
         "style": "Stout - Milk / Sweet",
         "abv": 7.7,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3339,7 +3339,7 @@
         "name": "Geometric Fruit: Tangerine Cranberry",
         "style": "Sour - Fruited Berliner Weisse",
         "abv": 5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3348,7 +3348,7 @@
         "name": "Okoberfest Lager",
         "style": "Festbier",
         "abv": 6.1,
-        "ba": "89",
+        "ba": 89,
         "day": "9/25/2022"
       },
       {
@@ -3357,7 +3357,7 @@
         "name": "Lucky Holler Hazy IPA",
         "style": "IPA - New England / Hazy",
         "abv": 6.8,
-        "ba": "88",
+        "ba": 88,
         "day": "9/25/2022"
       },
       {
@@ -3366,7 +3366,7 @@
         "name": "Replenish",
         "style": "IPA - American",
         "abv": 7.5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3375,7 +3375,7 @@
         "name": "Tropical Double Broken Heels",
         "style": "IPA - Imperial / Double New England / Hazy",
         "abv": 9.2,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3384,7 +3384,7 @@
         "name": "Sunrise",
         "style": "Porter - Baltic",
         "abv": 5.5,
-        "ba": "87",
+        "ba": 87,
         "day": "9/25/2022"
       },
       {
@@ -3393,7 +3393,7 @@
         "name": "Head Hunter IPA",
         "style": "IPA - American",
         "abv": 7.5,
-        "ba": "96",
+        "ba": 96,
         "day": "9/25/2022"
       },
       {
@@ -3402,7 +3402,7 @@
         "name": "Bumble Berry Honey Blueberry Ale",
         "style": "Fruit Beer",
         "abv": 5.3,
-        "ba": "84",
+        "ba": 84,
         "day": "9/25/2022"
       },
       {
@@ -3411,7 +3411,7 @@
         "name": "Hazeway IPA",
         "style": "IPA - American",
         "abv": 7.4,
-        "ba": "88",
+        "ba": 88,
         "day": "9/25/2022"
       },
       {
@@ -3420,7 +3420,7 @@
         "name": "Sunset Lager",
         "style": "Lager - Amber",
         "abv": 4.8,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3429,7 +3429,7 @@
         "name": "Cranberry",
         "style": "Cider - Traditional / Apfelwein",
         "abv": 5.5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3438,7 +3438,7 @@
         "name": "Caramel Apple Cider",
         "style": "Cider - Sweet",
         "abv": 6,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3447,7 +3447,7 @@
         "name": "Pumpkin Ale",
         "style": "Pumpkin / Yam Beer",
         "abv": 5.5,
-        "ba": "83",
+        "ba": 83,
         "day": "9/25/2022"
       },
       {
@@ -3456,7 +3456,7 @@
         "name": "Philly Phavorite IPA",
         "style": "IPA - New England / Hazy",
         "abv": 6.7,
-        "ba": "87",
+        "ba": 87,
         "day": "9/25/2022"
       },
       {
@@ -3465,7 +3465,7 @@
         "name": "Double Dry Hopped Green City",
         "style": "IPA - American",
         "abv": 7,
-        "ba": "93",
+        "ba": 93,
         "day": "9/25/2022"
       },
       {
@@ -3474,7 +3474,7 @@
         "name": "Double Dry Hopped Mylar Bags",
         "style": "IPA - Imperial / Double",
         "abv": 8.5,
-        "ba": "100",
+        "ba": 100,
         "day": "9/25/2022"
       },
       {
@@ -3483,7 +3483,7 @@
         "name": "I Love Being A Turtle (Blue) - Fig Tart",
         "style": "Sour - Smoothie / Pastry",
         "abv": 6,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3492,7 +3492,7 @@
         "name": "Talk to the Hand",
         "style": "Sour - Fruited",
         "abv": 7,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3501,7 +3501,7 @@
         "name": "Fun Sip: Orange Skittle Seltzer",
         "style": "Hard Seltzer",
         "abv": 5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3510,7 +3510,7 @@
         "name": "You Vedder Not",
         "style": "IPA - Triple New England / Hazy",
         "abv": 10.8,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3519,7 +3519,7 @@
         "name": "One Hop Wonders - Black Sabroth",
         "style": "IPA - Imperial / Double Black",
         "abv": 8.3,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3528,7 +3528,7 @@
         "name": "Double Dingers Peach Cobbler",
         "style": "Sour - Berliner Weisse",
         "abv": 9,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3537,7 +3537,7 @@
         "name": "Madtoberfest",
         "style": "Märzen",
         "abv": 5.5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3546,7 +3546,7 @@
         "name": "Juice Excuse N.E.I.P.A.",
         "style": "IPA - New England / Hazy",
         "abv": 5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3555,7 +3555,7 @@
         "name": "Tailgate Meeting",
         "style": "IPA - Session",
         "abv": 5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3564,7 +3564,7 @@
         "name": "Townsquare Raspberry Mango Sour",
         "style": "Sour - Fruited",
         "abv": 4.5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3573,7 +3573,7 @@
         "name": "Mondays",
         "style": "Lager - American",
         "abv": 4.2,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3582,7 +3582,7 @@
         "name": "Raney City",
         "style": "Stout - Imperial / Double",
         "abv": 10.2,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3591,7 +3591,7 @@
         "name": "Kiwi Gose",
         "style": "Sour - Fruited Gose",
         "abv": 4.5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3600,7 +3600,7 @@
         "name": "Ghost Pepper Fetish",
         "style": "Spiced / Herbed Beer",
         "abv": 6.5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3609,7 +3609,7 @@
         "name": "Pumpkin Fetish",
         "style": "Pumpkin / Yam Beer",
         "abv": 6.56,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3618,7 +3618,7 @@
         "name": "Hazy 100",
         "style": "Pale Ale - New England / Hazy",
         "abv": 5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3627,7 +3627,7 @@
         "name": "Space Race",
         "style": "IPA - American",
         "abv": 7,
-        "ba": "91",
+        "ba": 91,
         "day": "9/25/2022"
       },
       {
@@ -3636,7 +3636,7 @@
         "name": "Palinioa",
         "style": "Pilsner - Other",
         "abv": 4.8,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3645,7 +3645,7 @@
         "name": "Perfect Date: Tropical Taste",
         "style": "Sour - Smoothie / Pastry",
         "abv": 5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3654,7 +3654,7 @@
         "name": "Oktoberfest Lager",
         "style": "Märzen",
         "abv": 5.7,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3663,7 +3663,7 @@
         "name": "Haze Frehley",
         "style": "IPA - New England / Hazy",
         "abv": 6.7,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3672,7 +3672,7 @@
         "name": "Low Expectations With Lime",
         "style": "Lager - American Light",
         "abv": 4,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3681,7 +3681,7 @@
         "name": "Sitting with the Dog",
         "style": "IPA - New England / Hazy",
         "abv": 6,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3690,7 +3690,7 @@
         "name": "A Beer For Dad",
         "style": "Lager - Vienna",
         "abv": 5.25,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3699,7 +3699,7 @@
         "name": "Tom-Tom Double India Pale Ale",
         "style": "IPA - Imperial / Double",
         "abv": 8,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3708,7 +3708,7 @@
         "name": "Jersey Girl",
         "style": "Farmhouse Ale - Saison",
         "abv": 6.5,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3717,7 +3717,7 @@
         "name": "Jaybird",
         "style": "IPA - New England / Hazy",
         "abv": 6.9,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3726,7 +3726,7 @@
         "name": "Emmie Gorgon",
         "style": "IPA - New England / Hazy",
         "abv": 7,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3735,7 +3735,7 @@
         "name": "Logan Guard",
         "style": "Pilsner - German",
         "abv": 5.6,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3744,7 +3744,7 @@
         "name": "Alt of Personality",
         "style": "Altbier",
         "abv": 5.6,
-        "ba": "",
+        "ba": null,
         "day": "9/25/2022"
       },
       {
@@ -3753,7 +3753,7 @@
         "name": "Gaffel Kölsch",
         "style": "Kölsch",
         "abv": 4.8,
-        "ba": "83",
+        "ba": 83,
         "day": ""
       },
       {
@@ -3762,7 +3762,7 @@
         "name": "Houblon Chouffe",
         "style": "IPA - Belgian",
         "abv": 9,
-        "ba": "93",
+        "ba": 93,
         "day": ""
       },
       {
@@ -3771,7 +3771,7 @@
         "name": "Delirium Tremens",
         "style": "Belgian Strong Golden Ale",
         "abv": 8.5,
-        "ba": "92",
+        "ba": 92,
         "day": ""
       },
       {
@@ -3780,7 +3780,7 @@
         "name": "Bulls Head Tripel",
         "style": "Belgian Tripel",
         "abv": 8.3,
-        "ba": "",
+        "ba": null,
         "day": ""
       },
       {
@@ -3789,7 +3789,7 @@
         "name": "Hofbräu Dunkel / Dunkel Gold",
         "style": "Wheat Beer - Dunkelweizen",
         "abv": 5.5,
-        "ba": "85",
+        "ba": 85,
         "day": ""
       },
       {
@@ -3798,7 +3798,7 @@
         "name": "Weihenstephaner Festbier",
         "style": "Festbier",
         "abv": 5.8,
-        "ba": "85",
+        "ba": 85,
         "day": ""
       }
     ],
