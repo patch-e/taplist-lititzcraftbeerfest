@@ -213,8 +213,8 @@
         "pod": "B",
         "brewery": "Collusion Tap Works",
         "name": "Brauheist",
-        "style": "Märzen",
-        "abv": null,
+        "style": "Lager - Amber",
+        "abv": 5.2,
         "ba": "",
         "day": "9/24/2022"
       },
@@ -482,8 +482,8 @@
       {
         "pod": "D",
         "brewery": "Captain Lawrence Brewing Co.",
-        "name": "Mood: Harvest NEIPA",
-        "style": "IPA - Imperial / Double New England / Hazy",
+        "name": "Mood: Harvest",
+        "style": "IPA - New England / Hazy",
         "abv": 9,
         "ba": "",
         "day": "9/24/2022"
@@ -733,7 +733,7 @@
       },
       {
         "pod": "E",
-        "brewery": "Bespoke Brewing Co.",
+        "brewery": "Bespoke Brewing",
         "name": "Hoppenstance IPA: Riwaka and Motueka",
         "style": "IPA - New England / Hazy",
         "abv": 6.5,
@@ -742,7 +742,7 @@
       },
       {
         "pod": "E",
-        "brewery": "Bespoke Brewing Co.",
+        "brewery": "Bespoke Brewing",
         "name": "New Zealand Pils",
         "style": "Pilsner - Other",
         "abv": 4.8,
@@ -751,7 +751,7 @@
       },
       {
         "pod": "E",
-        "brewery": "Bespoke Brewing Co.",
+        "brewery": "Bespoke Brewing",
         "name": "Whoopie Pie Stout",
         "style": "Stout - Milk / Sweet",
         "abv": 5.8,
@@ -852,14 +852,14 @@
         "pod": "F",
         "brewery": "Compass Mill Tap House",
         "name": "Rocktoberfest",
-        "style": "",
-        "abv": null,
+        "style": "Märzen",
+        "abv": 6,
         "ba": "",
         "day": "9/24/2022"
       },
       {
         "pod": "F",
-        "brewery": "Issac's Brewhouse",
+        "brewery": "Isaac's Craft Kitchen & Brewery",
         "name": "Queen Street Fuego",
         "style": "Other",
         "abv": 8.3,
@@ -868,7 +868,7 @@
       },
       {
         "pod": "F",
-        "brewery": "Issac's Brewhouse",
+        "brewery": "Isaac's Craft Kitchen & Brewery",
         "name": "Hart van Glas",
         "style": "Belgian Blonde",
         "abv": 7.7,
@@ -877,7 +877,7 @@
       },
       {
         "pod": "F",
-        "brewery": "Issac's Brewhouse",
+        "brewery": "Isaac's Craft Kitchen & Brewery",
         "name": "Nightmare on Springwood Drive",
         "style": "Lager - Amber",
         "abv": 6.4,
@@ -1039,7 +1039,7 @@
       },
       {
         "pod": "G",
-        "brewery": "Dancing Gnome Brewery",
+        "brewery": "Dancing Gnome",
         "name": "Lustra",
         "style": "Pale Ale - American",
         "abv": 5.8,
@@ -1048,7 +1048,7 @@
       },
       {
         "pod": "G",
-        "brewery": "Dancing Gnome Brewery",
+        "brewery": "Dancing Gnome",
         "name": "Not Always Present",
         "style": "Kölsch",
         "abv": 4.8,
@@ -1238,9 +1238,9 @@
       {
         "pod": "I",
         "brewery": "Wolf Brewing Co.",
-        "name": "Intergalactic",
-        "style": "IPA - New England / Hazy",
-        "abv": 7.5,
+        "name": "The Wolf of Market Street",
+        "style": "IPA - Triple",
+        "abv": 10,
         "ba": "",
         "day": "9/24/2022"
       },
@@ -1417,7 +1417,7 @@
       },
       {
         "pod": "J",
-        "brewery": "Winding Path Brewery",
+        "brewery": "Winding Path Brewing Co.",
         "name": "Hazeway IPA",
         "style": "IPA - American",
         "abv": 7.4,
@@ -1426,7 +1426,7 @@
       },
       {
         "pod": "J",
-        "brewery": "Winding Path Brewery",
+        "brewery": "Winding Path Brewing Co.",
         "name": "Sunset Lager",
         "style": "Lager - Amber",
         "abv": 4.8,
@@ -1580,24 +1580,6 @@
       },
       {
         "pod": "K",
-        "brewery": "Mad Chef Craft Brewing",
-        "name": "The Golden Falcon",
-        "style": "IPA - New England / Hazy",
-        "abv": 7.2,
-        "ba": "",
-        "day": "9/24/2022"
-      },
-      {
-        "pod": "K",
-        "brewery": "Mad Chef Craft Brewing",
-        "name": "Hoppy as Helles",
-        "style": "Lager - American",
-        "abv": 6,
-        "ba": "",
-        "day": "9/24/2022"
-      },
-      {
-        "pod": "K",
         "brewery": "Rural City Beer Co.",
         "name": "Tailgate Meeting",
         "style": "IPA - Session",
@@ -1663,8 +1645,8 @@
         "pod": "K",
         "brewery": "Fetish* Brewing Co.",
         "name": "Hazy 100",
-        "style": "",
-        "abv": null,
+        "style": "Pale Ale - New England / Hazy",
+        "abv": 5,
         "ba": "",
         "day": "9/24/2022"
       },
@@ -1979,7 +1961,7 @@
         "brewery": "Hidden River Brewing Co.",
         "name": "We Go Back",
         "style": "IPA - Imperial / Double",
-        "abv": 8.6,
+        "abv": 8.4,
         "ba": "",
         "day": "9/24/2022"
       },
@@ -2139,7 +2121,7 @@
       {
         "pod": "A",
         "brewery": "Ten7 Brewing Co.",
-        "name": "SelT7er",
+        "name": "SelT7er: Tangerine Passionfruit",
         "style": "Hard Seltzer",
         "abv": 6,
         "ba": "",
@@ -2212,8 +2194,8 @@
         "pod": "B",
         "brewery": "Collusion Tap Works",
         "name": "Brauheist",
-        "style": "Märzen",
-        "abv": null,
+        "style": "Lager - Amber",
+        "abv": 5.2,
         "ba": "",
         "day": "9/25/2022"
       },
@@ -2247,9 +2229,9 @@
       {
         "pod": "B",
         "brewery": "Pilger Ruh Brewing",
-        "name": "Pottsville Pilsner",
-        "style": "Pilsner - Czech",
-        "abv": 4.6,
+        "name": "I Live In a Shandy Down by The River",
+        "style": "Shandy / Radler",
+        "abv": 5,
         "ba": "",
         "day": "9/25/2022"
       },
@@ -2490,8 +2472,8 @@
       {
         "pod": "D",
         "brewery": "Captain Lawrence Brewing Co.",
-        "name": "Mood: Harvest NEIPA",
-        "style": "IPA - Imperial / Double New England / Hazy",
+        "name": "Mood: Harvest",
+        "style": "IPA - New England / Hazy",
         "abv": 9,
         "ba": "",
         "day": "9/25/2022"
@@ -2750,7 +2732,7 @@
       },
       {
         "pod": "E",
-        "brewery": "Bespoke Brewing Co.",
+        "brewery": "Bespoke Brewing",
         "name": "Hoppenstance IPA: Riwaka and Motueka",
         "style": "IPA - New England / Hazy",
         "abv": 6.5,
@@ -2759,7 +2741,7 @@
       },
       {
         "pod": "E",
-        "brewery": "Bespoke Brewing Co.",
+        "brewery": "Bespoke Brewing",
         "name": "New Zealand Pils",
         "style": "Pilsner - Other",
         "abv": 4.8,
@@ -2768,7 +2750,7 @@
       },
       {
         "pod": "E",
-        "brewery": "Bespoke Brewing Co.",
+        "brewery": "Bespoke Brewing",
         "name": "Whoopie Pie Stout",
         "style": "Stout - Milk / Sweet",
         "abv": 5.8,
@@ -2876,7 +2858,7 @@
       },
       {
         "pod": "F",
-        "brewery": "Issac's Brewhouse",
+        "brewery": "Isaac's Craft Kitchen & Brewery",
         "name": "Queen Street Fuego",
         "style": "Other",
         "abv": 8.3,
@@ -2885,7 +2867,7 @@
       },
       {
         "pod": "F",
-        "brewery": "Issac's Brewhouse",
+        "brewery": "Isaac's Craft Kitchen & Brewery",
         "name": "Hart van Glas",
         "style": "Belgian Blonde",
         "abv": 7.7,
@@ -2894,7 +2876,7 @@
       },
       {
         "pod": "F",
-        "brewery": "Issac's Brewhouse",
+        "brewery": "Isaac's Craft Kitchen & Brewery",
         "name": "Nightmare on Springwood Drive",
         "style": "Lager - Amber",
         "abv": 6.4,
@@ -3056,7 +3038,7 @@
       },
       {
         "pod": "G",
-        "brewery": "Dancing Gnome Brewery",
+        "brewery": "Dancing Gnome",
         "name": "Lustra",
         "style": "Pale Ale - American",
         "abv": 5.8,
@@ -3065,7 +3047,7 @@
       },
       {
         "pod": "G",
-        "brewery": "Dancing Gnome Brewery",
+        "brewery": "Dancing Gnome",
         "name": "Not Always Present",
         "style": "Kölsch",
         "abv": 4.8,
@@ -3425,7 +3407,7 @@
       },
       {
         "pod": "J",
-        "brewery": "Winding Path Brewery",
+        "brewery": "Winding Path Brewing Co.",
         "name": "Hazeway IPA",
         "style": "IPA - American",
         "abv": 7.4,
@@ -3434,7 +3416,7 @@
       },
       {
         "pod": "J",
-        "brewery": "Winding Path Brewery",
+        "brewery": "Winding Path Brewing Co.",
         "name": "Sunset Lager",
         "style": "Lager - Amber",
         "abv": 4.8,
@@ -3569,24 +3551,6 @@
       },
       {
         "pod": "K",
-        "brewery": "Mad Chef Craft Brewing",
-        "name": "The Golden Falcon",
-        "style": "IPA - New England / Hazy",
-        "abv": 7.2,
-        "ba": "",
-        "day": "9/25/2022"
-      },
-      {
-        "pod": "K",
-        "brewery": "Mad Chef Craft Brewing",
-        "name": "Hoppy as Helles",
-        "style": "Lager - American",
-        "abv": 6,
-        "ba": "",
-        "day": "9/25/2022"
-      },
-      {
-        "pod": "K",
         "brewery": "Rural City Beer Co.",
         "name": "Tailgate Meeting",
         "style": "IPA - Session",
@@ -3652,8 +3616,8 @@
         "pod": "K",
         "brewery": "Fetish* Brewing Co.",
         "name": "Hazy 100",
-        "style": "",
-        "abv": null,
+        "style": "Pale Ale - New England / Hazy",
+        "abv": 5,
         "ba": "",
         "day": "9/25/2022"
       },
@@ -3804,10 +3768,10 @@
       {
         "pod": "BH",
         "brewery": "Delirium - Huyghe Brewery",
-        "name": "Delirium Red",
-        "style": "Fruit Beer",
-        "abv": 8,
-        "ba": "82",
+        "name": "Delirium Tremens",
+        "style": "Belgian Strong Golden Ale",
+        "abv": 8.5,
+        "ba": "92",
         "day": ""
       },
       {
@@ -3822,10 +3786,10 @@
       {
         "pod": "BH",
         "brewery": "Staatliches Hofbräuhaus München",
-        "name": "Hofbräu Schwarze Weisse / Dark Wheat / Hefeweizen Dunkel",
+        "name": "Hofbräu Dunkel / Dunkel Gold",
         "style": "Wheat Beer - Dunkelweizen",
-        "abv": 5.4,
-        "ba": "87",
+        "abv": 5.5,
+        "ba": "85",
         "day": ""
       },
       {
@@ -3838,7 +3802,7 @@
         "day": ""
       }
     ],
-    "timestamp": "2022-09-23T12:00:00.000Z"
+    "timestamp": "2022-09-24T12:00:00.000Z"
   }
  ]
  
