@@ -16,9 +16,9 @@
     "url": "https://github.com/patch-e/taplist-lititzcraftbeerfest.git"
   },
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
-    "gulp-jshint": "^1.12.0",
+    "gulp-jshint": "^2.1.0",
     "gulp-minify-css": "^0.4.6",
     "gulp-rename": "^1.4.0",
     "gulp-uglify": "^1.5.4"
