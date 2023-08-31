@@ -10,32 +10,47 @@ Patrick Crager
 'use strict';
 
 // required modules
-var gulp = require('gulp'),
+const gulp = require('gulp'),
     jshint = require('gulp-jshint'),
     concat = require('gulp-concat'),
     uglify = require('gulp-uglify'),
     rename = require('gulp-rename'),
-    minifyCSS = require('gulp-minify-css');
+    minifyCSS = require('gulp-minify-css'),
+    clean = require('gulp-clean'),
+    replace = require('gulp-replace');
+
+// build a string for cache busting
+let dateCacheBuster;
+let timeCacheBuster;
+gulp.task('updateCacheBuster', function () {
+    dateCacheBuster = new Date().toISOString().replace('-', '').split('T')[0].replace('-', '');
+    timeCacheBuster = Date.now();
+});
+
+// clean previous builds
+gulp.task('clean', function () {
+    gulp.src('release/*/beersapp.min-*').
+        pipe(clean({force: true}));
+    gulp.src('partials/table-*.html').
+        pipe(clean({force: true}));
+});
 
 // lint task
 gulp.task('lint', function() {
-    return gulp.src([
-      'js/controllers/**/*.js',
-      'js/data/**/*.js',
-      'js/directives/**/*.js',
-      'js/shared/**/*.js',
-      'js/*.js',
-    ]).
-    pipe(jshint()).
-    pipe(jshint.reporter('default'));
+    gulp.src([
+        'js/controllers/**/*.js',
+        'js/data/**/*.js',
+        'js/directives/**/*.js',
+        'js/shared/**/*.js',
+        'js/*.js',
+        ]).
+        pipe(jshint()).
+        pipe(jshint.reporter('default'));
 });
-
-// build a date string for cache busting
-var cacheBuster = new Date().toISOString().replace('-', '').split('T')[0].replace('-', '');
 
 // concat & minify js task
 gulp.task('scripts', function() {
-    return gulp.src([
+    gulp.src([
             'js/vendor/jquery-1.11.0.min.js',
             'js/vendor/bootstrap-3.2.0.min.js',
             'js/vendor/star-rating.min.js',
@@ -51,21 +66,22 @@ gulp.task('scripts', function() {
             'js/directives/**/*.js'
         ]).
         pipe(concat('beersapp.js')).
+        pipe(replace(/{cacheBuster}/g, dateCacheBuster)).
         pipe(gulp.dest('release/js')).
-        pipe(rename('beersapp.min-' + cacheBuster + '.js')).
+        pipe(rename('beersapp.min-' + timeCacheBuster + '.js')).
         pipe(uglify()).
         pipe(gulp.dest('release/js'));
 });
 
 // concat & minify css task
 gulp.task('css', function() {
-    return gulp.src([
+    gulp.src([
             'css/vendor/**/*',
             'css/main.css'
         ]).
         pipe(concat('beersapp.css')).
         pipe(gulp.dest('release/css')).
-        pipe(rename('beersapp.min-' + cacheBuster + '.css')).
+        pipe(rename('beersapp.min-' + timeCacheBuster + '.css')).
         pipe(minifyCSS({
             keepSpecialComments: 0,
             processImport: false
@@ -74,16 +90,26 @@ gulp.task('css', function() {
 });
 
 // copy glyphicon font files
-gulp.task('copyfonts', function() {
-    return gulp.src('css/fonts/*.*').
+gulp.task('copyFonts', function() {
+    gulp.src('css/fonts/*.*').
        pipe(gulp.dest('release/fonts'));
+});
+
+// replace old builds with new version
+gulp.task('updateHtml', function () {
+    gulp.src('*.html').
+        pipe(replace(/beersapp\.min-[0-9]+/g, 'beersapp.min-' + timeCacheBuster)).
+        pipe(gulp.dest(''));
+
+    gulp.src('partials/table.html').
+        pipe(rename('table-' + dateCacheBuster + '.html')).
+        pipe(gulp.dest('partials/'));
 });
 
 // watch task
 gulp.task('watch', function() {
-    gulp.watch('js/**/*.js', ['lint', 'scripts']);
-    gulp.watch('css/**/*.css', ['css']);
+    gulp.watch(['js/**/*.js', 'css/**/*.css', 'partials/table.html'], ['clean', 'updateCacheBuster', 'lint', 'scripts', 'css', 'updateHtml']);
 });
 
 // default task
-gulp.task('default', ['lint', 'scripts', 'css', 'copyfonts', 'watch']);
+gulp.task('default', ['clean', 'updateCacheBuster', 'lint', 'scripts', 'css', 'updateHtml', 'copyFonts', 'watch']);

@@ -21,12 +21,12 @@ Patrick Crager
   function configure($routeProvider) {
     $routeProvider
       .when('/', {
-        templateUrl: 'partials/table.html',
+        templateUrl: 'partials/table-{cacheBuster}.html',
         controller: 'BeerController',
         controllerAs: 'vm'
       })
       .when('/table', {
-        templateUrl: 'partials/table.html',
+        templateUrl: 'partials/table-{cacheBuster}.html',
         controller: 'BeerController',
         controllerAs: 'vm'
       })

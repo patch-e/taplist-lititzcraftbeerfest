@@ -33,10 +33,10 @@ Patrick Crager
 
     // default to day 1 until day 2
     var today = Date.now();
-    var day2 = new Date('9/25/2022');
-    vm.day1 = {day: '9/24/2022', label: 'Saturday', badge: '9/24'};
-    vm.day2 = {day: '9/25/2022', label: 'Sunday', badge: '9/25'};
-    vm.currentDay = (today < day2 ? vm.day1 : vm.day2);
+    var day2 = new Date('9/24/2023');
+    vm.day1 = {day: '9/23/2023', label: 'Saturday', badge: '9/23'};
+    vm.day2 = {day: '9/24/2023', label: 'Sunday', badge: '9/24'};
+    vm.currentDay = (today < day2 ? vm.day1 : vm.day1); // always return day1 when fest only has 1 day
 
     vm.vip = false;
 

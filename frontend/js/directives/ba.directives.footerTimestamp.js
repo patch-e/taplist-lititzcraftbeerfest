@@ -16,7 +16,7 @@ Patrick Crager
       restrict: 'E',
       replace: true,
       transclude: true,
-      template: '<small>Generated @ <data-ng-transclude></data-ng-transclude></small>'
+      template: '<small>Last updated <data-ng-transclude></data-ng-transclude></small>'
     };
 
     return directive;
