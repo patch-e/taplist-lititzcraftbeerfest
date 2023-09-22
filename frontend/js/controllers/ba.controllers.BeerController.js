@@ -39,6 +39,7 @@ Patrick Crager
     vm.currentDay = (today < day2 ? vm.day1 : vm.day1); // always return day1 when fest only has 1 day
 
     vm.vip = false;
+    vm.guild = false;
 
     // vm functions
     vm.prependBeerNumber = prependBeerNumber;
