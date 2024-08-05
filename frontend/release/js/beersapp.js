@@ -384,12 +384,12 @@ Patrick Crager
   function configure($routeProvider) {
     $routeProvider
       .when('/', {
-        templateUrl: 'partials/table-20230921.html',
+        templateUrl: 'partials/table-20240804.html',
         controller: 'BeerController',
         controllerAs: 'vm'
       })
       .when('/table', {
-        templateUrl: 'partials/table-20230921.html',
+        templateUrl: 'partials/table-20240804.html',
         controller: 'BeerController',
         controllerAs: 'vm'
       })
@@ -503,7 +503,7 @@ Patrick Crager
     return factory;
 
     function list() {
-      return $http.get('/data/taplist-2023.json');
+      return $http.get('/data/taplist-2024.json');
     }
 
     function search(b, n) {
