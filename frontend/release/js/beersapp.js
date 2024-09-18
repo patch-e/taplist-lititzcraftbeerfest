@@ -384,12 +384,12 @@ Patrick Crager
   function configure($routeProvider) {
     $routeProvider
       .when('/', {
-        templateUrl: 'partials/table-20240823.html',
+        templateUrl: 'partials/table-20240918.html',
         controller: 'BeerController',
         controllerAs: 'vm'
       })
       .when('/table', {
-        templateUrl: 'partials/table-20240823.html',
+        templateUrl: 'partials/table-20240918.html',
         controller: 'BeerController',
         controllerAs: 'vm'
       })
@@ -643,9 +643,9 @@ Patrick Crager
 
     // default to day 1 until day 2
     var today = Date.now();
-    var day2 = new Date('9/24/2023');
-    vm.day1 = {day: '9/23/2023', label: 'Saturday', badge: '9/23'};
-    vm.day2 = {day: '9/24/2023', label: 'Sunday', badge: '9/24'};
+    var day2 = new Date('9/22/2024');
+    vm.day1 = {day: '9/21/2024', label: 'Saturday', badge: '9/21'};
+    vm.day2 = {day: '9/22/2024', label: 'Sunday', badge: '9/22'};
     vm.currentDay = (today < day2 ? vm.day1 : vm.day1); // always return day1 when fest only has 1 day
 
     vm.vip = false;
