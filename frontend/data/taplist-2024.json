@@ -365,19 +365,19 @@
       },
       {
         "pod": "D",
-        "brewery": "Bespoke Brewing Co.",
-        "name": "",
-        "style": "",
-        "abv": null,
+        "brewery": "Bespoke Brewing",
+        "name": "Smoked Schwarzbier",
+        "style": "Smoked Beer",
+        "abv": "5.8",
         "ba": null,
         "day": "9/21/2024"
       },
       {
         "pod": "D",
-        "brewery": "Bespoke Brewing Co.",
-        "name": "",
-        "style": "",
-        "abv": null,
+        "brewery": "Bespoke Brewing",
+        "name": "HI-ER DEF",
+        "style": "IPA - Triple New England / Hazy",
+        "abv": "9.8",
         "ba": null,
         "day": "9/21/2024"
       },
@@ -546,19 +546,19 @@
       {
         "pod": "E",
         "brewery": "Iron Hill Brewery",
-        "name": "",
-        "style": "",
-        "abv": null,
+        "name": "Mr. Nice Guy",
+        "style": "IPA - New England / Hazy",
+        "abv": "6.6",
         "ba": null,
         "day": "9/21/2024"
       },
       {
         "pod": "E",
         "brewery": "Iron Hill Brewery",
-        "name": "",
-        "style": "",
-        "abv": null,
-        "ba": null,
+        "name": "Oktoberfest",
+        "style": "Festbier",
+        "abv": "6.0",
+        "ba": 86,
         "day": "9/21/2024"
       },
       {
@@ -690,10 +690,10 @@
       {
         "pod": "F",
         "brewery": "Adroit Theory Brewing Co.",
-        "name": "EBK [Until They Kill Me] (Ghost UNTIL THEY KILL ME)",
+        "name": "VOIID-05 (Ghost VOIID-05)",
         "style": "IPA - Imperial / Double New England / Hazy",
-        "abv": "8.5",
-        "ba": 88,
+        "abv": "9.0",
+        "ba": null,
         "day": "9/21/2024"
       },
       {
@@ -771,19 +771,19 @@
       {
         "pod": "G",
         "brewery": "Human Robot Beer",
-        "name": "",
-        "style": "",
-        "abv": null,
+        "name": "Märzen",
+        "style": "Märzen",
+        "abv": "5.9",
         "ba": null,
         "day": "9/21/2024"
       },
       {
         "pod": "G",
         "brewery": "Human Robot Beer",
-        "name": "",
-        "style": "",
-        "abv": null,
-        "ba": null,
+        "name": "Hallertau Pils",
+        "style": "Pilsner - German",
+        "abv": "5.2",
+        "ba": 91,
         "day": "9/21/2024"
       },
       {
@@ -879,18 +879,18 @@
       {
         "pod": "G",
         "brewery": "Surfside",
-        "name": "",
-        "style": "",
-        "abv": null,
+        "name": "Surfside Raspberry Tea + Vodka",
+        "style": "Craft Cocktail",
+        "abv": "4.5",
         "ba": null,
         "day": "9/21/2024"
       },
       {
         "pod": "G",
         "brewery": "Surfside",
-        "name": "",
-        "style": "",
-        "abv": null,
+        "name": "Surfside Green Tea + Vodka",
+        "style": "Craft Cocktail",
+        "abv": "4.5",
         "ba": null,
         "day": "9/21/2024"
       },
@@ -969,27 +969,72 @@
       {
         "pod": "H",
         "brewery": "Imprint Beer Co.",
-        "name": "",
-        "style": "",
-        "abv": null,
+        "name": "Gang Green 22",
+        "style": "IPA - Imperial / Double New England / Hazy",
+        "abv": "8.0",
         "ba": null,
         "day": "9/21/2024"
       },
       {
         "pod": "H",
         "brewery": "Imprint Beer Co.",
-        "name": "",
-        "style": "",
-        "abv": null,
+        "name": "IMPRINT LAGRRR",
+        "style": "Lager - American Light",
+        "abv": "4.4",
+        "ba": null,
+        "day": "9/21/2024"
+      },
+      {
+        "pod": "H",
+        "brewery": "Imprint Beer Co.",
+        "name": "Frisch",
+        "style": "Pilsner - German",
+        "abv": "5.2",
+        "ba": null,
+        "day": "9/21/2024"
+      },
+      {
+        "pod": "H",
+        "brewery": "Imprint Beer Co.",
+        "name": "Festbier",
+        "style": "Festbier",
+        "abv": "6.0",
+        "ba": null,
+        "day": "9/21/2024"
+      },
+      {
+        "pod": "H",
+        "brewery": "Imprint Beer Co.",
+        "name": "Vienna",
+        "style": "Lager - Vienna",
+        "abv": "5.4",
+        "ba": null,
+        "day": "9/21/2024"
+      },
+      {
+        "pod": "H",
+        "brewery": "Imprint Beer Co.",
+        "name": "Schmoojee Fros'e Melon Mango Pineapple",
+        "style": "Sour - Smoothie / Pastry",
+        "abv": "6.5",
+        "ba": null,
+        "day": "9/21/2024"
+      },
+      {
+        "pod": "H",
+        "brewery": "Imprint Beer Co.",
+        "name": "Bourbon Barrel Aged Coconut Pistachio Cheesecake Stout",
+        "style": "Stout - Imperial / Double Pastry",
+        "abv": "13.5",
         "ba": null,
         "day": "9/21/2024"
       },
       {
         "pod": "I",
         "brewery": "Hidden River Brewing Co.",
-        "name": "Long Live Life After Death",
-        "style": "",
-        "abv": null,
+        "name": "Life Long After Death",
+        "style": "IPA - Imperial / Double",
+        "abv": "8.4",
         "ba": null,
         "day": "9/21/2024"
       },
@@ -1113,9 +1158,9 @@
       {
         "pod": "J",
         "brewery": "Dewey Beer Co.",
-        "name": "Secret Machine - Pumpkin Whoopie Pie",
-        "style": "Fruit Beer",
-        "abv": "7.0",
+        "name": "Festbier",
+        "style": "Festbier",
+        "abv": "5.0",
         "ba": null,
         "day": "9/21/2024"
       },
@@ -1275,18 +1320,18 @@
       {
         "pod": "K",
         "brewery": "Englewood Brewing",
-        "name": "",
-        "style": "",
-        "abv": null,
+        "name": "Bam-ba-Lam Amber Ale",
+        "style": "Red Ale - American Amber / Red",
+        "abv": "5.5",
         "ba": null,
         "day": "9/21/2024"
       },
       {
         "pod": "K",
         "brewery": "Englewood Brewing",
-        "name": "",
-        "style": "",
-        "abv": null,
+        "name": "East Shore IPA",
+        "style": "IPA - American",
+        "abv": "7.3",
         "ba": null,
         "day": "9/21/2024"
       },
@@ -1356,18 +1401,27 @@
       {
         "pod": "L",
         "brewery": "Ever Grain Brewing Co.",
-        "name": "",
-        "style": "",
-        "abv": null,
+        "name": "Animal I Became",
+        "style": "IPA - Imperial / Double New England / Hazy",
+        "abv": "8.5",
         "ba": null,
         "day": "9/21/2024"
       },
       {
         "pod": "L",
         "brewery": "Ever Grain Brewing Co.",
-        "name": "",
-        "style": "",
-        "abv": null,
+        "name": "Sorbetto #82",
+        "style": "Sour - Smoothie / Pastry",
+        "abv": "6.0",
+        "ba": null,
+        "day": "9/21/2024"
+      },
+      {
+        "pod": "L",
+        "brewery": "Ever Grain Brewing Co.",
+        "name": " Sticky Beans Marshmallow, White Chocolate, Vanilla ",
+        "style": "Stout - Imperial / Double Coffee",
+        "abv": "12.5",
         "ba": null,
         "day": "9/21/2024"
       },
@@ -1383,7 +1437,7 @@
       {
         "pod": "L",
         "brewery": "Isaac's Craft Kitchen & Brewery",
-        "name": "Nightmare on Queen Street",
+        "name": "Nightmare on Queen St.",
         "style": "Märzen",
         "abv": "5.8",
         "ba": null,
@@ -1454,37 +1508,37 @@
       },
       {
         "pod": "M",
-        "brewery": "Lancaster Brewer's Guild",
-        "name": "",
-        "style": "",
-        "abv": null,
-        "ba": null,
+        "brewery": "Appalachian Brewing Co.",
+        "name": "Kipona Fest",
+        "style": "Märzen",
+        "abv": "5.2",
+        "ba": 82,
         "day": "9/21/2024"
       },
       {
         "pod": "M",
-        "brewery": "Lancaster Brewer's Guild",
-        "name": "",
-        "style": "",
-        "abv": null,
+        "brewery": "Appalachian Brewing Co.",
+        "name": "Faded Lake",
+        "style": "IPA - New England / Hazy",
+        "abv": "7.7",
         "ba": null,
         "day": "9/21/2024"
       },
       {
         "pod": "M",
         "brewery": "Appalachian Brewing Co.",
-        "name": "",
-        "style": "",
-        "abv": null,
+        "name": "Medal Count",
+        "style": "Sour - Fruited",
+        "abv": "4.5",
         "ba": null,
         "day": "9/21/2024"
       },
       {
         "pod": "M",
         "brewery": "Appalachian Brewing Co.",
-        "name": "",
-        "style": "",
-        "abv": null,
+        "name": "Silver Stock Lager",
+        "style": "Lager - American Light",
+        "abv": "4.3",
         "ba": null,
         "day": "9/21/2024"
       },
@@ -1599,18 +1653,18 @@
       {
         "pod": "N",
         "brewery": "Spring House Brewing Co.",
-        "name": "",
-        "style": "",
-        "abv": null,
-        "ba": null,
+        "name": "Seven Gates Pale Ale",
+        "style": "Pale Ale - American",
+        "abv": "5.6",
+        "ba": 82,
         "day": "9/21/2024"
       },
       {
         "pod": "N",
         "brewery": "Spring House Brewing Co.",
-        "name": "",
-        "style": "",
-        "abv": null,
+        "name": "Grease the Poles",
+        "style": "Lager - Pale",
+        "abv": "4.5",
         "ba": null,
         "day": "9/21/2024"
       },
@@ -1869,9 +1923,9 @@
       {
         "pod": "P",
         "brewery": "Cinderlands Beer Co.",
-        "name": "Cinderfest",
-        "style": "Festblier",
-        "abv": "5.8",
+        "name": "Cindi's Hard Mountain Tea",
+        "style": "Flavored Malt Beverage",
+        "abv": "6.5",
         "ba": null,
         "day": "9/21/2024"
       },
@@ -1896,36 +1950,45 @@
       {
         "pod": "Q",
         "brewery": "Schaylor Brewing Co.",
-        "name": "",
-        "style": "",
-        "abv": null,
+        "name": "Penske Beach Punch",
+        "style": "Sour - Fruited",
+        "abv": "5.5",
         "ba": null,
         "day": "9/21/2024"
       },
       {
         "pod": "Q",
         "brewery": "Schaylor Brewing Co.",
-        "name": "",
-        "style": "",
-        "abv": null,
+        "name": "Shillington Pilsner",
+        "style": "Pilsner - Other",
+        "abv": "4.9",
+        "ba": null,
+        "day": "9/21/2024"
+      },
+      {
+        "pod": "Q",
+        "brewery": "Schaylor Brewing Co.",
+        "name": "Steady Hands",
+        "style": "IPA - Session",
+        "abv": "5.2",
         "ba": null,
         "day": "9/21/2024"
       },
       {
         "pod": "Q",
         "brewery": "Rural City Beer Co.",
-        "name": "",
-        "style": "",
-        "abv": null,
+        "name": "Rural City Frigid Franks",
+        "style": "Kölsch",
+        "abv": "NA",
         "ba": null,
         "day": "9/21/2024"
       },
       {
         "pod": "Q",
         "brewery": "Rural City Beer Co.",
-        "name": "",
-        "style": "",
-        "abv": null,
+        "name": "Cherry Berry Boogie",
+        "style": "Sour - Fruited",
+        "abv": "5.2",
         "ba": null,
         "day": "9/21/2024"
       },
