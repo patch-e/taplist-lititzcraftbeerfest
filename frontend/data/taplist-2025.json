@@ -1,0 +1,1737 @@
+[
+  {
+    "title": "tap list",
+    "timestamp": "2025-09-21T17:45:33.002Z",
+    "beers": [
+      {
+        "pod": "A",
+        "brewery": "Blake's Hard Cider Co.",
+        "name": " El Chavo ",
+        "style": " Cider - Herbed / Spiced / Hopped ",
+        "abv": 6.5,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "A",
+        "brewery": "Blake's Hard Cider Co.",
+        "name": " American Apple ",
+        "style": " Cider - Applewine ",
+        "abv": 8,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "A",
+        "brewery": "Blake's Hard Cider Co.",
+        "name": " Triple Jam ",
+        "style": " Cider - Other Fruit ",
+        "abv": 6.5,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "A",
+        "brewery": "Blake's Hard Cider Co.",
+        "name": " Salted Caramel Apple ",
+        "style": " Cider - Sweet ",
+        "abv": 6.5,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "A",
+        "brewery": "Conshohocken Brewing Co.",
+        "name": " Ring the Bell ",
+        "style": " Lager - American ",
+        "abv": 4.8,
+        "ba": 85,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "A",
+        "brewery": "Conshohocken Brewing Co.",
+        "name": " Type A ",
+        "style": " IPA - American ",
+        "abv": 7,
+        "ba": 89,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "A",
+        "brewery": "Conshohocken Brewing Co.",
+        "name": " Puddlers Row ESB ",
+        "style": " Bitter - Extra Special / Strong (ESB) ",
+        "abv": 5.4,
+        "ba": 85,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "A",
+        "brewery": "Conshohocken Brewing Co.",
+        "name": " Life Coach ",
+        "style": " IPA - New England / Hazy ",
+        "abv": 5.2,
+        "ba": 84,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "A",
+        "brewery": "Rotunda Brewing Co.",
+        "name": " Rainbow BeeR-SkitlZ ",
+        "style": " Sour - Fruited ",
+        "abv": 5.9,
+        "ba": 80,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "A",
+        "brewery": "Rotunda Brewing Co.",
+        "name": " Blue Raspberry Sauer Patch’d KiDzzz ",
+        "style": " Sour - Fruited ",
+        "abv": 5.9,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "A",
+        "brewery": "Rotunda Brewing Co.",
+        "name": " Hype-C Fruit Punch ",
+        "style": " Sour - Fruited ",
+        "abv": 5.9,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "A",
+        "brewery": "Rotunda Brewing Co.",
+        "name": " Oktoberfest ",
+        "style": " Märzen ",
+        "abv": 6.2,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "A",
+        "brewery": "Rusty Rail Brewing Co.",
+        "name": " Raspberry Luminous - White Chocolate & Raspberry Golden Stout ",
+        "style": " Stout - Imperial / Double White / Golden ",
+        "abv": 6.5,
+        "ba": 80,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "A",
+        "brewery": "Rusty Rail Brewing Co.",
+        "name": " All Good - Hazy IPA ",
+        "style": " IPA - New England / Hazy ",
+        "abv": 5.2,
+        "ba": 83,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "A",
+        "brewery": "Big Oyster Brewery",
+        "name": " Nana's Tossed Salad Fruit Bowl ",
+        "style": " Sour - Fruited ",
+        "abv": 7,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "A",
+        "brewery": "Big Oyster Brewery",
+        "name": " Hammerhead IPA ",
+        "style": " IPA - American ",
+        "abv": 6.4,
+        "ba": 87,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "B",
+        "brewery": "Requiem Bier",
+        "name": " Requiem Select ",
+        "style": " Lager - Pale ",
+        "abv": 4.5,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "B",
+        "brewery": "Requiem Bier",
+        "name": " Waking Life ",
+        "style": " IPA - American ",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "B",
+        "brewery": "Requiem Bier",
+        "name": " Konsumer ",
+        "style": " Märzen ",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "B",
+        "brewery": "Brothers Kershner Brewing Co.",
+        "name": " Autumn ",
+        "style": " Märzen ",
+        "abv": 5.7,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "B",
+        "brewery": "Brothers Kershner Brewing Co.",
+        "name": " Cellar ",
+        "style": " Kölsch ",
+        "abv": 5,
+        "ba": 81,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "B",
+        "brewery": "Brothers Kershner Brewing Co.",
+        "name": " Johann Pilsner ",
+        "style": " Pilsner - German ",
+        "abv": 5.2,
+        "ba": 82,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "B",
+        "brewery": "Brothers Kershner Brewing Co.",
+        "name": " 7Even ",
+        "style": " IPA - New England / Hazy ",
+        "abv": 7,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "B",
+        "brewery": "Brothers Kershner Brewing Co.",
+        "name": " Bing Bang Boom ",
+        "style": " IPA - American ",
+        "abv": 6.5,
+        "ba": 84,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "B",
+        "brewery": "East Branch Brewing",
+        "name": " Vista ",
+        "style": " IPA - New England / Hazy ",
+        "abv": 5.7,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "B",
+        "brewery": "East Branch Brewing",
+        "name": " Del Mar ",
+        "style": " Pilsner - Other ",
+        "abv": 4.6,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "B",
+        "brewery": "Aldus Brewing Co.",
+        "name": " Red Flannel Logger ",
+        "style": " Lager - American Amber / Red ",
+        "abv": 5.6,
+        "ba": 80,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "B",
+        "brewery": "Aldus Brewing Co.",
+        "name": " Pretzel Wheat ",
+        "style": " Wheat Beer - Other ",
+        "abv": 6.3,
+        "ba": 84,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "B",
+        "brewery": "Aldus Brewing Co.",
+        "name": " Pineapple Crushsicle ",
+        "style": " Fruit Beer ",
+        "abv": 7,
+        "ba": 80,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "B",
+        "brewery": "Aldus Brewing Co.",
+        "name": " Strawberry Lemonade ",
+        "style": " Fruit Beer ",
+        "abv": 7,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "B",
+        "brewery": "Cushwa Brewing Co.",
+        "name": " 56 Nights ",
+        "style": " Lager - Munich Dunkel ",
+        "abv": 5,
+        "ba": 83,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "B",
+        "brewery": "Cushwa Brewing Co.",
+        "name": " Patchwork Mosaic ",
+        "style": " IPA - New England / Hazy ",
+        "abv": 6,
+        "ba": 85,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "C",
+        "brewery": "Other Half Brewing",
+        "name": " Green City ",
+        "style": " IPA - New England / Hazy ",
+        "abv": 7,
+        "ba": 94,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "C",
+        "brewery": "Other Half Brewing",
+        "name": " Poetry Snaps ",
+        "style": " Lager - Japanese Rice ",
+        "abv": 4.5,
+        "ba": 88,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "C",
+        "brewery": "Wild East Brewing Co.",
+        "name": " Prudence ",
+        "style": " Mild - Light ",
+        "abv": 3.8,
+        "ba": 83,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "C",
+        "brewery": "Wild East Brewing Co.",
+        "name": "Patience & Fortitude",
+        "style": "Pilsner - Czech / Bohemian",
+        "abv": 4.7,
+        "ba": 87,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "C",
+        "brewery": "Tonewood Brewing",
+        "name": "Pendulum",
+        "style": "IPA - American",
+        "abv": 7.3,
+        "ba": 83,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "C",
+        "brewery": "Tonewood Brewing",
+        "name": " Double Dry-Hopped Fuego ",
+        "style": " IPA - American ",
+        "abv": 6.2,
+        "ba": 92,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "C",
+        "brewery": "Burly Oak Brewing Co.",
+        "name": "Lost",
+        "style": "IPA - American",
+        "abv": 7.2,
+        "ba": 89,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "C",
+        "brewery": "Burly Oak Brewing Co.",
+        "name": " Sea Heathen ",
+        "style": " Pilsner - Other ",
+        "abv": 4.2,
+        "ba": 84,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "C",
+        "brewery": "Burly Oak Brewing Co.",
+        "name": " Bilsner ",
+        "style": " Pilsner - Other ",
+        "abv": 4.2,
+        "ba": 83,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "C",
+        "brewery": "Copper Bonnet Distillery",
+        "name": "Orange Crush",
+        "style": "Gin Cocktail",
+        "abv": 5.5,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "C",
+        "brewery": "Copper Bonnet Distillery",
+        "name": "Cran-Fizz",
+        "style": "Gin Cocktail",
+        "abv": 5.5,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "C",
+        "brewery": "Copper Bonnet Distillery",
+        "name": "Lemonade",
+        "style": "Gin Cocktail",
+        "abv": 5.5,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "C",
+        "brewery": "Copper Bonnet Distillery",
+        "name": " Spiked Tea ",
+        "style": " Gin Cocktail ",
+        "abv": 7,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "D",
+        "brewery": "Nomad Distillery",
+        "name": "Litty Lemonade",
+        "style": "Grain Neutral Spirits",
+        "abv": 7,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "D",
+        "brewery": "Nomad Distillery",
+        "name": " Miner's Root Beer ",
+        "style": "Grain Neutral Spirits",
+        "abv": 7,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "D",
+        "brewery": "Nomad Distillery",
+        "name": " Strawberry Litty Lemonade ",
+        "style": "Grain Neutral Spirits",
+        "abv": 7,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "D",
+        "brewery": "Cartel Brewing & Blending",
+        "name": " Anniversary Stowaway ",
+        "style": " Stout - Imperial / Double ",
+        "abv": 11,
+        "ba": 80,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "D",
+        "brewery": "Cartel Brewing & Blending",
+        "name": " Geometric Fruit: Strawberry, Lemon, Basil ",
+        "style": " Sour - Traditional Gose ",
+        "abv": 4.8,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "D",
+        "brewery": "Athletic Brewing Co.",
+        "name": " Run Wild IPA ",
+        "style": " Non-Alcoholic - IPA ",
+        "abv": 0.5,
+        "ba": 84,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "D",
+        "brewery": "Athletic Brewing Co.",
+        "name": " Free Wave Hazy IPA ",
+        "style": " Non-Alcoholic - IPA ",
+        "abv": 0.5,
+        "ba": 86,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "D",
+        "brewery": "Lolev Beer",
+        "name": "",
+        "style": "",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "D",
+        "brewery": "Lolev Beer",
+        "name": "",
+        "style": "",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "D",
+        "brewery": "Dancing Gnome Brewery",
+        "name": " Not Always Present ",
+        "style": " Kölsch ",
+        "abv": 4.8,
+        "ba": 88,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "D",
+        "brewery": "Dancing Gnome Brewery",
+        "name": " Lustra ",
+        "style": " Pale Ale - New England / Hazy ",
+        "abv": 5.8,
+        "ba": 92,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "E",
+        "brewery": "Levante Brewing Co.",
+        "name": " Cloudy & Cumbersome - Mango (Double Dry-Hopped) ",
+        "style": " IPA - New England / Hazy ",
+        "abv": 5.9,
+        "ba": 84,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "E",
+        "brewery": "Levante Brewing Co.",
+        "name": " Caught Adrift West Coast IPA ",
+        "style": " IPA - American ",
+        "abv": 5.4,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "E",
+        "brewery": "2SP Brewing Co.",
+        "name": " MacDade Sour IPA ",
+        "style": " IPA - Sour ",
+        "abv": 5.4,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "E",
+        "brewery": "2SP Brewing Co.",
+        "name": " Blueberry Fields ",
+        "style": " Wheat Beer - Fruited ",
+        "abv": 4.8,
+        "ba": 80,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "E",
+        "brewery": "von C Brewing Co.",
+        "name": "OG Pils Legendary Philly Lager",
+        "style": "Pilsner - Other",
+        "abv": 4.9,
+        "ba": 84,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "E",
+        "brewery": "von C Brewing Co.",
+        "name": " Walking on Clouds ",
+        "style": " IPA - New England / Hazy ",
+        "abv": 7,
+        "ba": 85,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "E",
+        "brewery": "Rooster Street Brewing",
+        "name": "No Maples Were Harmed",
+        "style": " Strong Ale - Other ",
+        "abv": 7.5,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "E",
+        "brewery": "Rooster Street Brewing",
+        "name": " No Watermelons Were Harmed ",
+        "style": " Sour - Other ",
+        "abv": 7.2,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "E",
+        "brewery": "Collusion Tap Works",
+        "name": " Wunderbar  ",
+        "style": " Märzen ",
+        "abv": 5.4,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "E",
+        "brewery": "Collusion Tap Works",
+        "name": " Morning Mudslide ",
+        "style": " Porter - Imperial / Double Coffee ",
+        "abv": 9.5,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "E",
+        "brewery": "Collusion Tap Works",
+        "name": " Spacegrass ",
+        "style": " IPA - New England / Hazy ",
+        "abv": 7.2,
+        "ba": 84,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "E",
+        "brewery": "Collusion Tap Works",
+        "name": "First Rite",
+        "style": " Pilsner - German ",
+        "abv": 5,
+        "ba": 82,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "F",
+        "brewery": "Human Robot Beer",
+        "name": " Hallertau Pils ",
+        "style": " Pilsner - German ",
+        "abv": 5.2,
+        "ba": 91,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "F",
+        "brewery": "Succession Fermentory",
+        "name": "",
+        "style": "",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "F",
+        "brewery": "Succession Fermentory",
+        "name": "",
+        "style": "",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "F",
+        "brewery": "Trace Brewing",
+        "name": "Bricks and Bridges",
+        "style": " IPA - New England / Hazy ",
+        "abv": 7.2,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "F",
+        "brewery": "Trace Brewing",
+        "name": " Agio ",
+        "style": " Pilsner - Italian ",
+        "abv": 5.2,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "F",
+        "brewery": "Our Town Brewery",
+        "name": " Light After Dark ",
+        "style": " Schwarzbier ",
+        "abv": 5.2,
+        "ba": 80,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "F",
+        "brewery": "Our Town Brewery",
+        "name": " Mini Fridge ",
+        "style": " IPA - Session ",
+        "abv": 5,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "F",
+        "brewery": "Ever Grain Brewing Co.",
+        "name": "",
+        "style": "",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "F",
+        "brewery": "Ever Grain Brewing Co.",
+        "name": "",
+        "style": "",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "G",
+        "brewery": "Pour Man's Brewing Co.",
+        "name": " Proportion ",
+        "style": " Pilsner - German ",
+        "abv": 4.5,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "G",
+        "brewery": "Pour Man's Brewing Co.",
+        "name": " Notorious IPA ",
+        "style": " IPA - American ",
+        "abv": 6.6,
+        "ba": 80,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "G",
+        "brewery": "St. Boniface Craft Brewing",
+        "name": " Best of Both Brews (Whiff Ethiopian Harrar) ",
+        "style": " IPA - American ",
+        "abv": 6.6,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "G",
+        "brewery": "St. Boniface Craft Brewing",
+        "name": " Orange Pineapple Pollinator ",
+        "style": " Wheat Beer - Hefeweizen ",
+        "abv": 5.5,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "G",
+        "brewery": "Truth Beer Co.",
+        "name": "",
+        "style": "",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "G",
+        "brewery": "Truth Beer Co.",
+        "name": "",
+        "style": "",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "G",
+        "brewery": "Rural City Beer Co.",
+        "name": "Der Spaß Bier",
+        "style": " Lager - Vienna ",
+        "abv": 6,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "G",
+        "brewery": "Rural City Beer Co.",
+        "name": " Townsquare Mango Pineapple Sour ",
+        "style": " Sour - Fruited ",
+        "abv": 4.5,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "G",
+        "brewery": "Jimmy Juice",
+        "name": " Classic Orange Fizzy ",
+        "style": " Vodka-Based Spirited Fizzy ",
+        "abv": 8,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "G",
+        "brewery": "Jimmy Juice",
+        "name": " Cranberry Citrus Fizzy ",
+        "style": " Vodka-Based Spirited Fizzy ",
+        "abv": 8,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "G",
+        "brewery": "Jimmy Juice",
+        "name": " The Pink Flamingo ",
+        "style": " Vodka-Based Spirited Fizzy ",
+        "abv": 8,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "G",
+        "brewery": "Jimmy Juice",
+        "name": "Blanco Ginger Fizzy",
+        "style": " Tequila-Based Spirited Fizzy ",
+        "abv": 8,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "G",
+        "brewery": "Jimmy Juice",
+        "name": " Juicy Pineapple Fizzy ",
+        "style": " Vodka-Based Spirited Fizzy ",
+        "abv": 8,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "G",
+        "brewery": "Jimmy Juice",
+        "name": " The Little Jim ",
+        "style": " Vodka-Based Spirited Fizzy ",
+        "abv": 4,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "H",
+        "brewery": "Hidden River Brewing Co.",
+        "name": " Life That's Benevolent ",
+        "style": "IPA - Imperial / Double New England / Hazy",
+        "abv": 8.6,
+        "ba": 81,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "H",
+        "brewery": "Hidden River Brewing Co.",
+        "name": " Where You End, I Begin ",
+        "style": "Festbier",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "H",
+        "brewery": "Referend Bier Blendery",
+        "name": " To the Lighthouse ",
+        "style": " Lambic - Faro ",
+        "abv": 5,
+        "ba": 80,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "H",
+        "brewery": "Referend Bier Blendery",
+        "name": " The Way of All Flesh (2020) ",
+        "style": " Sour - Fruited Berliner Weisse ",
+        "abv": 4.9,
+        "ba": 86,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "H",
+        "brewery": "Referend Bier Blendery",
+        "name": " Pomes Penyeach (2019) ",
+        "style": " Cider - Graff ",
+        "abv": 4.9,
+        "ba": 85,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "H",
+        "brewery": "Referend Bier Blendery",
+        "name": " Globe Theatre: Chambourcin (2020) ",
+        "style": " Lambic - Fruit ",
+        "abv": 7.8,
+        "ba": 81,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "H",
+        "brewery": "GearHouse Brewing Co.",
+        "name": " Hefe Weight ",
+        "style": " Wheat Beer - Hefeweizen ",
+        "abv": 5,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "H",
+        "brewery": "GearHouse Brewing Co.",
+        "name": " Smashing Pumpkins ",
+        "style": " Spiced / Herbed Beer ",
+        "abv": 6.5,
+        "ba": 80,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "H",
+        "brewery": "GearHouse Brewing Co.",
+        "name": " Hopyard Hootenanny ",
+        "style": " IPA - Other ",
+        "abv": 7,
+        "ba": 80,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "H",
+        "brewery": "Boneshire Brew Works",
+        "name": "",
+        "style": "",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "H",
+        "brewery": "Boneshire Brew Works",
+        "name": "",
+        "style": "",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "H",
+        "brewery": "Old Thunder Brewing co.",
+        "name": " False Kingdom ",
+        "style": " IPA - American ",
+        "abv": 6.8,
+        "ba": 87,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "H",
+        "brewery": "Old Thunder Brewing co.",
+        "name": " Evening Gold ",
+        "style": " Lager - Amber / Red ",
+        "abv": 5.3,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "I",
+        "brewery": "New Trail Brewing Co.",
+        "name": "",
+        "style": "",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "I",
+        "brewery": "New Trail Brewing Co.",
+        "name": "",
+        "style": "",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "I",
+        "brewery": "Troegs Independent Brewing",
+        "name": " Leaf Seeker ",
+        "style": " IPA - American ",
+        "abv": 6.4,
+        "ba": 88,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "I",
+        "brewery": "Troegs Independent Brewing",
+        "name": " Master of Pumpkins ",
+        "style": " Pumpkin / Yam Beer ",
+        "abv": 7.5,
+        "ba": 83,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "I",
+        "brewery": "Troegs Independent Brewing",
+        "name": "Perpetual IPA",
+        "style": "IPA - American",
+        "abv": 7.5,
+        "ba": 91,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "I",
+        "brewery": "Troegs Independent Brewing",
+        "name": " Freaky Squeeze Spiked Peach Orangeade ",
+        "style": " Flavored Malt Beverage ",
+        "abv": 5.5,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "I",
+        "brewery": "Wyndridge Cider",
+        "name": " Caramel Apple ",
+        "style": " Cider - Sweet ",
+        "abv": 6,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "I",
+        "brewery": "Wyndridge Cider",
+        "name": " Cranberry ",
+        "style": " Cider - Traditional / Apfelwein ",
+        "abv": 5.5,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "I",
+        "brewery": "Go Brewing",
+        "name": " Sunbeam Pilsner ",
+        "style": " Non-Alcoholic - Lager ",
+        "abv": 0.45,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "I",
+        "brewery": "Go Brewing",
+        "name": " Sunshine State Tropical IPA ",
+        "style": " Non-Alcoholic - IPA ",
+        "abv": 0.43,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "I",
+        "brewery": "Go Brewing",
+        "name": " New School Sour: Berry ",
+        "style": " Non-Alcoholic - Sour ",
+        "abv": 0.4,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "I",
+        "brewery": "Dewey Beer Co.",
+        "name": "",
+        "style": "",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "I",
+        "brewery": "Dewey Beer Co.",
+        "name": "",
+        "style": "",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "J",
+        "brewery": "Mad Chef Craft Brewing",
+        "name": " Madtoberfest ",
+        "style": " Märzen ",
+        "abv": 5.5,
+        "ba": 82,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "J",
+        "brewery": "Mad Chef Craft Brewing",
+        "name": " Chefs in the Field ",
+        "style": " Farmhouse Ale - Saison ",
+        "abv": 5.7,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "J",
+        "brewery": "Mad Chef Craft Brewing",
+        "name": " F18 ",
+        "style": " IPA - American ",
+        "abv": 6.3,
+        "ba": 87,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "J",
+        "brewery": "Mad Chef Craft Brewing",
+        "name": " Gnarly-Waka ",
+        "style": " IPA - New England / Hazy ",
+        "abv": 6.6,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "J",
+        "brewery": "FourScore Beer Co.",
+        "name": " Falkenbier ",
+        "style": " Festbier ",
+        "abv": 6,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "J",
+        "brewery": "FourScore Beer Co.",
+        "name": " Jahmba: Blueberry Pumpkin Swirl ",
+        "style": "",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "J",
+        "brewery": "Artifice Ales & Mead",
+        "name": " Drawing Board: A-5 Hazy IPA ",
+        "style": " IPA - Imperial / Double New England / Hazy ",
+        "abv": 8,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "J",
+        "brewery": "Artifice Ales & Mead",
+        "name": "",
+        "style": "",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "J",
+        "brewery": "Appalachian Brewing Co.",
+        "name": "",
+        "style": "",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "J",
+        "brewery": "Appalachian Brewing Co.",
+        "name": "",
+        "style": "",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "J",
+        "brewery": "Cinderlands Beer Co.",
+        "name": " Douse: (2024) ",
+        "style": " Stout - Imperial / Double ",
+        "abv": 13.5,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "J",
+        "brewery": "Cinderlands Beer Co.",
+        "name": " Full Squish ",
+        "style": " IPA - New England / Hazy ",
+        "abv": 6.4,
+        "ba": 89,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "J",
+        "brewery": "Cinderlands Beer Co.",
+        "name": " Cindi's Hard Mountain Tea ",
+        "style": " Flavored Malt Beverage ",
+        "abv": 6.5,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "K",
+        "brewery": "BG Brewing",
+        "name": "",
+        "style": "",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "K",
+        "brewery": "BG Brewing",
+        "name": "",
+        "style": "",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "K",
+        "brewery": "Hell in a Bucket Brewing",
+        "name": " Black Peter IPA ",
+        "style": " IPA - Black / Cascadian Dark Ale ",
+        "abv": 7.2,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "K",
+        "brewery": "Hell in a Bucket Brewing",
+        "name": " Mountain Girl ",
+        "style": " Pale Ale - American ",
+        "abv": 5.8,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "K",
+        "brewery": "Hell in a Bucket Brewing",
+        "name": " Let It Rocktoberfest ",
+        "style": " Märzen ",
+        "abv": 5,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "K",
+        "brewery": "Bespoke Brewing ",
+        "name": "",
+        "style": "",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "K",
+        "brewery": "Bespoke Brewing ",
+        "name": "",
+        "style": "",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "K",
+        "brewery": "South County Brewing Co.",
+        "name": " Liminal Moment ",
+        "style": " IPA - Imperial / Double New England / Hazy ",
+        "abv": 7.5,
+        "ba": 91,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "K",
+        "brewery": "South County Brewing Co.",
+        "name": " Festifall ",
+        "style": " Märzen ",
+        "abv": 5.1,
+        "ba": 86,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "K",
+        "brewery": "Grist House Craft Brewery",
+        "name": " Dream Queen ",
+        "style": " Sour - Fruited ",
+        "abv": 5,
+        "ba": 82,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "K",
+        "brewery": "Grist House Craft Brewery",
+        "name": " Space Cactus ",
+        "style": " IPA - New England / Hazy ",
+        "abv": 7,
+        "ba": 90,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "L",
+        "brewery": "BierHall Brewing",
+        "name": " Das Pils ",
+        "style": " Pilsner - German ",
+        "abv": 5.4,
+        "ba": 80,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "L",
+        "brewery": "BierHall Brewing",
+        "name": " FestBier ",
+        "style": " Märzen ",
+        "abv": 5.6,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "L",
+        "brewery": "Hazel Grove Brewing",
+        "name": " Born to Fly ",
+        "style": " Sour - Fruited ",
+        "abv": 5,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "L",
+        "brewery": "Hazel Grove Brewing",
+        "name": " Robot Symphony ",
+        "style": " IPA - New England / Hazy ",
+        "abv": 6.6,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "L",
+        "brewery": "Lindgren Craft Brewery",
+        "name": " My Fake Plants Died ",
+        "style": " Blonde / Golden Ale - Other ",
+        "abv": 4,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "L",
+        "brewery": "Lindgren Craft Brewery",
+        "name": " A Damn Good Whacking ",
+        "style": " IPA - Imperial / Double ",
+        "abv": 9.1,
+        "ba": 80,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "L",
+        "brewery": "Lancaster Brewing Company",
+        "name": " Simcoe/Mosaic Hazy IPA ",
+        "style": " IPA - New England / Hazy ",
+        "abv": 6.8,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "L",
+        "brewery": "Lancaster Brewing Company",
+        "name": " Fresh Roasted Peanut Butter Ale ",
+        "style": " Mild - Other ",
+        "abv": 6.5,
+        "ba": 84,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "L",
+        "brewery": "Lancaster Brewing Company",
+        "name": " Cerveza ",
+        "style": " Lager - Pale ",
+        "abv": 4.7,
+        "ba": 82,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "L",
+        "brewery": "Lancaster Brewing Company",
+        "name": " Double Chocolate Milk Stout ",
+        "style": " Stout - Milk / Sweet ",
+        "abv": 6.8,
+        "ba": 91,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "L",
+        "brewery": "Lancaster Brewing Company",
+        "name": " Barrel Aged Sticky Bun ",
+        "style": " Brown Ale - Other ",
+        "abv": 8,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "M",
+        "brewery": "Country Club Brewing",
+        "name": " Mango Loco ",
+        "style": " Hard Seltzer ",
+        "abv": 8,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "M",
+        "brewery": "Country Club Brewing",
+        "name": " Wu-Tang S'morever ",
+        "style": " Stout - Imperial / Double Pastry ",
+        "abv": 13,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "M",
+        "brewery": "Country Club Brewing",
+        "name": " Water Hazard ",
+        "style": " IPA - New England / Hazy ",
+        "abv": 6.8,
+        "ba": 80,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "M",
+        "brewery": "Isaac's Craft Kitchen & Brewery",
+        "name": " Psychic Flower ",
+        "style": " IPA - New England / Hazy ",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "M",
+        "brewery": "Isaac's Craft Kitchen & Brewery",
+        "name": "Bird Lite",
+        "style": "Lager - American Light",
+        "abv": 3.7,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "M",
+        "brewery": "Isaac's Craft Kitchen & Brewery",
+        "name": " Parakeet ",
+        "style": " Sour - Fruited ",
+        "abv": 4,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "M",
+        "brewery": "Big Dog Craft Brewing",
+        "name": " Gold Rush ",
+        "style": " Pilsner - Czech / Bohemian ",
+        "abv": 5,
+        "ba": 81,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "M",
+        "brewery": "Big Dog Craft Brewing",
+        "name": "Blackberry Brown",
+        "style": "Brown Ale - English",
+        "abv": 5,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "M",
+        "brewery": "Twisted Bine Beer Co.",
+        "name": " Main Street V2.0 ",
+        "style": " Pale Ale - New England / Hazy ",
+        "abv": 6,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "M",
+        "brewery": "Twisted Bine Beer Co.",
+        "name": " Cerveza Pa'Dentro ",
+        "style": " Lager - Mexican ",
+        "abv": 5.4,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "M",
+        "brewery": "Inspiration Brewing",
+        "name": " Oktoberfest ",
+        "style": " Märzen ",
+        "abv": 5.7,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "M",
+        "brewery": "Inspiration Brewing",
+        "name": " Homage ",
+        "style": " IPA - American ",
+        "abv": 6,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "N",
+        "brewery": "Wolf Brewing Co.",
+        "name": " Dub Czech ",
+        "style": " Lager - IPL (India Pale Lager) ",
+        "abv": 5.6,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "N",
+        "brewery": "Wolf Brewing Co.",
+        "name": " Kalamansi Kreamsicle ",
+        "style": " Wheat Beer - Fruited ",
+        "abv": 6.2,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "N",
+        "brewery": "Wolf Brewing Co.",
+        "name": " Baron V - Margarita Gose ",
+        "style": " Sour - Fruited Gose ",
+        "abv": 4.8,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "N",
+        "brewery": "Fetish Brewing Co.",
+        "name": "",
+        "style": "",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "N",
+        "brewery": "Fetish Brewing Co.",
+        "name": "",
+        "style": "",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "N",
+        "brewery": "Fetish Brewing Co.",
+        "name": "",
+        "style": "",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "N",
+        "brewery": "YAH Brew",
+        "name": "",
+        "style": "",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "N",
+        "brewery": "YAH Brew",
+        "name": "",
+        "style": "",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "N",
+        "brewery": "Michaux Brewing Co.",
+        "name": " Fresh Hop: Strata ",
+        "style": " IPA - American ",
+        "abv": 7,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "N",
+        "brewery": "Michaux Brewing Co.",
+        "name": " Oktoberfest ",
+        "style": " Märzen ",
+        "abv": 6,
+        "ba": 80,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "N",
+        "brewery": "Michaux Brewing Co.",
+        "name": " Dead Woman Hollow ",
+        "style": " Pumpkin / Yam Beer ",
+        "abv": 7.5,
+        "ba": 80,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "N",
+        "brewery": "Michaux Brewing Co.",
+        "name": "Raven Rock",
+        "style": "Stout - American",
+        "abv": 4.8,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "N",
+        "brewery": "Pilger Ruh Brewing",
+        "name": "Festival",
+        "style": "",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "N",
+        "brewery": "Pilger Ruh Brewing",
+        "name": " LUXie ",
+        "style": " IPA - New England / Hazy ",
+        "abv": 6.2,
+        "ba": 80,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "N",
+        "brewery": "Pilger Ruh Brewing",
+        "name": " I Love You Solo: Nelson Sauvin Wyatt ",
+        "style": "",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "N",
+        "brewery": "Pilger Ruh Brewing",
+        "name": " Pilger Lite ",
+        "style": " Lager - American Light ",
+        "abv": 4.5,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "O",
+        "brewery": "Starview Brews",
+        "name": " Long Level Lager ",
+        "style": " Lager - Dortmunder / Export ",
+        "abv": 4.7,
+        "ba": 80,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "O",
+        "brewery": "Starview Brews",
+        "name": " Pinnacle Pils ",
+        "style": " Pilsner - Czech / Bohemian ",
+        "abv": 4.7,
+        "ba": 80,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "O",
+        "brewery": "Schaylor Brewing Company",
+        "name": "Gabagool",
+        "style": " Pilsner - Italian ",
+        "abv": 5.5,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "O",
+        "brewery": "Schaylor Brewing Company",
+        "name": " Labor of Love ",
+        "style": " Sour - Fruited ",
+        "abv": 8,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "O",
+        "brewery": "Schaylor Brewing Company",
+        "name": " Gator Don't Play No Shit ",
+        "style": " IPA - Imperial / Double ",
+        "abv": 8,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "O",
+        "brewery": "Compass Mill Tap House",
+        "name": " Laidback ",
+        "style": " IPA - American ",
+        "abv": 5.7,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "O",
+        "brewery": "Compass Mill Tap House",
+        "name": " Marcus ",
+        "style": " Wheat Beer - Hefeweizen ",
+        "abv": 5.5,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "O",
+        "brewery": "Spring House Brewing Company",
+        "name": " Love and Rockets ",
+        "style": " Sour - Fruited ",
+        "abv": 4.8,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "O",
+        "brewery": "Spring House Brewing Company",
+        "name": "",
+        "style": "",
+        "abv": null,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "O",
+        "brewery": "Shifty",
+        "name": " Lavender Lemonade ",
+        "style": " Vodka Cocktail ",
+        "abv": 7,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "O",
+        "brewery": "Shifty",
+        "name": " Limeade ",
+        "style": " Vodka Seltzer ",
+        "abv": 7,
+        "ba": null,
+        "day": "9/27/2025"
+      },
+      {
+        "pod": "O",
+        "brewery": "Shifty",
+        "name": " Pineapple Mango Seltzer ",
+        "style": " Vodka Seltzer ",
+        "abv": 5,
+        "ba": null,
+        "day": "9/27/2025"
+      }
+     ]
+  }
+ ]
+ 
