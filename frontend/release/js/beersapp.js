@@ -384,12 +384,12 @@ Patrick Crager
   function configure($routeProvider) {
     $routeProvider
       .when('/', {
-        templateUrl: 'partials/table-20250921.html',
+        templateUrl: 'partials/table-20250924.html',
         controller: 'BeerController',
         controllerAs: 'vm'
       })
       .when('/table', {
-        templateUrl: 'partials/table-20250921.html',
+        templateUrl: 'partials/table-20250924.html',
         controller: 'BeerController',
         controllerAs: 'vm'
       })
