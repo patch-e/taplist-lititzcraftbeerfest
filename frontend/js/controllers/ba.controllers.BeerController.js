@@ -111,6 +111,11 @@ Patrick Crager
 
     // calls the search API and opens a modal window upon success
     function search(beer) {
+      if (beer.spirit) {
+        alert(messages.BA_UNTAPPD_SPIRITS_NOT_SUPPORTED);
+        return;
+      }
+
       vm.isSearching = true;
 
       beerDataFactory.search(beer.brewery, beer.name)

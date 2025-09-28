@@ -384,12 +384,12 @@ Patrick Crager
   function configure($routeProvider) {
     $routeProvider
       .when('/', {
-        templateUrl: 'partials/table-20250924.html',
+        templateUrl: 'partials/table-20250926.html',
         controller: 'BeerController',
         controllerAs: 'vm'
       })
       .when('/table', {
-        templateUrl: 'partials/table-20250924.html',
+        templateUrl: 'partials/table-20250926.html',
         controller: 'BeerController',
         controllerAs: 'vm'
       })
@@ -454,9 +454,10 @@ Patrick Crager
 
     BA_NO_RESULTS: 'No beers match entered filter criteria.',
     BA_LIST_ERROR: 'Something went wrong when getting the beer list!\n\nRefresh and try again.',
-    BA_UNTAPPD_SEARCH_NOT_FOUND: 'Beer couldn\'t be found on Untappd.\nSorry!',
+    BA_UNTAPPD_SEARCH_NOT_FOUND: 'Beer could not be found on Untappd.\nSorry!',
     BA_UNTAPPD_SEARCH_ERROR: 'Something went wrong when looking up this beer!\nPlease try again.',
     BA_UNTAPPD_TOKEN_EXPIRED: 'Your login token has expired, you will now be logged out.',
+    BA_UNTAPPD_SPIRITS_NOT_SUPPORTED: 'Untappd does not support spirit-based cocktail beverages, yet.\nSorry!'
 
   });
 
@@ -721,6 +722,11 @@ Patrick Crager
 
     // calls the search API and opens a modal window upon success
     function search(beer) {
+      if (beer.spirit) {
+        alert(messages.BA_UNTAPPD_SPIRITS_NOT_SUPPORTED);
+        return;
+      }
+
       vm.isSearching = true;
 
       beerDataFactory.search(beer.brewery, beer.name)
