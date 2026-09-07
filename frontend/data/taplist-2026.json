@@ -1,0 +1,145 @@
+[
+  {
+    "title": "tap list",
+    "timestamp": "2026-09-06T23:38:30.839Z",
+    "beers": [
+      {
+        "pod": "A",
+        "brewery": "Blake's Hard Cider Co.",
+        "name": "El Chavo",
+        "style": "Cider - Herbed / Spiced / Hopped",
+        "abv": 6.5,
+        "ba": "-",
+        "day": "9/26/2026"
+      },
+      {
+        "pod": "B",
+        "brewery": "Requiem Bier",
+        "name": "Requiem Select",
+        "style": "Lager - Pale",
+        "abv": 4.5,
+        "ba": "-",
+        "day": "9/26/2026"
+      },
+      {
+        "pod": "C",
+        "brewery": "Other Half Brewing",
+        "name": "Green City",
+        "style": "IPA - New England / Hazy",
+        "abv": 7,
+        "ba": "94",
+        "day": "9/26/2026"
+      },
+      {
+        "pod": "D",
+        "brewery": "Nomad Distillery",
+        "name": "Litty Lemonade",
+        "style": "Grain Neutral Spirits",
+        "abv": 7,
+        "ba": "-",
+        "day": "9/26/2026",
+        "spirit": true
+      },
+      {
+        "pod": "E",
+        "brewery": "Levante Brewing Co.",
+        "name": "Cloudy & Cumbersome - Mango (Double Dry-Hopped)",
+        "style": "IPA - New England / Hazy",
+        "abv": 5.9,
+        "ba": "84",
+        "day": "9/26/2026"
+      },
+      {
+        "pod": "F",
+        "brewery": "Human Robot Beer",
+        "name": "Endless Sun Rays",
+        "style": "Pilsner - Other",
+        "abv": 4.8,
+        "ba": "83",
+        "day": "9/26/2026"
+      },
+      {
+        "pod": "G",
+        "brewery": "Pour Man's Brewing Co.",
+        "name": "Proportion",
+        "style": "Pilsner - German",
+        "abv": 4.5,
+        "ba": "-",
+        "day": "9/26/2026"
+      },
+      {
+        "pod": "H",
+        "brewery": "Hidden River Brewing Co.",
+        "name": "Life That's Benevolent",
+        "style": "IPA - Imperial / Double New England / Hazy",
+        "abv": 8.6,
+        "ba": "81",
+        "day": "9/26/2026"
+      },
+      {
+        "pod": "I",
+        "brewery": "New Trail Brewing Co.",
+        "name": "White Out",
+        "style": "IPA - Imperial / Double New England / Hazy",
+        "abv": 8.5,
+        "ba": "91",
+        "day": "9/26/2026"
+      },
+      {
+        "pod": "J",
+        "brewery": "Mad Chef Craft Brewing",
+        "name": "Madtoberfest",
+        "style": "Märzen",
+        "abv": 5.5,
+        "ba": "82",
+        "day": "9/26/2026"
+      },
+      {
+        "pod": "K",
+        "brewery": "BG Brewing (Brew Gentlemen)",
+        "name": "Royal Hawaiian",
+        "style": "IPA - American",
+        "abv": 7.1,
+        "ba": "",
+        "day": "9/26/2026"
+      },
+      {
+        "pod": "L",
+        "brewery": "BierHall Brewing",
+        "name": "Das Pils",
+        "style": "Pilsner - German",
+        "abv": 5.4,
+        "ba": "80",
+        "day": "9/26/2026"
+      },
+      {
+        "pod": "M",
+        "brewery": "Country Club Brewing",
+        "name": "Mango Loco",
+        "style": "Hard Seltzer",
+        "abv": 8,
+        "ba": "-",
+        "day": "9/26/2026"
+      },
+      {
+        "pod": "N",
+        "brewery": "Wolf Brewing Co.",
+        "name": "Dub Czech",
+        "style": "Lager - IPL (India Pale Lager)",
+        "abv": 5.6,
+        "ba": "-",
+        "day": "9/26/2026"
+      },
+      {
+        "pod": "O",
+        "brewery": "Starview Brews",
+        "name": "Long Level Lager",
+        "style": "Lager - Dortmunder / Export",
+        "abv": 4.7,
+        "ba": "80",
+        "day": "9/26/2026"
+      }
+      ]
+  }
+ ]
+ 
