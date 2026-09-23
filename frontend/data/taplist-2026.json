@@ -4,6 +4,15 @@
     "timestamp": "2026-09-06T23:38:30.839Z",
     "beers": [
       {
+        "pod": "DD",
+        "brewery": "NA Brew",
+        "name": "NA Brew",
+        "style": "NA Brew",
+        "abv": 0.0,
+        "ba": "-",
+        "day": ""
+      },
+      {
         "pod": "A",
         "brewery": "Blake's Hard Cider Co.",
         "name": "El Chavo",

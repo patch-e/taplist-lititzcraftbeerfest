@@ -40,6 +40,7 @@ Patrick Crager
 
     vm.vip = false;
     vm.guild = false;
+    vm.dd = false;
 
     // vm functions
     vm.prependBeerNumber = prependBeerNumber;
