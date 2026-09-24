@@ -1,154 +1,1737 @@
 [
   {
     "title": "tap list",
-    "timestamp": "2026-09-06T23:38:30.839Z",
+    "timestamp": "2026-09-23T12:29:02.995Z",
     "beers": [
-      {
-        "pod": "DD",
-        "brewery": "NA Brew",
-        "name": "NA Brew",
-        "style": "NA Brew",
-        "abv": 0.0,
-        "ba": "-",
-        "day": ""
-      },
-      {
-        "pod": "A",
-        "brewery": "Blake's Hard Cider Co.",
-        "name": "El Chavo",
-        "style": "Cider - Herbed / Spiced / Hopped",
-        "abv": 6.5,
-        "ba": "-",
-        "day": "9/26/2026"
-      },
-      {
-        "pod": "B",
-        "brewery": "Requiem Bier",
-        "name": "Requiem Select",
-        "style": "Lager - Pale",
-        "abv": 4.5,
-        "ba": "-",
-        "day": "9/26/2026"
-      },
-      {
-        "pod": "C",
-        "brewery": "Other Half Brewing",
-        "name": "Green City",
-        "style": "IPA - New England / Hazy",
-        "abv": 7,
-        "ba": "94",
-        "day": "9/26/2026"
-      },
-      {
-        "pod": "D",
-        "brewery": "Nomad Distillery",
-        "name": "Litty Lemonade",
-        "style": "Grain Neutral Spirits",
-        "abv": 7,
-        "ba": "-",
-        "day": "9/26/2026",
-        "spirit": true
-      },
-      {
-        "pod": "E",
-        "brewery": "Levante Brewing Co.",
-        "name": "Cloudy & Cumbersome - Mango (Double Dry-Hopped)",
-        "style": "IPA - New England / Hazy",
-        "abv": 5.9,
-        "ba": "84",
-        "day": "9/26/2026"
-      },
-      {
-        "pod": "F",
-        "brewery": "Human Robot Beer",
-        "name": "Endless Sun Rays",
-        "style": "Pilsner - Other",
-        "abv": 4.8,
-        "ba": "83",
-        "day": "9/26/2026"
-      },
-      {
-        "pod": "G",
-        "brewery": "Pour Man's Brewing Co.",
-        "name": "Proportion",
-        "style": "Pilsner - German",
-        "abv": 4.5,
-        "ba": "-",
-        "day": "9/26/2026"
-      },
-      {
-        "pod": "H",
-        "brewery": "Hidden River Brewing Co.",
-        "name": "Life That's Benevolent",
-        "style": "IPA - Imperial / Double New England / Hazy",
-        "abv": 8.6,
-        "ba": "81",
-        "day": "9/26/2026"
-      },
-      {
-        "pod": "I",
-        "brewery": "New Trail Brewing Co.",
-        "name": "White Out",
-        "style": "IPA - Imperial / Double New England / Hazy",
-        "abv": 8.5,
-        "ba": "91",
-        "day": "9/26/2026"
-      },
-      {
-        "pod": "J",
-        "brewery": "Mad Chef Craft Brewing",
-        "name": "Madtoberfest",
-        "style": "Märzen",
-        "abv": 5.5,
-        "ba": "82",
-        "day": "9/26/2026"
-      },
-      {
-        "pod": "K",
-        "brewery": "BG Brewing (Brew Gentlemen)",
-        "name": "Royal Hawaiian",
-        "style": "IPA - American",
-        "abv": 7.1,
-        "ba": "",
-        "day": "9/26/2026"
-      },
-      {
-        "pod": "L",
-        "brewery": "BierHall Brewing",
-        "name": "Das Pils",
-        "style": "Pilsner - German",
-        "abv": 5.4,
-        "ba": "80",
-        "day": "9/26/2026"
-      },
-      {
-        "pod": "M",
-        "brewery": "Country Club Brewing",
-        "name": "Mango Loco",
-        "style": "Hard Seltzer",
-        "abv": 8,
-        "ba": "-",
-        "day": "9/26/2026"
-      },
-      {
-        "pod": "N",
-        "brewery": "Wolf Brewing Co.",
-        "name": "Dub Czech",
-        "style": "Lager - IPL (India Pale Lager)",
-        "abv": 5.6,
-        "ba": "-",
-        "day": "9/26/2026"
-      },
-      {
-        "pod": "O",
-        "brewery": "Starview Brews",
-        "name": "Long Level Lager",
-        "style": "Lager - Dortmunder / Export",
-        "abv": 4.7,
-        "ba": "80",
-        "day": "9/26/2026"
-      }
-      ]
+ {
+   "pod": "A",
+   "brewery": "Blake's Hard Cider Co.",
+   "name": "Triple Jam",
+   "style": "Cider - Other Fruit",
+   "abv": "6.5",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "A",
+   "brewery": "Blake's Hard Cider Co.",
+   "name": "American Apple",
+   "style": "Cider - Applewine",
+   "abv": "8.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "A",
+   "brewery": "Blake's Hard Cider Co.",
+   "name": "Salted Caramel Apple",
+   "style": "Cider - Sweet",
+   "abv": "6.5",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "A",
+   "brewery": "Conshohocken Brewing Co.",
+   "name": "Type A",
+   "style": "IPA - American",
+   "abv": "7.0",
+   "ba": "89",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "A",
+   "brewery": "Conshohocken Brewing Co.",
+   "name": "Ring the Bell",
+   "style": "Lager - American",
+   "abv": "4.8",
+   "ba": "85",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "A",
+   "brewery": "Conshohocken Brewing Co.",
+   "name": "Life Coach",
+   "style": "IPA - New England / Hazy",
+   "abv": "5.2",
+   "ba": "84",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "A",
+   "brewery": "Conshohocken Brewing Co.",
+   "name": "Puddlers Row",
+   "style": "Bitter - Extra Special / Strong (ESB)",
+   "abv": "5.4",
+   "ba": "85",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "A",
+   "brewery": "Rusty Rail Brewing Company",
+   "name": "Hop Glitch",
+   "style": "IPA - Session",
+   "abv": "5.2",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "A",
+   "brewery": "Rusty Rail Brewing Company",
+   "name": "Bigfoot Mating Season",
+   "style": "Black & Tan",
+   "abv": "6.7",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "A",
+   "brewery": "Rusty Rail Brewing Company",
+   "name": "Ring-Necked - Red Ale",
+   "style": "Red Ale - American Amber / Red",
+   "abv": "4.9",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "A",
+   "brewery": "Rusty Rail Brewing Company",
+   "name": "Waffle Sauce - Maple Pecan Imperial Brown Ale",
+   "style": "Brown Ale - Imperial / Double",
+   "abv": "8.2",
+   "ba": "87",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "A",
+   "brewery": "Stable 12 Brewing Co. ",
+   "name": "Oktober-Kolsch",
+   "style": "Festbier",
+   "abv": "4.8",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "A",
+   "brewery": "Stable 12 Brewing Co. ",
+   "name": "Morning Mosaic",
+   "style": "IPA - New England / Hazy",
+   "abv": "6.5",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "A",
+   "brewery": "Burly Oak Brewing Co.",
+   "name": "Citralaxy",
+   "style": "IPA - New England / Hazy",
+   "abv": "7.5",
+   "ba": "94",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "A",
+   "brewery": "Burly Oak Brewing Co.",
+   "name": "Peach Mango Passionfruit J.R.E.A.M.",
+   "style": "Sour - Fruited",
+   "abv": "4.8",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "B",
+   "brewery": "New Trail Brewing Co.",
+   "name": "State Light Lime",
+   "style": "Lager - American Light",
+   "abv": "4.2",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "B",
+   "brewery": "New Trail Brewing Co.",
+   "name": "Lazy River Pils",
+   "style": "Pilsner - Other",
+   "abv": "4.4",
+   "ba": "84",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "B",
+   "brewery": "New Trail Brewing Co.",
+   "name": "Broken Heels",
+   "style": "IPA - New England / Hazy",
+   "abv": "7.0",
+   "ba": "91",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "B",
+   "brewery": "Aldus Brewing Co.",
+   "name": "Pretzel Wheat",
+   "style": "Wheat Beer - Other",
+   "abv": "6.3",
+   "ba": "86",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "B",
+   "brewery": "Aldus Brewing Co.",
+   "name": "1840 Original Lager",
+   "style": "Lager - Amber / Red",
+   "abv": "5.2",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "B",
+   "brewery": "Big Truck Farm Brewery",
+   "name": "Halfcab Hazy",
+   "style": "IPA - New England / Hazy",
+   "abv": "6.0",
+   "ba": "86",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "B",
+   "brewery": "Big Truck Farm Brewery",
+   "name": "Crew Cab",
+   "style": "IPA - American",
+   "abv": "6.3",
+   "ba": "88",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "B",
+   "brewery": "Big Truck Farm Brewery",
+   "name": "K5 Topless Blonde",
+   "style": "Blonde / Golden Ale - Other",
+   "abv": "4.5",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "B",
+   "brewery": "Rotunda Brewing Co.",
+   "name": "Cran-Apple Peach Cobbler SWheat Tart",
+   "style": "Sour - Fruited",
+   "abv": "5.9",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "B",
+   "brewery": "Rotunda Brewing Co.",
+   "name": "Zephyr Rainbow NeRdZ Hard Seltzer",
+   "style": "Hard Seltzer",
+   "abv": "5.3",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "B",
+   "brewery": "Rotunda Brewing Co.",
+   "name": "Hessian Mercenary Geist Pumpkin Whoopie Pie Ale",
+   "style": "Pumpkin / Yam Beer",
+   "abv": "11.2",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "B",
+   "brewery": "Tröegs Independent Brewing",
+   "name": "Perpetual IPA",
+   "style": "IPA - American",
+   "abv": "7.5",
+   "ba": "91",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "B",
+   "brewery": "Tröegs Independent Brewing",
+   "name": "Pennsylvania Lager",
+   "style": "Lager - American",
+   "abv": "5.0",
+   "ba": "90",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "C",
+   "brewery": "Dewey Beer Co.",
+   "name": "Secret Machine - Cherry Apple Cobbler",
+   "style": "Fruit Beer",
+   "abv": "7.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "C",
+   "brewery": "Dewey Beer Co.",
+   "name": "Swishy Pants",
+   "style": "IPA - New England / Hazy",
+   "abv": "7.5",
+   "ba": "90",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "C",
+   "brewery": "Wyndridge Cider Co.",
+   "name": "Cranberry",
+   "style": "Cider - Traditional / Apfelwein",
+   "abv": "6.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "C",
+   "brewery": "Wyndridge Cider Co.",
+   "name": "Caramel Apple",
+   "style": "Cider - Sweet",
+   "abv": "6.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "C",
+   "brewery": "Big Oyster Brewery",
+   "name": "Hammerhead IPA",
+   "style": "IPA - American",
+   "abv": "6.4",
+   "ba": "87",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "C",
+   "brewery": "Big Oyster Brewery",
+   "name": "Mar Rosada",
+   "style": "Sour - Fruited Gose",
+   "abv": "4.5",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "C",
+   "brewery": "Big Oyster Brewery",
+   "name": "The Pillars of Dankness (2026)",
+   "style": "IPA - New England / Hazy",
+   "abv": "7.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "C",
+   "brewery": "Big Oyster Brewery",
+   "name": "Midnight Kraken",
+   "style": "Stout - Coffee",
+   "abv": "7.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "C",
+   "brewery": "Other Half Brewing Co.",
+   "name": "Green City",
+   "style": "IPA - New England / Hazy",
+   "abv": "7.0",
+   "ba": "94",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "C",
+   "brewery": "Other Half Brewing Co.",
+   "name": "Forever Ever",
+   "style": "IPA - Session New England / Hazy",
+   "abv": "4.7",
+   "ba": "91",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "C",
+   "brewery": "Other Half Brewing Co.",
+   "name": "Broccoli",
+   "style": "IPA - Imperial / Double",
+   "abv": "7.9",
+   "ba": "96",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "C",
+   "brewery": "Other Half Brewing Co.",
+   "name": "All In",
+   "style": "Non-Alcoholic - IPA",
+   "abv": "0.5",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "D",
+   "brewery": "Wolf Brewing Co.",
+   "name": "El Patrón ",
+   "style": "Pilsner - Other",
+   "abv": "5.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "D",
+   "brewery": "Wolf Brewing Co.",
+   "name": "New Beginnings #35",
+   "style": "IPA - New England / Hazy",
+   "abv": "6.5",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "D",
+   "brewery": "Wolf Brewing Co.",
+   "name": "Quad Berry Sorbet",
+   "style": "Sour - Fruited",
+   "abv": "8.2",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "D",
+   "brewery": "Rubber Soul Brewing Co.",
+   "name": "Midnight Harvest",
+   "style": "Pumpkin / Yam Beer",
+   "abv": "7.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "D",
+   "brewery": "Rubber Soul Brewing Co.",
+   "name": "Lil' Homie",
+   "style": "IPA - Session",
+   "abv": "4.3",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "D",
+   "brewery": "Cushwa Brewing Co.",
+   "name": "56 Nights",
+   "style": "Lager - Munich Dunkel",
+   "abv": "5.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "D",
+   "brewery": "Cushwa Brewing Co.",
+   "name": "Natural Progression",
+   "style": "IPA - Imperial / Double New England / Hazy",
+   "abv": "8.2",
+   "ba": "93",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "D",
+   "brewery": "Cushwa Brewing Co.",
+   "name": "After School Snack - PB & Grape Jelly",
+   "style": "Fruit Beer",
+   "abv": "6.2",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "D",
+   "brewery": "East Branch Brewing",
+   "name": "Alluvium",
+   "style": "IPA - American",
+   "abv": "6.5",
+   "ba": "88",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "D",
+   "brewery": "East Branch Brewing",
+   "name": "Mäggi ",
+   "style": "Märzen",
+   "abv": "5.6",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "E",
+   "brewery": "Boneshire Brew Works",
+   "name": "Flyin' Hawaiian",
+   "style": "Sour - Fruited",
+   "abv": "6.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "E",
+   "brewery": "Boneshire Brew Works",
+   "name": "Galaxy Krush",
+   "style": "IPA - New England / Hazy",
+   "abv": "7.2",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "E",
+   "brewery": "GearHouse Brewing Co.",
+   "name": "Hefe Weight",
+   "style": "Wheat Beer - Hefeweizen",
+   "abv": "5.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "E",
+   "brewery": "GearHouse Brewing Co.",
+   "name": "3 on the Tree",
+   "style": "IPA - American",
+   "abv": "6.5",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "E",
+   "brewery": "Brass Collar Brewing Co.",
+   "name": "Chamomile Field of Vision",
+   "style": "Farmhouse Ale - Saison",
+   "abv": "5.6",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "E",
+   "brewery": "Brass Collar Brewing Co.",
+   "name": "Crimson Drip",
+   "style": "Wheat Beer - Fruited",
+   "abv": null,
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "E",
+   "brewery": "Brass Collar Brewing Co.",
+   "name": "Hop Inferno",
+   "style": "IPA - New England / Hazy",
+   "abv": "6.3",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "E",
+   "brewery": "Rooster Street Brewing",
+   "name": "No Maples Were Harmed",
+   "style": "Strong Ale - Other",
+   "abv": "7.5",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "E",
+   "brewery": "Rooster Street Brewing",
+   "name": "Cheesemonger's Wife",
+   "style": "Saison",
+   "abv": "5.4",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "E",
+   "brewery": "Collusion Tap Works",
+   "name": "Blue Cherry Dole",
+   "style": "Sour - Fruited",
+   "abv": "10.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "E",
+   "brewery": "Collusion Tap Works",
+   "name": "Basic",
+   "style": "IPA - American",
+   "abv": "6.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "E",
+   "brewery": "Collusion Tap Works",
+   "name": "Wunderbar",
+   "style": "Märzen",
+   "abv": "5.4",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "E",
+   "brewery": "Collusion Tap Works",
+   "name": "Screamer",
+   "style": "Stout - Imperial / Double Milk",
+   "abv": "10.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "F",
+   "brewery": "Human Robot Beer",
+   "name": "Hallertau Pils",
+   "style": "Pilsner - German",
+   "abv": "5.2",
+   "ba": "91",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "F",
+   "brewery": "Human Robot Beer",
+   "name": "Festbier",
+   "style": "Festbier",
+   "abv": "5.6",
+   "ba": "90",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "F",
+   "brewery": "Referend Bier Blendery",
+   "name": "The Way of All Flesh (2024)",
+   "style": "Wild Ale - American",
+   "abv": null,
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "F",
+   "brewery": "Referend Bier Blendery",
+   "name": "Pomes Penyeach",
+   "style": "Cider - Graff",
+   "abv": "4.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "F",
+   "brewery": "Wishful Thinking Brewing Co.",
+   "name": "Stay in Motion",
+   "style": "Pale Ale - New England / Hazy",
+   "abv": "5.4",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "F",
+   "brewery": "Wishful Thinking Brewing Co.",
+   "name": "Locale",
+   "style": "Pilsner - Italian",
+   "abv": "5.2",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "F",
+   "brewery": "Isaac's Craft Kitchen & Brewery",
+   "name": "The Hoptimist",
+   "style": "IPA - New England / Hazy",
+   "abv": "7.2",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "F",
+   "brewery": "Isaac's Craft Kitchen & Brewery",
+   "name": "Nightmare on Springwood Drive",
+   "style": "Märzen",
+   "abv": "6.4",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "F",
+   "brewery": "Lolev Beer",
+   "name": "Lupula",
+   "style": "IPA - New England / Hazy",
+   "abv": "7.0",
+   "ba": "89",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "F",
+   "brewery": "Lolev Beer",
+   "name": "Edo",
+   "style": "Lager - Japanese Rice",
+   "abv": "4.5",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "F",
+   "brewery": "Lolev Beer",
+   "name": "TBD",
+   "style": "TBD",
+   "abv": null,
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "F",
+   "brewery": "Lolev Beer",
+   "name": "TBD",
+   "style": "TBD",
+   "abv": null,
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "G",
+   "brewery": "Fourscore Beer Co.",
+   "name": "Falkenbier",
+   "style": "Festbier",
+   "abv": "6.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "G",
+   "brewery": "Fourscore Beer Co.",
+   "name": "Jahmba Flamingo",
+   "style": "Sour - Fruited",
+   "abv": "6.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "G",
+   "brewery": "Michaux Brewing Company",
+   "name": "Fresh Hop Yellow Birch",
+   "style": "IPA - New England / Hazy",
+   "abv": "6.3",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "G",
+   "brewery": "Michaux Brewing Company",
+   "name": "Oktoberfest",
+   "style": "Märzen",
+   "abv": "6.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "G",
+   "brewery": "Michaux Brewing Company",
+   "name": "Dead Woman Hollow",
+   "style": "Pumpkin / Yam Beer",
+   "abv": "7.5",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "G",
+   "brewery": "Michaux Brewing Company",
+   "name": "Pitch Pine",
+   "style": "Porter - American",
+   "abv": "6.5",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "G",
+   "brewery": "Brothers Kershner Brewing Co.",
+   "name": "Bing Bang Boom",
+   "style": "IPA - American",
+   "abv": "6.5",
+   "ba": "86",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "G",
+   "brewery": "Brothers Kershner Brewing Co.",
+   "name": "Johann Pilsner",
+   "style": "Pilsner - German",
+   "abv": "5.2",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "G",
+   "brewery": "Brothers Kershner Brewing Co.",
+   "name": "8ight",
+   "style": "IPA - New England / Hazy",
+   "abv": "8.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "G",
+   "brewery": "Brothers Kershner Brewing Co.",
+   "name": "Autumn",
+   "style": "Märzen",
+   "abv": "5.7",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "G",
+   "brewery": "Requiem Bier",
+   "name": "Konsumer",
+   "style": "Märzen",
+   "abv": "5.5",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "G",
+   "brewery": "Requiem Bier",
+   "name": "Waking Life",
+   "style": "Pale Ale - New England / Hazy",
+   "abv": "7.1",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "G",
+   "brewery": "Requiem Bier",
+   "name": "Thinning Veils",
+   "style": "Blonde / Golden Ale - English",
+   "abv": "4.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "G",
+   "brewery": "Hazel Grove Brewing",
+   "name": "Death and Life",
+   "style": "Lager - Vienna",
+   "abv": "5.1",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "G",
+   "brewery": "Hazel Grove Brewing",
+   "name": "Fishin' for Chickens",
+   "style": "IPA - Imperial / Double New England / Hazy",
+   "abv": "8.2",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "G",
+   "brewery": "Hazel Grove Brewing",
+   "name": "Panda's Choice",
+   "style": "Belgian Tripel",
+   "abv": "9.8",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "H",
+   "brewery": "Mad Chef Craft Brewing",
+   "name": "Madtoberfest",
+   "style": "Märzen",
+   "abv": "5.5",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "H",
+   "brewery": "Mad Chef Craft Brewing",
+   "name": "De La Sol",
+   "style": "Lager - Mexican",
+   "abv": "4.6",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "H",
+   "brewery": "Mad Chef Craft Brewing",
+   "name": "Double Juice",
+   "style": "IPA - Imperial / Double New England / Hazy",
+   "abv": "8.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "H",
+   "brewery": "Mad Chef Craft Brewing",
+   "name": "M.C. Seltzer - Brewha Blast",
+   "style": "Hard Seltzer",
+   "abv": "5.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "H",
+   "brewery": "YAH Brew Co",
+   "name": "Raspberry Swirl Push Pop",
+   "style": "Sour - Fruited",
+   "abv": "6.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "H",
+   "brewery": "YAH Brew Co",
+   "name": "Orange Sherbet Push Pop",
+   "style": "Sour - Fruited",
+   "abv": "6.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "H",
+   "brewery": "YAH Brew Co",
+   "name": "K9 Kolsch",
+   "style": "Kölsch",
+   "abv": null,
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "H",
+   "brewery": "YAH Brew Co",
+   "name": "Frog Splash",
+   "style": "Lager - Mexican",
+   "abv": "4.5",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "H",
+   "brewery": "Schaylor Brewing",
+   "name": "Because Science",
+   "style": "IPA - Imperial / Double",
+   "abv": "8.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "H",
+   "brewery": "Schaylor Brewing",
+   "name": "Pineapple Express",
+   "style": "IPA - Imperial / Double",
+   "abv": "8.5",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "H",
+   "brewery": "Schaylor Brewing",
+   "name": "Upstream",
+   "style": "Cream Ale",
+   "abv": "5.5",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "H",
+   "brewery": "Inspiration Brewing",
+   "name": "Oktoberfest",
+   "style": "Märzen",
+   "abv": "5.7",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "H",
+   "brewery": "Inspiration Brewing",
+   "name": "The Path of Totality",
+   "style": "Stout - Imperial / Double",
+   "abv": "12.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "H",
+   "brewery": "Old Thunder Brewing co.",
+   "name": "False Kingdom",
+   "style": "IPA - American",
+   "abv": "6.8",
+   "ba": "89",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "H",
+   "brewery": "Old Thunder Brewing co.",
+   "name": "Pastime Views",
+   "style": "Pilsner - Czech / Bohemian",
+   "abv": "4.8",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "I",
+   "brewery": "Copper Bonnet",
+   "name": "Orange Crush",
+   "style": "RTD - Other",
+   "abv": "5.5",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "I",
+   "brewery": "Copper Bonnet",
+   "name": "Cran-Fizz",
+   "style": "RTD - Other",
+   "abv": "5.5",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "I",
+   "brewery": "Copper Bonnet",
+   "name": "Lemonade",
+   "style": "RTD - Hard Lemonade",
+   "abv": "5.5",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "I",
+   "brewery": "Copper Bonnet",
+   "name": "Spiked Tea",
+   "style": "RTD - Hard Iced Tea",
+   "abv": "7.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "I",
+   "brewery": "Ever Grain Brewing Co.",
+   "name": "Wicked & Young",
+   "style": "IPA - New England / Hazy",
+   "abv": "7.2",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "I",
+   "brewery": "Ever Grain Brewing Co.",
+   "name": "Sorbetto #108",
+   "style": "Sour - Smoothie / Pastry",
+   "abv": "6.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "I",
+   "brewery": "Ever Grain Brewing Co.",
+   "name": "Exportbier",
+   "style": "Lager - Dortmunder / Export",
+   "abv": "5.7",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "I",
+   "brewery": "Bright Path Brewing",
+   "name": "Money Hollow",
+   "style": "Pale Ale - American",
+   "abv": "4.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "I",
+   "brewery": "Bright Path Brewing",
+   "name": "Marzen",
+   "style": "Märzen",
+   "abv": "4.6",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "I",
+   "brewery": "Oak Tree Orchard",
+   "name": "The Rural Berry",
+   "style": "Cider - Other Fruit",
+   "abv": "5.5",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "I",
+   "brewery": "Oak Tree Orchard",
+   "name": "The Apricot Hop",
+   "style": "Cider - Hopped",
+   "abv": "5.5",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "I",
+   "brewery": "Hidden River Brewing Co.",
+   "name": "Divers",
+   "style": "IPA - Imperial / Double",
+   "abv": "8.7",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "I",
+   "brewery": "Hidden River Brewing Co.",
+   "name": "What It's Like to Feel Alive",
+   "style": "IPA - Imperial / Double",
+   "abv": "8.4",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "J",
+   "brewery": "2MOODS",
+   "name": "Vodka Orange Crush 8% Thrill",
+   "style": "RTD - Other",
+   "abv": "8.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "J",
+   "brewery": "2MOODS",
+   "name": "Vodka Orange Crush 4% Chill",
+   "style": "RTD - Other",
+   "abv": "4.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "J",
+   "brewery": "Cinderlands Beer Co",
+   "name": "Archive Series: Allegheny Altbier",
+   "style": "Altbier - Traditional",
+   "abv": "5.3",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "J",
+   "brewery": "Cinderlands Beer Co",
+   "name": "Soulshine",
+   "style": "IPA - American",
+   "abv": "6.3",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "J",
+   "brewery": "Cinderlands Beer Co",
+   "name": "Cindi's Hard Mountain Tea",
+   "style": "Flavored Malt Beverage",
+   "abv": "6.5",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "J",
+   "brewery": "Hell in a Bucket Brewing",
+   "name": "August West Coast IPA",
+   "style": "IPA - American",
+   "abv": "6.9",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "J",
+   "brewery": "Hell in a Bucket Brewing",
+   "name": "Black Peter IPA",
+   "style": "IPA - Black / Cascadian Dark Ale",
+   "abv": "7.2",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "J",
+   "brewery": "Hell in a Bucket Brewing",
+   "name": "Harry Hood Hefeweizen",
+   "style": "Wheat Beer - Hefeweizen",
+   "abv": "5.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "J",
+   "brewery": "Hell in a Bucket Brewing",
+   "name": "Let It Rocktoberfest",
+   "style": "Märzen",
+   "abv": "5.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "J",
+   "brewery": "BierHall Brewing",
+   "name": "FestBier",
+   "style": "Märzen",
+   "abv": "5.6",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "J",
+   "brewery": "BierHall Brewing",
+   "name": "Tio Poncho",
+   "style": "Lager - Mexican",
+   "abv": "4.8",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "J",
+   "brewery": " Levante Brewing Co. ",
+   "name": "Peak Day",
+   "style": "Lager - Helles",
+   "abv": "4.8",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "J",
+   "brewery": " Levante Brewing Co. ",
+   "name": "Tickle Parts",
+   "style": "IPA - New England / Hazy",
+   "abv": "7.1",
+   "ba": "91",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "J",
+   "brewery": " Levante Brewing Co. ",
+   "name": "Fruit Fetish Naked - Raspberry Jam",
+   "style": "Sour - Fruited Berliner Weisse",
+   "abv": "4.5",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "K",
+   "brewery": "Carbon Copy",
+   "name": "Keen",
+   "style": "Mild - Dark",
+   "abv": "3.5",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "K",
+   "brewery": "Carbon Copy",
+   "name": "Kin",
+   "style": "Lager - Mexican",
+   "abv": "5.4",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "K",
+   "brewery": "Cartel Brewing & Blending",
+   "name": "Coffee Arboreus",
+   "style": "Stout - Milk / Sweet",
+   "abv": "6.7",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "K",
+   "brewery": "Cartel Brewing & Blending",
+   "name": "Symmetric Fruit: Peach Bellini",
+   "style": "Wheat Beer - Fruited",
+   "abv": "4.8",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "K",
+   "brewery": "Big Dog Craft Brewing",
+   "name": "Red Willy",
+   "style": "Red Ale - Irish",
+   "abv": "5.3",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "K",
+   "brewery": "Big Dog Craft Brewing",
+   "name": "Gold Rush",
+   "style": "Pilsner - Czech / Bohemian",
+   "abv": "5.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "K",
+   "brewery": "Appalachian Brewing Co.",
+   "name": "Kipona Fest",
+   "style": "Märzen",
+   "abv": "5.2",
+   "ba": "82",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "K",
+   "brewery": "Appalachian Brewing Co.",
+   "name": "Ve Skale Czech Pilsner",
+   "style": "Pilsner - Czech / Bohemian",
+   "abv": "5.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "K",
+   "brewery": "Appalachian Brewing Co.",
+   "name": "Outta Focus Double IPA",
+   "style": "IPA - Imperial / Double",
+   "abv": "8.1",
+   "ba": "81",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "K",
+   "brewery": "Grist House Craft Brewery",
+   "name": "Space Cactus",
+   "style": "IPA - New England / Hazy",
+   "abv": "7.0",
+   "ba": "92",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "K",
+   "brewery": "Grist House Craft Brewery",
+   "name": "Haus Festbier",
+   "style": "Festbier",
+   "abv": "5.6",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "L",
+   "brewery": "2SP Brewing Co.",
+   "name": "Up & Out",
+   "style": "IPA - American",
+   "abv": "6.0",
+   "ba": "89",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "L",
+   "brewery": "2SP Brewing Co.",
+   "name": "Imperial Pumpkin",
+   "style": "Spiced / Herbed Beer",
+   "abv": "7.1",
+   "ba": "89",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "L",
+   "brewery": "Lancaster Brewing Company",
+   "name": "Mulekick",
+   "style": "RTD - Other",
+   "abv": "8.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "L",
+   "brewery": "Lancaster Brewing Company",
+   "name": "Lemondrop",
+   "style": "RTD - Vodka Seltzer",
+   "abv": "6.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "L",
+   "brewery": "Lancaster Brewing Company",
+   "name": "Creamsicle Krush",
+   "style": "RTD - Other",
+   "abv": "6.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "L",
+   "brewery": "Lancaster Brewing Company",
+   "name": "Wildflower Honey Half & Half",
+   "style": "RTD - Hard Iced Tea",
+   "abv": "6.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "L",
+   "brewery": "Lancaster Brewing Company",
+   "name": "Oktoberfest",
+   "style": "Märzen",
+   "abv": "5.2",
+   "ba": "80",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "L",
+   "brewery": "Lancaster Brewing Company",
+   "name": "Hoppy Pils",
+   "style": "Pilsner - German",
+   "abv": "4.7",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "L",
+   "brewery": "Lancaster Brewing Company",
+   "name": "Baked Pumpkin Ale",
+   "style": "Pumpkin / Yam Beer",
+   "abv": "7.5",
+   "ba": "86",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "L",
+   "brewery": "von C Brewing Co.",
+   "name": "OG Pils Legendary Philly Lager",
+   "style": "Pilsner - Other",
+   "abv": "4.9",
+   "ba": "86",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "L",
+   "brewery": "von C Brewing Co.",
+   "name": "Walking on Clouds",
+   "style": "IPA - New England / Hazy",
+   "abv": "7.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "L",
+   "brewery": "von C Brewing Co.",
+   "name": "Festbier",
+   "style": "Festbier",
+   "abv": "6.6",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "M",
+   "brewery": "Pour Man's Brewing Co.",
+   "name": "Best Friend",
+   "style": "Pilsner - Czech / Bohemian",
+   "abv": "4.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "M",
+   "brewery": "Pour Man's Brewing Co.",
+   "name": "Splash Session",
+   "style": "IPA - Session New England / Hazy",
+   "abv": "4.7",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "M",
+   "brewery": "St. Boniface Craft Brewing",
+   "name": "Pomona (Peach & Mango)",
+   "style": "Sour - Fruited",
+   "abv": "4.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "M",
+   "brewery": "St. Boniface Craft Brewing",
+   "name": "Libation DIPA",
+   "style": "IPA - Imperial / Double",
+   "abv": "8.5",
+   "ba": "87",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "M",
+   "brewery": "Trace Brewing",
+   "name": "Festbier",
+   "style": "Festbier",
+   "abv": "4.5",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "M",
+   "brewery": "Trace Brewing",
+   "name": "Ripple Effect",
+   "style": "IPA - Session",
+   "abv": "5.4",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "M",
+   "brewery": "Rural City Beer Co.",
+   "name": "Mondays",
+   "style": "Lager - American",
+   "abv": "4.2",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "M",
+   "brewery": "Rural City Beer Co.",
+   "name": "In Plain Sight Rural",
+   "style": "IPA - American",
+   "abv": "7.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "M",
+   "brewery": "Rural City Beer Co.",
+   "name": "Radical Raz Lemonade Sour",
+   "style": "Sour - Fruited",
+   "abv": "4.4",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "M",
+   "brewery": "Starview Brews",
+   "name": "Double Nickel",
+   "style": "Red Ale - Irish",
+   "abv": "5.8",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "M",
+   "brewery": "Starview Brews",
+   "name": "Long Level Lager",
+   "style": "Lager - Dortmunder / Export",
+   "abv": "4.7",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "M",
+   "brewery": "Dancing Gnome Brewery",
+   "name": "Lustra",
+   "style": "Pale Ale - New England / Hazy",
+   "abv": "5.8",
+   "ba": "92",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "M",
+   "brewery": "Dancing Gnome Brewery",
+   "name": "Vermiculate",
+   "style": "IPA - American",
+   "abv": "6.8",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "N",
+   "brewery": "Brew Gentlemen",
+   "name": "TBD",
+   "style": "TBD",
+   "abv": null,
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "N",
+   "brewery": "Brew Gentlemen",
+   "name": "TBD",
+   "style": "TBD",
+   "abv": null,
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "N",
+   "brewery": "Brew Gentlemen",
+   "name": "TBD",
+   "style": "TBD",
+   "abv": null,
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "N",
+   "brewery": "South County Brewing Co.",
+   "name": "15th Anniversary",
+   "style": "IPA - Imperial / Double New England / Hazy",
+   "abv": "8.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "N",
+   "brewery": "South County Brewing Co.",
+   "name": "FestiFall",
+   "style": "Märzen",
+   "abv": "5.1",
+   "ba": "85",
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "N",
+   "brewery": "Zeroday Brewing Co.",
+   "name": "Drop Dead Gose - Tequila Barrel Aged",
+   "style": "Sour - Other Gose",
+   "abv": "10.6",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "N",
+   "brewery": "Zeroday Brewing Co.",
+   "name": "Double Rodeo",
+   "style": "IPA - Imperial / Double",
+   "abv": "8.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "N",
+   "brewery": "Twisted Bine Beer Co.",
+   "name": "Oktemberfest",
+   "style": "Märzen",
+   "abv": "5.6",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "N",
+   "brewery": "Twisted Bine Beer Co.",
+   "name": "Main Street V2.0",
+   "style": "Pale Ale - New England / Hazy",
+   "abv": "6.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "N",
+   "brewery": "Jimmy Juice",
+   "name": "Classic Orange Fizzy",
+   "style": "RTD - Vodka Seltzer",
+   "abv": "8.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "N",
+   "brewery": "Jimmy Juice",
+   "name": "Juicy Pineapple Fizzy",
+   "style": "RTD - Vodka Seltzer",
+   "abv": "8.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "N",
+   "brewery": "Jimmy Juice",
+   "name": "The Pink Flamingo",
+   "style": "RTD - Vodka Seltzer",
+   "abv": "8.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "N",
+   "brewery": "Jimmy Juice",
+   "name": "Blanco Ginger Fizzy",
+   "style": "RTD - Tequila Seltzer",
+   "abv": "8.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "N",
+   "brewery": "Jimmy Juice",
+   "name": "The Four Leaf Clover",
+   "style": "RTD - Spritz",
+   "abv": "8.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "N",
+   "brewery": "Jimmy Juice",
+   "name": "Cranberry Citrus Fizzy",
+   "style": "RTD - Vodka Seltzer",
+   "abv": "8.0",
+   "ba": null,
+   "day": "9/26/2026"
+ },
+ {
+   "pod": "DD",
+   "brewery": "Athletic Brewing Co.",
+   "name": "Fruited Fields",
+   "style": "Non-Alcoholic - Shandy / Radler",
+   "abv": "0.5",
+   "ba": null,
+   "day": ""
+ },
+ {
+   "pod": "DD",
+   "brewery": "Athletic Brewing Co.",
+   "name": "Ripe Pursuit",
+   "style": "Non-Alcoholic - Shandy / Radler",
+   "abv": "0.5",
+   "ba": "83",
+   "day": ""
+ },
+ {
+   "pod": "DD",
+   "brewery": "Deschutes Brewery",
+   "name": "Black Butte Non-Alcoholic",
+   "style": "Non-Alcoholic - Porter / Stout",
+   "abv": "0.5",
+   "ba": "87",
+   "day": ""
+ },
+ {
+   "pod": "DD",
+   "brewery": "Deschutes Brewery",
+   "name": "Fresh Squeezed Non-Alcoholic",
+   "style": "Non-Alcoholic - IPA",
+   "abv": "0.5",
+   "ba": "84",
+   "day": ""
+ },
+ {
+   "pod": "DD",
+   "brewery": "Guinness",
+   "name": "Guinness Draught 0.0",
+   "style": "Non-Alcoholic - Porter / Stout",
+   "abv": "0",
+   "ba": "85",
+   "day": ""
+ },
+ {
+   "pod": "DD",
+   "brewery": "Lawson's Finest Liquids",
+   "name": "Sip’N NA IPA",
+   "style": "Non-Alcoholic - IPA",
+   "abv": "0",
+   "ba": null,
+   "day": ""
+ },
+ {
+   "pod": "DD",
+   "brewery": "Samuel Adams",
+   "name": "Non-Alcoholic Octoberfest",
+   "style": "Non-Alcoholic - Festbier / Märzen",
+   "abv": "0.5",
+   "ba": null,
+   "day": ""
+ },
+ {
+   "pod": "DD",
+   "brewery": "Sierra Nevada Brewing Co.",
+   "name": "Trail Pass Hazy IPA",
+   "style": "Non-Alcoholic - IPA",
+   "abv": "0.5",
+   "ba": "82",
+   "day": ""
+ }
+]
   }
  ]
  

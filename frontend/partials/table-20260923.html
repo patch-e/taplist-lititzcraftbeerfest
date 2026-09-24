@@ -48,7 +48,7 @@
             </div>
             <div class="input-group input-group-sm">
                 <span class="input-group-addon">{{filteredBeers.length}}</span>
-                <input type="text" class="form-control" data-ng-model="searchFilter" placeholder="Filter..."/>
+                <input id="filter" type="text" class="form-control" data-ng-model="searchFilter" placeholder="Filter..."/>
                 <span class="input-clear glyphicon glyphicon-remove" data-ng-click="searchFilter = ''" data-ng-class="{'hidden': !searchFilter}"></span>
             </div>
         </div>
