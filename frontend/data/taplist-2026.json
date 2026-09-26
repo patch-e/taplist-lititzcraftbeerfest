@@ -1,7 +1,7 @@
 [
   {
     "title": "tap list",
-    "timestamp": "2026-09-23T12:29:02.995Z",
+    "timestamp": "2026-09-25T14:50:34.617Z",
     "beers": [
  {
    "pod": "A",
@@ -105,19 +105,19 @@
  {
    "pod": "A",
    "brewery": "Stable 12 Brewing Co. ",
-   "name": "Oktober-Kolsch",
-   "style": "Festbier",
-   "abv": "4.8",
+   "name": "Maple Stout",
+   "style": "Stout - American",
+   "abv": "6.5",
    "ba": null,
    "day": "9/26/2026"
  },
  {
    "pod": "A",
    "brewery": "Stable 12 Brewing Co. ",
-   "name": "Morning Mosaic",
+   "name": "Super Mash Brothers",
    "style": "IPA - New England / Hazy",
-   "abv": "6.5",
-   "ba": null,
+   "abv": "6.4",
+   "ba": "87",
    "day": "9/26/2026"
  },
  {
@@ -330,19 +330,10 @@
  {
    "pod": "C",
    "brewery": "Other Half Brewing Co.",
-   "name": "Green City",
+   "name": "Whiz",
    "style": "IPA - New England / Hazy",
-   "abv": "7.0",
-   "ba": "94",
-   "day": "9/26/2026"
- },
- {
-   "pod": "C",
-   "brewery": "Other Half Brewing Co.",
-   "name": "Forever Ever",
-   "style": "IPA - Session New England / Hazy",
-   "abv": "4.7",
-   "ba": "91",
+   "abv": "6.5",
+   "ba": "90",
    "day": "9/26/2026"
  },
  {
@@ -357,10 +348,10 @@
  {
    "pod": "C",
    "brewery": "Other Half Brewing Co.",
-   "name": "All In",
-   "style": "Non-Alcoholic - IPA",
-   "abv": "0.5",
-   "ba": null,
+   "name": "All Citra Everything",
+   "style": "IPA - Imperial / Double New England / Hazy",
+   "abv": "8.5",
+   "ba": "96",
    "day": "9/26/2026"
  },
  {
@@ -638,7 +629,7 @@
    "brewery": "Isaac's Craft Kitchen & Brewery",
    "name": "Nightmare on Springwood Drive",
    "style": "Märzen",
-   "abv": "6.4",
+   "abv": "6.0",
    "ba": null,
    "day": "9/26/2026"
  },
@@ -654,27 +645,27 @@
  {
    "pod": "F",
    "brewery": "Lolev Beer",
-   "name": "Edo",
-   "style": "Lager - Japanese Rice",
-   "abv": "4.5",
+   "name": "Priam",
+   "style": "IPA - New England / Hazy",
+   "abv": "7.0",
    "ba": null,
    "day": "9/26/2026"
  },
  {
    "pod": "F",
    "brewery": "Lolev Beer",
-   "name": "TBD",
-   "style": "TBD",
-   "abv": null,
+   "name": "Orca",
+   "style": "IPA - Triple New England / Hazy",
+   "abv": "10.1",
    "ba": null,
    "day": "9/26/2026"
  },
  {
    "pod": "F",
    "brewery": "Lolev Beer",
-   "name": "TBD",
-   "style": "TBD",
-   "abv": null,
+   "name": "Aardwolf",
+   "style": "IPA - Imperial / Double New England / Hazy",
+   "abv": "8.1",
    "ba": null,
    "day": "9/26/2026"
  },
@@ -915,9 +906,9 @@
  {
    "pod": "H",
    "brewery": "Schaylor Brewing",
-   "name": "Upstream",
-   "style": "Cream Ale",
-   "abv": "5.5",
+   "name": "Schaylorfest",
+   "style": "Märzen",
+   "abv": "6.1",
    "ba": null,
    "day": "9/26/2026"
  },
@@ -1077,7 +1068,7 @@
  {
    "pod": "J",
    "brewery": "2MOODS",
-   "name": "Vodka Orange Crush 8% Thrill",
+   "name": "Vodka Orange Crush Thrill",
    "style": "RTD - Other",
    "abv": "8.0",
    "ba": null,
@@ -1086,7 +1077,7 @@
  {
    "pod": "J",
    "brewery": "2MOODS",
-   "name": "Vodka Orange Crush 4% Chill",
+   "name": "Vodka Orange Crush Chill",
    "style": "RTD - Other",
    "abv": "4.0",
    "ba": null,
@@ -1419,7 +1410,7 @@
  {
    "pod": "M",
    "brewery": "Pour Man's Brewing Co.",
-   "name": "Splash Session",
+   "name": "Splash",
    "style": "IPA - Session New England / Hazy",
    "abv": "4.7",
    "ba": null,
@@ -1527,27 +1518,18 @@
  {
    "pod": "N",
    "brewery": "Brew Gentlemen",
-   "name": "TBD",
-   "style": "TBD",
-   "abv": null,
-   "ba": null,
+   "name": "General Braddock's",
+   "style": "IPA - New England / Hazy",
+   "abv": "5.2",
+   "ba": "95",
    "day": "9/26/2026"
  },
  {
    "pod": "N",
    "brewery": "Brew Gentlemen",
-   "name": "TBD",
-   "style": "TBD",
-   "abv": null,
-   "ba": null,
-   "day": "9/26/2026"
- },
- {
-   "pod": "N",
-   "brewery": "Brew Gentlemen",
-   "name": "TBD",
-   "style": "TBD",
-   "abv": null,
+   "name": "Muchos Mahalos",
+   "style": "Fruit Beer",
+   "abv": "5.2",
    "ba": null,
    "day": "9/26/2026"
  },
